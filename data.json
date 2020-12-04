@@ -1,0 +1,2396 @@
+[ 
+    {
+        "from": "John Lennon",
+        "to": "Bill O'Reilly",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "John Lennon",
+        "to": "George Bush",
+        "type": "mention-doesnt-exist",
+        "label": "I wonder how much George Bush paid you to suck his dick"
+    }, {
+        "from": "Bill O'Reilly",
+        "to": "Paul McCartney",
+        "type": "mention-doesnt-exist",
+        "label": "You're Paul McCartney's bitch, with less talent than Ringo"
+    }, {
+        "from": "Bill O'Reilly",
+        "to": "Ringo",
+        "type": "mention-doesnt-exist",
+        "label": "You're Paul McCartney's bitch, with less talent than Ringo"
+    }, {
+        "from": "Bill O'Reilly",
+        "to": "Yoko Ono",
+        "type": "mention-doesnt-exist",
+        "label": "And I'd rather suck George Bush's dick than Yoko Ono's"
+    }, {
+        "from": "Bill O'Reilly",
+        "to": "Don Cheadle",
+        "type": "mention-doesnt-exist",
+        "label": "Cause I'm evil, heart blacker than Don Cheadle"
+    }, {
+        "from": "Darth Vader",
+        "to": "Adolf Hitler",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Rick Moranis",
+        "type": "mention-doesnt-exist",
+        "label": "I preferred you in Spaceballs-the Rick Moranis version!"
+    }, {
+        "from": "Darth Vader",
+        "to": "Napoleon Bonaparte",
+        "type": "mention-didnt-exist",
+        "label": "You're a pissed off little prick with a Napoleon dick"
+    }, {
+        "from": "Abe Lincoln",
+        "to": "Chuck Norris",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Chuck Norris",
+        "to": "John Wilkes Booth",
+        "type": "mention-doesnt-exist",
+        "label": "My raps will blow your mind like a verbal John Wilkes Booth"
+    }, {
+        "from": "Abe Lincoln",
+        "to": "John McCain",
+        "type": "mention-doesnt-exist",
+        "label": "I've got my face on the side of a mountain, you voted for John McCain"
+    }, {
+        "from": "Sarah Palin",
+        "to": "Lady Gaga",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Lady Gaga",
+        "to": "Michael Jackson",
+        "type": "mention-didnt-exist",
+        "implicit": true,
+        "label": "With the most dysfunctional family since the Jackson fucking Five"
+    }, {
+        "from": "Lady Gaga",
+        "to": "Papa Smurf",
+        "type": "mention-doesnt-exist",
+        "implicit": true,
+        "label": "I think I'd rather elect a smurf than vote for you"
+    }, {
+        "from": "Sarah Palin",
+        "to": "Madonna",
+        "type": "mention-doesnt-exist",
+        "label": "Everything you do is just a rerun of Madonna"
+    }, {
+        "from": "Lady Gaga",
+        "to": "John McCain",
+        "type": "mention-doesnt-exist",
+        "label": "History will regret you like John McCain"
+    }, {
+        "from": "Hulk Hogan",
+        "to": "Kim Jong-Il",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Hulk Hogan",
+        "to": "Macho Man",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Kim Jong-Il",
+        "to": "Macho Man",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Kim Jong-Il",
+        "to": "Ric Flair",
+        "type": "mention-doesnt-exist",
+        "label": "I'm coming at you like the Asian Ric Flair"
+    }, {
+        "from": "Kim Jong-Il",
+        "to": "Barbie",
+        "type": "mention-doesnt-exist",
+        "label": "Your whole fam's a bunch of Barbies, dude"
+    }, {
+        "from": "Hulk Hogan",
+        "to": "Sonic the Hedgehog",
+        "type": "mention-doesnt-exist",
+        "label": "You look like Sonic the Hedgehog's mother"
+    }, {
+        "from": "Hulk Hogan",
+        "to": "South Park",
+        "type": "mention-doesnt-exist",
+        "label": "I'll hang you from the ropes like South Park puppet show"
+    }, {
+        "from": "Hulk Hogan",
+        "to": "Laura Ling",
+        "type": "mention-doesnt-exist",
+        "label": "I'll choke hold you hostage like Laura Ling"
+    }, {
+        "from": "Justin Bieber",
+        "to": "Beethoven",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Justin Bieber",
+        "to": "Chewbacca",
+        "type": "mention-doesnt-exist",
+        "label": "Man it looks like Chewbacca wiped his ass on your head"
+    }, {
+        "from": "Justin Bieber",
+        "to": "Michael Jackson",
+        "type": "mention-didnt-exist",
+        "label": "I'm the next Michael Jackson, you smell like Betty White"
+    }, {
+        "from": "Justin Bieber",
+        "to": "Betty White",
+        "type": "mention-doesnt-exist",
+        "label": "I'm the next Michael Jackson, you smell like Betty White"
+    }, {
+        "from": "Beethoven",
+        "to": "Bach",
+        "type": "mention-doesnt-exist",
+        "label": "Ask Bach, I got more cock than Smith and Wesson"
+    }, {
+        "from": "Justin Bieber",
+        "to": "Kim Kardashian",
+        "type": "mention-doesnt-exist",
+        "label": "I got Kim Kardashian in my bed backstage"
+    }, {
+        "from": "Beethoven",
+        "to": "Usher",
+        "type": "mention-doesnt-exist",
+        "label": "You wanna be a little white Usher? Here, show them their seats!"
+    }, {
+        "from": "Albert Einstein",
+        "to": "Stephen Hawking",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Albert Einstein",
+        "to": "Wall-E",
+        "type": "mention-doesnt-exist",
+        "label": "You sound like WALL-E having sex with a Speak & Spell"
+    }, {
+        "from": "Stephen Hawking",
+        "to": "Moses",
+        "type": "mention-actor",
+        "label": "I'm the Snoop Dogg of Science"
+    }, {
+        "from": "Stephen Hawking",
+        "to": "Carl Sagan",
+        "type": "mention-doesnt-exist",
+        "label": "I'm about to bake raps from scratch like Carl Sagan"
+    }, {
+        "from": "Genghis Khan",
+        "to": "The Easter Bunny",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Genghis Khan",
+        "to": "Khan",
+        "type": "mention-doesnt-exist",
+        "label": "Your bunny ass about to feel the wrath of Khan"
+    }, {
+        "from": "Napoleon Bonaparte",
+        "to": "Napoleon Dynamite",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Napoleon Dynamite",
+        "to": "Horatio Nelson",
+        "type": "mention-doesnt-exist",
+        "label": "I got skills I'll put you in a half Horatio Nelson"
+    }, {
+        "from": "Napoleon Dynamite",
+        "to": "Boris Yeltsin",
+        "type": "mention-doesnt-exist",
+        "label": "You're the ugliest thing that's ever failed in Russia since Boris Yeltsin"
+    }, {
+        "from": "Napoleon Bonaparte",
+        "to": "Tina the Llama",
+        "type": "mention-doesnt-exist",
+        "label": "I spit at you harder than Tina the Llama"
+    }, {
+        "from": "Napoleon Bonaparte",
+        "to": "Lafawnduh",
+        "type": "mention-doesnt-exist",
+        "label": "Smacking your face till your lips swell up like Lafawnduh's"
+    }, {
+        "from": "Napoleon Bonaparte",
+        "to": "Uncle Rico",
+        "type": "mention-doesnt-exist",
+        "label": "Before I toss you over the mountain like the dreams of Uncle Rico!"
+    }, {
+        "from": "Napoleon Bonaparte",
+        "to": "Pedro",
+        "type": "mention-doesnt-exist",
+        "label": "After this, your buddy Pedro will be voting for me!"
+    }, {
+        "from": "Billy Mays",
+        "to": "Ben Franklin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Billy Mays",
+        "to": "The ShamWow Guy",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ben Franklin",
+        "to": "The ShamWow Guy",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ben Franklin",
+        "to": "Rick James",
+        "type": "mention-doesnt-exist",
+        "label": "You couldn't sell Rick James a bag of crack, you're out of practice"
+    }, {
+        "from": "Ben Franklin",
+        "to": "Arthur Miller",
+        "type": "mention-doesnt-exist",
+        "label": "Call me Arthur Miller son, cause it's death of a salesman"
+    }, {
+        "from": "Gandalf",
+        "to": "Dumbledore",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Gandalf",
+        "to": "Tom Riddle",
+        "type": "mention-doesnt-exist",
+        "label": "Tom Riddle me this you bitch"
+    }, {
+        "from": "Gandalf",
+        "to": "Snape",
+        "type": "mention-doesnt-exist",
+        "label": "You fool, you got Snaped"
+    },  {
+        "from": "Dumbledore",
+        "to": "Carlos Mencia",
+        "type": "mention-doesnt-exist",
+        "label": "Mines of Moria? Ha! More like Mind of Mencia"
+    }, {
+        "from": "Dr Seuss",
+        "to": "William Shakespeare",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Cat in the Hat",
+        "to": "William Shakespeare",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "William Shakespeare",
+        "to": "Thing 1 and Thing 2",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "William Shakespeare",
+        "to": "Soulja Boy",
+        "type": "mention-doesnt-exist",
+        "label": "You're an old white Soulja Boy who has no swag"
+    }, {
+        "from": "William Shakespeare",
+        "to": "Soulja Boy",
+        "type": "mention-doesnt-exist",
+        "label": "You're an old white Soulja Boy who has no swag"
+    }, {
+        "from": "William Shakespeare",
+        "to": "Stephanie Meyer",
+        "type": "mention-doesnt-exist",
+        "implicit": true,
+        "label": "I bet you wrote The Twilight books too!"
+    }, {
+        "from": "William Shakespeare",
+        "to": "John Lennon",
+        "type": "mention",
+        "implicit": true,
+        "label": "I'm switching up my style like the Beatles with my pieces"
+    }, {
+        "from": "William Shakespeare",
+        "to": "Jim Henson",
+        "type": "mention-didnt-exist",
+        "implicit": true,
+        "label": "You think your new book might include a trisyllabic meter and some ghetto Muppet creatures"
+    }, {
+        "from": "Cat in the Hat",
+        "to": "Horton",
+        "type": "mention-doesnt-exist",
+        "label": "Even Horton doesn't want to hear you"
+    }, {
+        "from": "Cat in the Hat",
+        "to": "MacBeth",
+        "type": "mention-doesnt-exist",
+        "label": "Looking like the end of MacBeth"
+    },  {
+        "from": "Mr. T",
+        "to": "Mr. Rogers",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Mr. T",
+        "to": "Bill Cosby",
+        "type": "mention-didnt-exist",
+        "label": "Bill Cosby wants his sweater"
+    }, {
+        "from": "Mr. T",
+        "to": "Henrietta",
+        "type": "mention-doesnt-exist",
+        "label": "The only pussy cat you ever seen is on Henrietta, SUCKA!"
+    }, {
+        "from": "Mr. T",
+        "to": "Mr. McFeely",
+        "type": "mention-doesnt-exist",
+        "label": "And your Mr. McFeely delivers a lot more than letters"
+    }, {
+        "from": "Mr. Rogers",
+        "to": "Captain Crunch",
+        "type": "mention-doesnt-exist",
+        "label": "I'm not the one with my face on some whack ass Captain Crunch"
+    }, {
+        "from": "Captain Kirk",
+        "to": "Christopher Columbus",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Christopher Columbus",
+        "to": "Khan",
+        "type": "mention-doesnt-exist",
+        "label": "My rhymes will burrow in your ears like The Wrath of Khan"
+    }, {
+        "from": "Christopher Columbus",
+        "to": "Isabela I",
+        "type": "mention-doesnt-exist",
+        "label": "We'll see how Isabella likes my Captain's log"
+    }, {
+        "from": "Christopher Columbus",
+        "to": "Sulu",
+        "type": "mention-doesnt-exist",
+        "label": "I've got a neck chop for Spock I'll put my sword through Sulu"
+    }, {
+        "from": "Christopher Columbus",
+        "to": "Spock",
+        "type": "mention-doesnt-exist",
+        "label": "I've got a neck chop for Spock I'll put my sword through Sulu"
+    }, {
+        "from": "Nice Peter",
+        "to": "Epiclloyd",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Epiclloyd",
+        "to": "Bill O'Reilly",
+        "type": "mention",
+        "label": "You and Bill O'Reilly can both suck my dick!"
+    }, {
+        "from": "Nice Peter",
+        "to": "Chuck Norris",
+        "type": "mention",
+        "label": "You've got as much music talent as Chuck fucking Norris"
+    }, {
+        "from": "Nice Peter",
+        "to": "Bette Midler",
+        "type": "mention-doesnt-exist",
+        "label": "Take the mustache away, you look more like Bette Midler"
+    }, {
+        "from": "Nice Peter",
+        "to": "Gollum",
+        "type": "mention-doesnt-exist",
+        "label": "It's like I'm battle rapping a fat version of Gollum"
+    }, {
+        "from": "Epiclloyd",
+        "to": "KassemG",
+        "type": "mention-doesnt-exist",
+        "label": "You were nothing before you rode up on KassemG's jock"
+    }, {
+        "from": "Darth Vader",
+        "to": "Chewbacca",
+        "type": "mention-doesnt-exist",
+        "label": "Roar like Chewbacca"
+    }, {
+        "from": "Darth Vader",
+        "to": "Mufasa",
+        "type": "mention-doesnt-exist",
+        "label": "The voice of Mufasa"
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Palpatine",
+        "type": "mention-doesnt-exist",
+        "label": "Not surprising coming from the Emperor's whore"
+    }, {
+        "from": "Darth Vader",
+        "to": "Indiana Jones",
+        "type": "mention-doesnt-exist",
+        "label": "Ask Indiana Jones who the fuck I am"
+    }, {
+        "from": "Master Chief",
+        "to": "Leonidas",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Master Chief",
+        "to": "Fabio Flintstone",
+        "type": "mention-doesnt-exist",
+        "label": "You've got a bad case of no shirt there, Fabio Flintstone."
+    }, {
+        "from": "Mario Bros.",
+        "to": "Wright Bros.",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Wright Bros.",
+        "to": "Donkey Kong",
+        "type": "mention-doesnt-exist",
+        "label": "We stayed up all night playing Donkey Kong"
+    }, {
+        "from": "Wright Bros.",
+        "to": "Princess Peach",
+        "type": "mention-doesnt-exist",
+        "label": "Cause your princess is in our castle now. (Yeah she's gone.)"
+    }, {
+        "from": "Wright Bros.",
+        "to": "Bowser",
+        "type": "mention-doesnt-exist",
+        "label": "Spit flames out our mouth like our name was Bowser"
+    }, {
+        "from": "Michael Jackson",
+        "to": "Elvis Presley",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Michael Jackson",
+        "to": "Ed Sullivan",
+        "type": "mention-doesnt-exist",
+        "label": "Call me Ed Sullivan, shoot you from the waist up"
+    }, {
+        "from": "Elvis Presley",
+        "to": "Tito",
+        "type": "mention-doesnt-exist",
+        "label": "Even Tito looks better than you"
+    }, {
+        "from": "Cleopatra",
+        "to": "Marilyn Monroe",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "KassemG",
+        "type": "mention-doesnt-exist",
+        "label": "This ugly hag and KassemG got matching noses"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "Moses",
+        "type": "mention-didnt-exist",
+        "label": "Overthrow pharaohs who oppose me like Moses"
+    }, {
+        "from": "Cleopatra",
+        "to": "Joe DiMaggio",
+        "type": "mention-doesnt-exist",
+        "label": "Even Joe DiMaggio took a swing in your batter's box"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "Marlon Brando",
+        "type": "mention-doesnt-exist",
+        "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "John Kennedy",
+        "type": "mention-doesnt-exist",
+        "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "Bob Kennedy",
+        "type": "mention-doesnt-exist",
+        "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "Mark Antony",
+        "type": "mention-doesnt-exist",
+        "label": "Gettin' Lo on Mark Antony, tossing Caesar's salad"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "Julius Caesar",
+        "type": "mention-didnt-exist",
+        "label": "Gettin' Lo on Mark Antony, tossing Caesar's salad"
+    }, {
+        "from": "Steve Jobs",
+        "to": "Bill Gates",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Steve Jobs",
+        "to": "Melinda Gates",
+        "type": "mention-doesnt-exist",
+        "label": "And the GUI that Melinda uses"
+    }, {
+        "from": "Steve Jobs",
+        "to": "John Lennon",
+        "type": "mention",
+        "implicit": true,
+        "label": "A man uses the machines I built to listen to the Beatles while he relaxes"
+    }, {
+        "from": "Bill Gates",
+        "to": "Steve Wozniak",
+        "type": "mention-doesnt-exist",
+        "label": "Did your fat beard Wozniak write these raps for you too?"
+    }, {
+        "from": "Bill Gates",
+        "to": "HAL 9000",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "HAL 9000",
+        "to": "Terminator",
+        "type": "mention-didnt-exist",
+        "label": "Hasta la vista, like the Terminator told ya "
+    }, {
+        "from": "Frank Sinatra",
+        "to": "Freddie Mercury",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Frank Sinatra",
+        "to": "Sammy Davis",
+        "type": "mention-doesnt-exist",
+        "label": "I love the coloreds and the queers, just ask Sammy Davis"
+    }, {
+        "from": "Frank Sinatra",
+        "to": "Sammy Davis",
+        "type": "mention-doesnt-exist",
+        "label": "I love the coloreds and the queers, just ask Sammy Davis"
+    }, {
+        "from": "Barack Obama",
+        "to": "Mitt Romney",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Barack Obama",
+        "to": "Abe Lincoln",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Abe Lincoln",
+        "to": "Mitt Romney",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Barack Obama",
+        "to": "Mister Fantastic",
+        "type": "mention-doesnt-exist",
+        "label": "You've got the momma jeans, and a Mister Fantastic face"
+    }, {
+        "from": "Mitt Romney",
+        "to": "Patrick Ewing",
+        "type": "mention-doesnt-exist",
+        "label": "You got hitched to the female version of Patrick Ewing!"
+    }, {
+        "from": "Doc Brown",
+        "to": "Doctor Who",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Marty McFly",
+        "to": "Doctor Who",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Doctor Who",
+        "to": "Albert Einstein",
+        "type": "mention",
+        "label": "The wannabe Einstein minus the 'stache"
+    }, {
+        "from": "Bruce Lee",
+        "to": "Clint Eastwood",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Bruce Lee",
+        "to": "Chuck Norris",
+        "type": "mention",
+        "label": "I'm the king of nunchucks, I fucked up Chuck Norris"
+    }, {
+        "from": "Clint Eastwood",
+        "to": "Ringo",
+        "type": "mention-doesnt-exist",
+        "label": "You're in the gym too much Ringo, perfecting kicks"
+    }, {
+        "from": "Batman",
+        "to": "Sherlock Holmes",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Batman",
+        "to": "Dr. Watson",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Robin",
+        "to": "Sherlock Holmes",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Robin",
+        "to": "Dr. Watson",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Batman",
+        "to": "Scooby Doo",
+        "type": "mention-doesnt-exist",
+        "label": "While you and Velma here are solving Scooby Doo mysteries"
+    }, {
+        "from": "Robin",
+        "to": "Irene Adler",
+        "type": "mention-doesnt-exist",
+        "label": "Gotta secret about your homegirl Irene Adler"
+    }, {
+        "from": "Robin",
+        "to": "Arthur Conan Doyle",
+        "type": "mention-doesnt-exist",
+        "label": "Holy Conan Doyle, let's get 'em! Aw God damn!"
+    }, {
+        "from": "Batman",
+        "to": "Alfred",
+        "type": "mention-doesnt-exist",
+        "label": "I had Alfred read your books, he told me they suck"
+    }, {
+        "from": "Moses",
+        "to": "Santa Claus",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Santa Claus",
+        "to": "Obi-Wan Kenobi",
+        "type": "mention-doesnt-exist",
+        "label": "Sweet robes, Obi-wan-too many days in the sun,"
+    }, {
+        "from": "Moses",
+        "to": "Papa Smurf",
+        "type": "mention-doesnt-exist",
+        "label": "But he never mentioned a fat-ass Papa Smurf"
+    }, {
+        "to": "Eve",
+        "from": "Adam",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Gandhi",
+        "to": "Martin Luther King Jr.",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Gandhi",
+        "to": "Martin Luther",
+        "type": "mention-doesnt-exist",
+        "label": "Leave your thoughts on the door like the real Martin Luther"
+    }, {
+        "from": "Nikola Tesla",
+        "to": "Thomas Edison",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Babe Ruth",
+        "to": "Lance Armstrong",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Babe Ruth",
+        "to": "Olsen Twins",
+        "type": "mention-doesnt-exist",
+        "label": "Third base with an Olsen twin, that's the sin, face it!"
+    }, {
+        "from": "Babe Ruth",
+        "to": "Sheryl Crow",
+        "type": "mention-doesnt-exist",
+        "label": "You look tired, kid, you've got Sheryl crows feet eyes"
+    }, {
+        "from": "Mozart",
+        "to": "Skrillex",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Skrillex",
+        "to": "Michael Jackson",
+        "type": "mention",
+        "implicit": true,
+        "label": "Your daddy issues make the Jackson 5 look like the Family Circus!"
+    }, {
+        "from": "Mozart",
+        "to": "Steve Urkel",
+        "type": "mention-doesnt-exist",
+        "label": "You're like an emo Steve Urkel and you (ooh) reek of dead mouse!"
+    }, {
+        "from": "Rasputin",
+        "to": "Stalin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Rasputin",
+        "to": "Lenin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Rasputin",
+        "to": "Gorbachev",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Rasputin",
+        "to": "Putin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stalin",
+        "to": "Lenin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stalin",
+        "to": "Gorbachev",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stalin",
+        "to": "Putin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Lenin",
+        "to": "Gorbachev",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Lenin",
+        "to": "Putin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Gorbachev",
+        "to": "Putin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Rasputin",
+        "to": "Wario",
+        "type": "mention-doesnt-exist",
+        "label": "Cool mustache, Wario"
+    }, {
+        "from": "Rasputin",
+        "to": "Wario",
+        "type": "mention-doesnt-exist",
+        "label": "Cool mustache, Wario"
+    }, {
+        "from": "Rasputin",
+        "to": "Superman",
+        "type": "mention",
+        "implicit": true,
+        "label": "If you're the man of steel I spit kryptonite!"
+    }, {
+        "from": "Stalin",
+        "to": "Adolf Hitler",
+        "type": "mention",
+        "label": "Drop the hammer on you harder than I bitch slapped Hitler"
+    }, {
+        "from": "Stalin",
+        "to": "Trotsky",
+        "type": "mention-doesnt-exist",
+        "label": "Pride of Lenin took Trotsky out of the picture"
+    }, {
+        "from": "Lenin",
+        "to": "Frankenstein",
+        "type": "mention-doesnt-exist",
+        "label": "Let me start with you there, Frankenstein!"
+    }, {
+        "from": "Lenin",
+        "to": "R.L. Stine",
+        "type": "mention-doesnt-exist",
+        "label": "Looking like something out of R.L. Stine"
+    }, {
+        "from": "Lenin",
+        "to": "Karl Marx",
+        "type": "mention-doesnt-exist",
+        "label": "And stopped the greatest revolution since the birth of Marx!"
+    }, {
+        "from": "Gorbachev",
+        "to": "Ronald Reagan",
+        "type": "mention-doesnt-exist",
+        "label": "Shook hands with both Ronalds; Reagan and McDonald's, no doubt!"
+    }, {
+        "from": "Gorbachev",
+        "to": "Ronald McDonald",
+        "type": "mention-didnt-exist",
+        "label": "Shook hands with both Ronalds; Reagan and McDonald's, no doubt!"
+    }, {
+        "from": "Gorbachev",
+        "to": "Baryshnikov",
+        "type": "mention-doesnt-exist",
+        "label": "I had the balls to let Baryshnikov dance, playa!"
+    }, {
+        "from": "Gorbachev",
+        "to": "Kool-Aid Man",
+        "type": "mention-doesnt-exist",
+        "label": "Torn down that wall like the Kool-Aid Man (Oh yeah!)"
+    }, {
+        "from": "Darth Vader",
+        "to": "Abe Lincoln",
+        "type": "mention-bg",
+        "label": ""
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Abe Lincoln",
+        "type": "mention-bg",
+        "label": ""
+    }, {
+        "from": "Darth Vader",
+        "to": "Stephen Hawking",
+        "type": "mention-bg",
+        "label": ""
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Stephen Hawking",
+        "type": "mention-bg",
+        "label": ""
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Boba Fett",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Darth Vader",
+        "to": "Boba Fett",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Mickey Mouse",
+        "type": "mention-doesnt-exist",
+        "label": " I beat you twice, you sellout, now you bow down to Mickey Mouse"
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Napoleon Bonaparte",
+        "type": "mention",
+        "label": " You dumb motherfucker, didn't Napoleon let you know?"
+    }, {
+        "from": "Adolf Hitler",
+        "to": "Goofy",
+        "type": "mention-doesnt-exist",
+        "label": " I'll take you and your new boyfriend Goofy and all your spermy soldier guys!"
+    }, {
+        "from": "Blackbeard",
+        "to": "Al Capone",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Blackbeard",
+        "to": "Julius Caesar",
+        "type": "mention-didnt-exist",
+        "label": "Beef with me? Please! I'm the high seas Caesar"
+    }, {
+        "from": "Al Capone",
+        "to": "Captain Crunch",
+        "type": "mention-doesnt-exist",
+        "label": "I'm a busy man, Captain Crunch, I'll make this quick"
+    }, {
+        "from": "Al Capone",
+        "to": "Johnny Depp",
+        "type": "mention-doesnt-exist",
+        "label": " I'm ruining pirates faster than Johnny Depp did"
+    }, {
+        "from": "Al Capone",
+        "to": "Edward Kenway",
+        "type": "mention-doesnt-exist",
+        "label": " I'm the emcee assassin, slash like Edward Kenway"
+    }, {
+        "from": "Miley Cyrus",
+        "to": "Joan Of Arc",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Miley Cyrus",
+        "to": "Britney Spears",
+        "type": "mention-doesnt-exist",
+        "label": " It's Miley Cyrus, I'm the hottest thing since Britney, Bitch!"
+    }, {
+        "from": "Joan Of Arc",
+        "to": "Katniss Everdeen",
+        "type": "mention-doesnt-exist",
+        "label": " Je suis la fille en feu, call me Katniss Everdeen"
+    }, {
+        "from": "Joan Of Arc",
+        "to": "Wiz Khalifa",
+        "type": "mention-doesnt-exist",
+        "label": " Your highest calling was a text from Wiz Khalifa"
+    }, {
+        "from": "Bob Ross",
+        "to": "Pablo Picasso",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Muhammad Ali",
+        "type": "mention-didnt-exist",
+        "label": " I am the greatest, the modern art Muhammad Ali"
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Salvador Dali",
+        "type": "mention-doesnt-exist",
+        "label": "I melt faces, call me MC Dali"
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Nickelback",
+        "type": "mention-doesnt-exist",
+        "label": " You're the PBS version of Nickelback"
+    }, {
+        "from": "Bob Ross",
+        "to": "Jackson Pollock",
+        "type": "mention-doesnt-exist",
+        "label": " Call me Jackson Pollock, because I splatter MCs"
+    }, {
+        "from": "Michael Jordan",
+        "to": "Muhammad Ali",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Michael Jordan",
+        "to": "Lebron James",
+        "type": "mention-doesnt-exist",
+        "label": " Cause you've got as much chance of beating me as Lebron"
+    }, {
+        "from": "Muhammad Ali",
+        "to": "Dennis Rodman",
+        "type": "mention-doesnt-exist",
+        "label": " You're the only Bull that's uglier than Rodman"
+    }, {
+        "from": "Muhammad Ali",
+        "to": "Gandalf",
+        "type": "mention",
+        "label": " When you came back a Wizard like Gandalf the Black!"
+    }, {
+        "from": "Muhammad Ali",
+        "to": "Adolf Hitler",
+        "type": "mention",
+        "label": "I'll whoop your face back to your Hitler mustache"
+    }, {
+        "from": "Michael Jordan",
+        "to": "Scottie Pippen",
+        "type": "mention-doesnt-exist",
+        "label": " I would pass the mic to Pippen but I'm not done scoring"
+    }, {
+        "from": "Michael Jordan",
+        "to": "George Foreman",
+        "type": "mention-doesnt-exist",
+        "label": " Stay all up in your grill like my name was George Foreman"
+    }, {
+        "from": "Michael Jordan",
+        "to": "Sonny Liston",
+        "type": "mention-doesnt-exist",
+        "label": " I'll leave you like Liston, flat on your ass!"
+    }, {
+        "from": "Muhammad Ali",
+        "to": "Reggie Miller",
+        "type": "mention-doesnt-exist",
+        "label": " I saw you slapping Reggie Miller, boy, what's wrong with you?"
+    }, {
+        "from": "Muhammad Ali",
+        "to": "Ronald McDonald",
+        "type": "mention-didnt-exist",
+        "implicit": true,
+        "label": " McDonalds and underpants as corporate backers"
+    }, {
+        "from": "Donald Trump",
+        "to": "Ebenezer Scrooge",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "J. P. Morgan",
+        "to": "Ebenezer Scrooge",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Kanye West",
+        "to": "Ebenezer Scrooge",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Death",
+        "to": "Ebenezer Scrooge",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Donald Trump",
+        "to": "Charles Dickens",
+        "type": "mention-doesnt-exist",
+        "label": "Wake up, Scrooge! I'm about to take a Dickens of a dump"
+    }, {
+        "from": "Donald Trump",
+        "to": "Tiny Timmy",
+        "type": "mention-doesnt-exist",
+        "label": " Keep your TB from Tiny Timmy away from me, don't even touch me"
+    }, {
+        "from": "Donald Trump",
+        "to": "Jay-Z",
+        "type": "mention-doesnt-exist",
+        "label": " Even Jay-Z knows what a pimp I am"
+    }, {
+        "from": "Donald Trump",
+        "to": "2 Chainz",
+        "type": "mention-doesnt-exist",
+        "label": " Cause I'm out, I got my own fucking problems, call me 2 Chainz"
+    }, {
+        "from": "J. P. Morgan",
+        "to": "Sebastian (The Little Mermaid)",
+        "type": "mention-doesnt-exist",
+        "label": " You should have made like Sebastian, and kissed the girl"
+    }, {
+        "from": "Kanye West",
+        "to": "Aziz Ansari",
+        "type": "mention-doesnt-exist",
+        "label": " Even I can make time for Azizy"
+    }, {
+        "from": "Death",
+        "to": "Tiny Timmy",
+        "type": "mention-doesnt-exist",
+        "label": " With Tiny Tim's innocent blood on your hands"
+    }, {
+        "from": "Rick Grimes",
+        "to": "Walter White",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Rick Grimes",
+        "to": "Carl Grimes",
+        "type": "mention-doesnt-exist",
+        "label": " Carl, stay back, this is gonna get bad"
+    }, {
+        "from": "Rick Grimes",
+        "to": "Skyler White",
+        "type": "mention-doesnt-exist",
+        "label": " Cooking up Blue Sky and bigger lies for Skyler"
+    }, {
+        "from": "Rick Grimes",
+        "to": "MacGyver",
+        "type": "mention-doesnt-exist",
+        "label": " Hatching little schemes like a dying MacGyver"
+    }, {
+        "from": "Walter White",
+        "to": "Gus Fring",
+        "type": "mention-doesnt-exist",
+        "label": " Ask Gus, you don't wanna face off against me"
+    }, {
+        "from": "Walter White",
+        "to": "Walter Jr.",
+        "type": "mention-doesnt-exist",
+        "label": " I've seen Walter Jr. handle walkers better than you"
+    }, {
+        "from": "Walter White",
+        "to": "Shane Walsh",
+        "type": "mention-doesnt-exist",
+        "label": " No one saw Shane coming except for your wife"
+    }, {
+        "from": "Goku",
+        "to": "Superman",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Superman",
+        "to": "Krillin",
+        "type": "mention-doesnt-exist",
+        "label": " I'm killing it, you're Krillin it, I'm villainous to vegetables"
+    }, {
+        "from": "Superman",
+        "to": "Chi Chi",
+        "type": "mention-doesnt-exist",
+        "label": " You want justice? I'll bust this nut up in your Chi Chi"
+    }, {
+        "from": "Goku",
+        "to": "Miss Daisy",
+        "type": "mention-doesnt-exist",
+        "label": " Cause I'm a Super Saiyan, you're a flying Miss Daisy"
+    }, {
+        "from": "Goku",
+        "to": "Lois Lane",
+        "type": "mention-doesnt-exist",
+        "label": " I'll report to Lois Lane, then Superman that ho"
+    }, {
+        "from": "Superman",
+        "to": "Roshi",
+        "type": "mention-doesnt-exist",
+        "label": " I'll make your nose bleed like Roshi sniffing panties"
+    }, {
+        "from": "Goku",
+        "to": "Batman",
+        "type": "mention",
+        "implicit": true,
+        "label": " You got your ass beat by a bat with no powers"
+    }, {
+        "from": "Stephen King",
+        "to": "Edgar Allan Poe",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Edgar Allan Poe",
+        "to": "Beverly Cleary",
+        "type": "mention-doesnt-exist",
+        "label": " Your books are as eerie as Beverly Cleary!"
+    }, {
+        "from": "Edgar Allan Poe",
+        "to": "Bram Stoker",
+        "type": "mention-doesnt-exist",
+        "label": " You're a faux Bram Stoker, so scram, the show's over"
+    }, {
+        "from": "Stephen King",
+        "to": "Po (Kung Fu Panda)",
+        "type": "mention-doesnt-exist",
+        "label": " You're as soft as Po, the Kung Fu Panda"
+    }, {
+        "from": "Edgar Allan Poe",
+        "to": "Chappelle",
+        "type": "mention-doesnt-exist",
+        "label": " Doing Chappelle and Simpson cameos (ahh!)"
+    }, {
+        "from": "Edgar Allan Poe",
+        "to": "Simpsons",
+        "type": "mention-doesnt-exist",
+        "label": " Doing Chappelle and Simpson cameos (ahh!)"
+    }, {
+        "from": "Sir Isaac Newton",
+        "to": "Bill Nye",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Sir Isaac Newton",
+        "to": "Neil DeGrasse Tyson",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Sir Isaac Newton",
+        "to": "Beaker",
+        "type": "mention-doesnt-exist",
+        "label": " They put Beaker in a bow tie up against me?"
+    }, {
+        "from": "Neil DeGrasse Tyson",
+        "to": "Leibniz",
+        "type": "mention-doesnt-exist",
+        "label": " While Isaac Newton was lying and sticking daggers in Leibniz"
+    }, {
+        "from": "Neil DeGrasse Tyson",
+        "to": "Harry Potter",
+        "type": "mention-doesnt-exist",
+        "label": " And hiding up inside his attic on some Harry Potter business"
+    }, {
+        "from": "George Washington",
+        "to": "William Wallace",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "George Washington",
+        "to": "Edward I of England",
+        "type": "mention-doesnt-exist",
+        "label": " How'd you get beat by a dude named Longshanks?"
+    }, {
+        "from": "George Washington",
+        "to": "Mel Gibson",
+        "type": "mention-doesnt-exist",
+        "label": " A Mel Gibson movie is your legacy"
+    }, {
+        "from": "William Wallace",
+        "to": "Denzel Washington",
+        "type": "mention-doesnt-exist",
+        "label": " The only Washington I trust Denzel"
+    }, {
+        "to": "Donatello di Niccolò",
+        "from": "Donatello (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Donatello di Niccolò",
+        "from": "Michelangelo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Donatello di Niccolò",
+        "from": "Leonardo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Donatello di Niccolò",
+        "from": "Raphael (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Michelangelo Buonarroti",
+        "from": "Donatello (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Michelangelo Buonarroti",
+        "from": "Michelangelo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Michelangelo Buonarroti",
+        "from": "Leonardo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Michelangelo Buonarroti",
+        "from": "Raphael (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Leonardo da Vinci",
+        "from": "Donatello (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Leonardo da Vinci",
+        "from": "Michelangelo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Leonardo da Vinci",
+        "from": "Leonardo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Leonardo da Vinci",
+        "from": "Raphael (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Raphael Sanzio da Urbino",
+        "from": "Donatello (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Raphael Sanzio da Urbino",
+        "from": "Michelangelo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Raphael Sanzio da Urbino",
+        "from": "Leonardo (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Raphael Sanzio da Urbino",
+        "from": "Raphael (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "to": "Raphael Sanzio da Urbino",
+        "from": "Raphael (TMNT)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Raphael Sanzio da Urbino",
+        "to": "Shredder (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": " I'm an emcee Shredder but I get the feeling"
+    }, {
+        "from": "Michelangelo Buonarroti",
+        "to": "David",
+        "type": "mention-doesnt-exist",
+        "label": " I made David, but I'll slay you like Goliath!"
+    }, {
+        "from": "Raphael Sanzio da Urbino",
+        "to": "Foot (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": " I made David, but I'll slay you like Goliath!"
+    }, {
+        "from": "Leonardo da Vinci",
+        "to": "Foot (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": " I made David, but I'll slay you like Goliath!"
+    }, {
+        "from": "Donatello di Niccolò",
+        "to": "Foot (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": " I made David, but I'll slay you like Goliath!"
+    }, {
+        "from": "Michelangelo Buonarroti",
+        "to": "Foot (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": " I made David, but I'll slay you like Goliath!"
+    }, {
+        "from": "Raphael (TMNT)",
+        "to": "Master Splinter (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": "Master Splinter!"
+    }, {
+        "from": "Leonardo (TMNT)",
+        "to": "Master Splinter (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": "Master Splinter!"
+    }, {
+        "from": "Donatello (TMNT)",
+        "to": "Master Splinter (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": "Master Splinter!"
+    }, {
+        "from": "Michelangelo (TMNT)",
+        "to": "Master Splinter (TMNT)",
+        "type": "mention-doesnt-exist",
+        "label": "Master Splinter!"
+    }, {
+        "from": "Ghostbusters",
+        "to": "Mythbusters",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Mythbusters",
+        "to": "Walter Peck",
+        "type": "mention-doesnt-exist",
+        "label": " And Walter Peck was right, that's some shady shit"
+    }, {
+        "from": "Mythbusters",
+        "to": "Stay Puft",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Romeo",
+        "to": "Bonnie",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Romeo",
+        "to": "Clyde",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Juliet",
+        "to": "Bonnie",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Juliet",
+        "to": "Clyde",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Bonnie",
+        "to": "John Leguizamo",
+        "type": "mention-doesnt-exist",
+        "label": " You can't protect your best friend from some John Leguizamo!"
+    }, {
+        "to": "Thor",
+        "from": "Zeus",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Zeus",
+        "to": "Odin",
+        "type": "mention-doesnt-exist",
+        "label": " Maybe Odin could beg me for a truce, cause when Zeus let's loose"
+    }, {
+        "from": "Zeus",
+        "to": "Medusa",
+        "type": "mention-doesnt-exist",
+        "label": " I'm like Medusa, I'll stone a motherfucker if he looks at me wrong"
+    }, {
+        "from": "Zeus",
+        "to": "Poseidon",
+        "type": "mention-doesnt-exist",
+        "label": " I'm on point like Poseidon's trident"
+    }, {
+        "from": "Thor",
+        "to": "Natalie Portman",
+        "type": "mention-doesnt-exist",
+        "label": " I'm the thunder down under, nailing Natalie Portman"
+    }, {
+        "from": "Zeus",
+        "to": "Usain Bolt",
+        "type": "mention-doesnt-exist",
+        "label": " Itchy trigger finger quicker with the bolts than Usain"
+    }, {
+        "from": "Zeus",
+        "to": "MC Hammer",
+        "type": "mention-doesnt-exist",
+        "label": " MC Hammer just got struck twice by greased lightning"
+    }, {
+        "from": "Zeus",
+        "to": "Loki",
+        "type": "mention-doesnt-exist",
+        "label": " You're joking, Loki must have written your lines"
+    }, {
+        "from": "Jack the Ripper",
+        "to": "Hannibal Lecter",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Hannibal Lecter",
+        "to": "OJ Simpson",
+        "type": "mention-doesnt-exist",
+        "label": " Like a Penny Dreadful version of OJ Simpson"
+    }, {
+        "from": "Jack the Ripper",
+        "to": "Dexter Morgan",
+        "type": "mention-doesnt-exist",
+        "label": "  People these days are watching Dexter"
+    }, {
+        "from": "Hannibal Lecter",
+        "to": "Ray Liotta",
+        "type": "mention-doesnt-exist",
+        "label": " Pick Ray Liotta's brain and ask him how I get mine"
+    }, {
+        "from": "Hannibal Lecter",
+        "to": "Barney (Hannibal Lecter)",
+        "type": "mention-doesnt-exist",
+        "label": " Barney, take me back to solitary confinement"
+    }, {
+        "from": "Oprah Winfrey",
+        "to": "Ellen Degeneres",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ellen Degeneres",
+        "to": "Stedman Graham",
+        "type": "mention-doesnt-exist",
+        "label": " How do I tell my friend Oprah she's gonna get more whipped than Stedman?"
+    }, {
+        "from": "Ellen Degeneres",
+        "to": "Doctor Phil",
+        "type": "mention-doesnt-exist",
+        "label": " I got the skill to make Doctor Phil say"
+    }, {
+        "from": "Ellen Degeneres",
+        "to": "Rachel Ray",
+        "type": "mention-doesnt-exist",
+        "label": " You can tell Rachel Ray that my favorite recipe"
+    }, {
+        "from": "Ellen Degeneres",
+        "to": "Tom Cruise",
+        "type": "mention-doesnt-exist",
+        "label": " I'm jumping over Oprah like I'm Tom Cruise on a sofa"
+    }, {
+        "from": "Oprah Winfrey",
+        "to": "Dalai Lama",
+        "type": "mention-doesnt-exist",
+        "label": " The Dalai Lama and Obama memorized my cell number"
+    }, {
+        "from": "Oprah Winfrey",
+        "to": "Barack Obama",
+        "type": "mention",
+        "label": " The Dalai Lama and Obama memorized my cell number"
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "Steven Spielberg",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "Quentin Tarantino",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "Stanley Kubrick",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "Michael Bay",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Steven Spielberg",
+        "to": "Quentin Tarantino",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Steven Spielberg",
+        "to": "Stanley Kubrick",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Steven Spielberg",
+        "to": "Michael Bay",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Quentin Tarantino",
+        "to": "Stanley Kubrick",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Quentin Tarantino",
+        "to": "Michael Bay",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stanley Kubrick",
+        "to": "Michael Bay",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Steven Spielberg",
+        "to": "Jimmy Stewart",
+        "type": "mention-doesnt-exist",
+        "label": " You produce Jimmy Stewart making one of two faces"
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "John Williams",
+        "type": "mention-doesnt-exist",
+        "label": " Half your billions should go to John Williams"
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "Megan Fox",
+        "type": "mention-doesnt-exist",
+        "label": " You're more horrible than Megan Fox's acting in Transformers"
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "Jim Henson",
+        "type": "mention-didnt-exist",
+        "implicit": true,
+        "label": " Come on, fish puppets and Muppets to stir the fears up"
+    }, {
+        "from": "Alfred Hitchcock",
+        "to": "Indiana Jones",
+        "type": "mention-doesnt-exist",
+        "label": "  Damage panderers and haunt you like the last Indiana"
+    }, {
+        "from": "Quentin Tarantino",
+        "to": "Samuel Jackson",
+        "type": "mention-doesnt-exist",
+        "label": " Ask anybody 'What's your favorite Sam Jackson part?'"
+    }, {
+        "from": "Stanley Kubrick",
+        "to": "Donatello (TMNT)",
+        "type": "mention",
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+    }, {
+        "from": "Stanley Kubrick",
+        "to": "Michelangelo (TMNT)",
+        "type": "mention",
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+    }, {
+        "from": "Stanley Kubrick",
+        "to": "Raphael (TMNT)",
+        "type": "mention",
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+    }, {
+        "from": "Stanley Kubrick",
+        "to": "Leonardo (TMNT)",
+        "type": "mention",
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+    }, {
+        "from": "Michael Bay",
+        "to": "Jerry Bruckheimer",
+        "type": "mention-doesnt-exist",
+        "label": " I swoop low with the telephoto, no Bruckheimer, I work solo"
+    }, {
+        "from": "Michael Bay",
+        "to": "Mark Wahlberg",
+        "type": "mention-doesnt-exist",
+        "label": " Even make Mark Wahlberg make some motherfucking money"
+    }, {
+        "from": "Michael Bay",
+        "to": "Dwayne Johnson",
+        "type": "mention-doesnt-exist",
+        "label": " Rose to The Rock, now I got that socks made of silk money"
+    }, {
+        "from": "Meriwether Lewis",
+        "to": "Bill (Bill & Ted)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Meriwether Lewis",
+        "to": "Ted (Bill & Ted)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "William Clark",
+        "to": "Bill (Bill & Ted)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "William Clark",
+        "to": "Ted (Bill & Ted)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Meriwether Lewis",
+        "to": "Doctor Who",
+        "type": "mention",
+        "label": " Now go back in time and give Doctor Who his phone booth back"
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Socrates",
+        "type": "mention-didnt-exist",
+        "label": " I've heard better insults dropped from Socrates' anus"
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Billy the Kid",
+        "type": "mention-doesnt-exist",
+        "label": " We're quick when we spit like Billy the Kid with his guns"
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Billy the Kid",
+        "type": "mention-doesnt-exist",
+        "label": " We're quick when we spit like Billy the Kid with his guns"
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Sacagaewa",
+        "type": "mention-doesnt-exist",
+        "label": "  And you'll be verbally kicked in the nut-Sacagawea-puns"
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Sacagaewa",
+        "type": "mention-doesnt-exist",
+        "label": "  And you'll be verbally kicked in the nut-Sacagawea-puns"
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Napoleon Bonaparte",
+        "type": "mention",
+        "label": " Why don't you go back to exploring Napoleon's old swamps"
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Napoleon Bonaparte",
+        "type": "mention",
+        "label": " Why don't you go back to exploring Napoleon's old swamps"
+    }, {
+        "from": "Meriwether Lewis",
+        "to": "Garth (Wayne's World)",
+        "type": "mention-doesnt-exist",
+        "label": " Send over Garth and Wayne, because you turkeys aren't worthy"
+    }, {
+        "from": "William Clark",
+        "to": "Garth (Wayne's World)",
+        "type": "mention-doesnt-exist",
+        "label": " Send over Garth and Wayne, because you turkeys aren't worthy"
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Rufus (Bill & Ted)",
+        "type": "mention-doesnt-exist",
+        "label": "Rufus!"
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Rufus (Bill & Ted)",
+        "type": "mention-doesnt-exist",
+        "label": "Rufus!"
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Paul Bunyan",
+        "type": "mention-doesnt-exist",
+        "label": " From some Paul Bunyan dudes in potato sack shoes"
+    }, {
+        "from": "David Copperfield",
+        "to": "Harry Houdini",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Harry Houdini",
+        "to": "Bob Saget",
+        "type": "mention-doesnt-exist",
+        "label": " Ah! Your hack of a Bob Saget-y act is embarrassing"
+    }, {
+        "from": "David Copperfield",
+        "to": "Criss Angel",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Harry Houdini",
+        "to": "Criss Angel",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Terminator",
+        "to": "Robocop",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Robocop",
+        "to": "C-3PO",
+        "type": "mention-doesnt-exist",
+        "label": " I'm RoboCop, and I got the flow to beat roided out C-3PO"
+    }, {
+        "from": "Robocop",
+        "to": "John Connor",
+        "type": "mention-doesnt-exist",
+        "label": " You only know a programmed robot boner for John Connor"
+    }, {
+        "from": "Robocop",
+        "to": "Geordi La Forge",
+        "type": "mention-doesnt-exist",
+        "label": " Then mail your space helmet back to Geordi La Forge!"
+    }, {
+        "from": "Socrates",
+        "to": "Sun Tzu",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Socrates",
+        "to": "Confucius",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Socrates",
+        "to": "Lao Tzu",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Nietzsche",
+        "to": "Sun Tzu",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Nietzsche",
+        "to": "Confucius",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Nietzsche",
+        "to": "Lao Tzu",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Voltaire",
+        "to": "Sun Tzu",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Voltaire",
+        "to": "Confucius",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Voltaire",
+        "to": "Lao Tzu",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Nietzsche",
+        "to": "Pooh Bear",
+        "type": "mention-doesnt-exist",
+        "label": " When I squat down and squeeze out a Tao of Pooh on Lao Tzu"
+    }, {
+        "from": "Socrates",
+        "to": "Jackie Chan",
+        "type": "mention-doesnt-exist",
+        "label": "Now that we've covered the two Yin and Yang twins, I can move onto Jackie Chan"
+    }, {
+        "from": "Voltaire",
+        "to": "Benjamin Franklin",
+        "type": "mention",
+        "label": " Who hangs with B. Franks, giving ladies beef franks"
+    }, {
+        "from": "Shaka Zulu",
+        "to": "Julius Caesar",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Shaka Zulu",
+        "to": "Conan the Barbarian",
+        "type": "mention-doesnt-exist",
+        "label": " Who thinks he can dance with Conan of the Savannah"
+    }, {
+        "from": "Shaka Zulu",
+        "to": "Cleopatra",
+        "type": "mention",
+        "label": "  And get fucked by more than just Cleopatra in Africa"
+    }, {
+        "from": "Julius Caesar",
+        "to": "William Shakespeare",
+        "type": "mention",
+        "label": " If I wanted to shake spears, I'd waggle my biography"
+    }, {
+        "from": "Jim Henson",
+        "to": "Stan Lee",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stan Lee",
+        "to": "Jim Henson",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stan Lee",
+        "to": "Walt Disney",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stan Lee",
+        "to": "Walt Disney",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Stan Lee",
+        "to": "The Incredible Hulk",
+        "type": "mention-didnt-exist",
+        "label": " It's the mind behind The Hulk against the geek beneath the Fraggles"
+    }, {
+        "from": "Stan Lee",
+        "to": "Lou Ferrigno",
+        "type": "mention-doesnt-exist",
+        "label": " I broke Ferrigno and the Comics Code"
+    }, {
+        "from": "Jim Henson",
+        "to": "Jack Kirby",
+        "type": "mention-doesnt-exist",
+        "label": " (On all of Jack Kirby's comic books)"
+    }, {
+        "from": "Stan Lee",
+        "to": "The Thing",
+        "type": "mention-doesnt-exist",
+        "label": " That was a low blow, he did his own Thing"
+    }, {
+        "from": "Stan Lee",
+        "to": "Jack Kirby",
+        "type": "mention-doesnt-exist",
+        "label": " Nice try, frogman, but Jack was a friend of mine (THWIP)"
+    }, {
+        "from": "Stan Lee",
+        "to": "Mr. Hooper",
+        "type": "mention-doesnt-exist",
+        "label": " I'll snap your turtleneck like a Doozer stick and put you out to pasture like Mr. Hooper"
+    }, {
+        "from": "Jim Henson",
+        "to": "The Fantastic Four",
+        "type": "mention-doesnt-exist",
+        "label": " But the Four will always be Fantastic, the Hulk will always be Incredible"
+    }, {
+        "from": "Jim Henson",
+        "to": "The Incredible Hulk",
+        "type": "mention-didnt-exist",
+        "label": " But the Four will always be Fantastic, the Hulk will always be Incredible"
+    }, {
+        "from": "Walt Disney",
+        "to": "Mickey Mouse",
+        "type": "mention-doesnt-exist",
+        "label": "(M-I-C, K-E-Y)"
+    }, {
+        "from": "Deadpool",
+        "to": "Boba Fett",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Deadpool",
+        "to": "Darth Vader",
+        "type": "mention",
+        "label": " Doing temp work for Vader and odd jobs for Jabba"
+    }, {
+        "from": "Deadpool",
+        "to": "Jabba",
+        "type": "mention-doesnt-exist",
+        "label": " Doing temp work for Vader and odd jobs for Jabba"
+    }, {
+        "from": "Deadpool",
+        "to": "Samuel Jackson",
+        "type": "mention-doesnt-exist",
+        "label": " Mad cause Sam Jackson killed your clone daddy"
+    }, {
+        "from": "Boba Fett",
+        "to": "Cable",
+        "type": "mention-doesnt-exist",
+        "label": " And your bars are like your old pal Cable: fucking basic"
+    }, {
+        "from": "Boba Fett",
+        "to": "Deathstroke",
+        "type": "mention-doesnt-exist",
+        "label": " Bitch, who you calling clone, you're a Deathstroke rip-off"
+    }, {
+        "from": "Boba Fett",
+        "to": "Snake Eyes",
+        "type": "mention-doesnt-exist",
+        "label": " You stole Spiderman's eyes and Snake Eyes' weapons"
+    }, {
+        "from": "Boba Fett",
+        "to": "Spiderman",
+        "type": "mention-doesnt-exist",
+        "label": " You stole Spiderman's eyes and Snake Eyes' weapons"
+    }, {
+        "from": "Boba Fett",
+        "to": "Wolverine",
+        "type": "mention-didnt-exist",
+        "label": "  You got Wolverine's powers, man, you're comic sloppy seconds"
+    }, {
+        "from": "Boba Fett",
+        "to": "Dr. Killebrew",
+        "type": "mention-doesnt-exist",
+        "label": " That Dr. Killbrew dude needs to go back to med school"
+    }, {
+        "from": "Deadpool",
+        "to": "Jar Jar Binks",
+        "type": "mention-doesnt-exist",
+        "label": " Wrap that arm dart around Jar Jar and go far, far away"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "George R. R. Martin",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "George R. R. Martin",
+        "to": "Hodor",
+        "type": "mention-bg",
+        "label": ""
+    }, {
+        "from": "George R. R. Martin",
+        "to": "Jon Snow",
+        "type": "mention-bg",
+        "label": ""
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "Jon Snow",
+        "type": "mention-doesnt-exist",
+        "label": " How you and Jon Snow... both know nothing!"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "Led Zeppelin",
+        "type": "mention-doesnt-exist",
+        "label": " Don't believe me? Ask Led Zeppelin"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "C. S. Lewis",
+        "type": "mention-doesnt-exist",
+        "label": " C. S. Lewis and I were just discussing"
+    }, {
+        "from": "George R. R. Martin",
+        "to": "Daenerys Targaryen",
+        "type": "mention-bg",
+        "label": ""
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "Santa Claus",
+        "type": "mention",
+        "label": " You LARPed your Santa Claus ass through Vietnam"
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Julia Child",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Michelin Man",
+        "type": "mention-doesnt-exist",
+        "label": " I've got Michelin stars, you're like the Michelin Man"
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Donkey (Shrek)",
+        "type": "mention-doesnt-exist",
+        "label": " I'd call you a Donkey but you look more like Shrek"
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Shrek",
+        "type": "mention-doesnt-exist",
+        "label": " I'd call you a Donkey but you look more like Shrek"
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Iron Man",
+        "type": "mention-doesnt-exist",
+        "label": "  When the Iron Man chef busts a rhyme"
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Michelin Man",
+        "type": "mention-doesnt-exist",
+        "label": " I've got Michelin stars, you're like the Michelin Man"
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Big Bird",
+        "type": "mention-doesnt-exist",
+        "label": " One part Big Bird, two parts Miss Piggy"
+    }, {
+        "from": "Gordon Ramsay",
+        "to": "Miss Piggy",
+        "type": "mention-doesnt-exist",
+        "label": " One part Big Bird, two parts Miss Piggy"
+    }, {
+        "from": "Frederick Douglass",
+        "to": "Thomas Jefferson",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "King George",
+        "type": "mention-doesnt-exist",
+        "label": " I told King George he could eat a fat dick"
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Pepe Le Pew",
+        "type": "mention-doesnt-exist",
+        "label": " Didn't come back from Paris to battle Pepe Le Pew"
+    }, {
+        "from": "James Bond (Daniel Craig)",
+        "to": "Austin Powers",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "James Bond (Daniel Craig)",
+        "to": "James Bond (Sean Connery)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Austin Powers",
+        "to": "James Bond (Sean Connery)",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "James Bond (Daniel Craig)",
+        "to": "Le Chiffre",
+        "type": "mention-doesnt-exist",
+        "label": " I've beefed with Le Chiffre and No and Blofeld with the cheek scar"
+    }, {
+        "from": "James Bond (Daniel Craig)",
+        "to": "Dr. No",
+        "type": "mention-doesnt-exist",
+        "label": " I've beefed with Le Chiffre and No and Blofeld with the cheek scar"
+    }, {
+        "from": "James Bond (Daniel Craig)",
+        "to": "Blofeld",
+        "type": "mention-doesnt-exist",
+        "label": " I've beefed with Le Chiffre and No and Blofeld with the cheek scar"
+    }, {
+        "from": "Austin Powers",
+        "to": "Basil Exposition",
+        "type": "mention-doesnt-exist",
+        "label": "  Basil Exposition told me this would be boring"
+    }, {
+        "from": "Austin Powers",
+        "to": "Q (James Bond)",
+        "type": "mention-doesnt-exist",
+        "label": " Maybe Q can craft some new plot lines"
+    }, {
+        "from": "James Bond (Sean Connery)",
+        "to": "Q (James Bond)",
+        "type": "mention-doesnt-exist",
+        "label": " I don't need a Q to break your balls"
+    }, {
+        "from": "James Bond (Sean Connery)",
+        "to": "Peter Dinklage",
+        "type": "mention-doesnt-exist",
+        "label": " If they made a Mini-Me, they'd have to cast Peter Dinklage"
+    }, {
+        "from": "The Incredible Hulk",
+        "to": "Bruce Jenner",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "The Incredible Hulk",
+        "to": "Caitlyn Jenner",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Bruce Banner",
+        "to": "Bruce Jenner",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Bruce Banner",
+        "to": "Caitlyn Jenner",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Bruce Banner",
+        "to": "He-Man",
+        "type": "mention-doesnt-exist",
+        "label": " With your He-Man haircut and your Daisy Dukes"
+    }, {
+        "from": "Bruce Banner",
+        "to": "Daisy Duke",
+        "type": "mention-doesnt-exist",
+        "label": " With your He-Man haircut and your Daisy Dukes"
+    }, {
+        "from": "Bruce Banner",
+        "to": "The Flash",
+        "type": "mention-doesnt-exist",
+        "label": "I hear you're good at running, you're just like the Flash"
+    }, {
+        "from": "Bruce Banner",
+        "to": "Kim Kardashian",
+        "type": "mention-doesnt-exist",
+        "implicit": true,
+        "label": " Kept up with the Kardashians, but left some kids behind"
+    }, {
+        "from": "The Incredible Hulk",
+        "to": "Kylie Jenner",
+        "type": "mention-doesnt-exist",
+        "label": " Best thing you make? Kylie ass"
+    }, {
+        "from": "Caitlyn Jenner",
+        "to": "Kylie Jenner",
+        "type": "mention-doesnt-exist",
+        "label": " Kylie not the type of girl I'm gonna let you smash on"
+    }, {
+        "from": "Caitlyn Jenner",
+        "to": "Barney the Dinosaur",
+        "type": "mention-doesnt-exist",
+        "label": " What, you just rage at a Barney-themed party?"
+    }, {
+        "from": "Alexander the Great",
+        "to": "Ivan the Terrible",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Alexander the Great",
+        "to": "Frederick the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Alexander the Great",
+        "to": "Pompey the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Alexander the Great",
+        "to": "Catherine the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Frederick the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Pompey the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Catherine the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Frederick the Great",
+        "to": "Pompey the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Frederick the Great",
+        "to": "Catherine the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Pompey the Great",
+        "to": "Catherine the Great",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Aristotle",
+        "type": "mention-doesnt-exist",
+        "label": " I'll school you like Aristotle"
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Baryshnikov",
+        "type": "mention-bg",
+        "label": " I'm the first Tsar of all of Russia"
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Lenin",
+        "type": "mention-bg",
+        "label": " I'm the first Tsar of all of Russia"
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Rasputin",
+        "type": "mention-bg",
+        "label": " I'm the first Tsar of all of Russia"
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Gorbachev",
+        "type": "mention-bg",
+        "label": " I'm the first Tsar of all of Russia"
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Putin",
+        "type": "mention-bg",
+        "label": " I'm the first Tsar of all of Russia"
+    }, {
+        "from": "Ivan the Terrible",
+        "to": "Stalin",
+        "type": "mention-bg",
+        "label": " I'm the first Tsar of all of Russia"
+    }, {
+        "from": "Alexander the Great",
+        "to": "Bucephalus",
+        "type": "mention-doesnt-exist",
+        "label": " And I would holler Bucephalus!"
+    }, {
+        "from": "Catherine the Great",
+        "to": "Peter the Great",
+        "type": "mention-doesnt-exist",
+        "label": "  I'm picking up where Peter the Great left off"
+    }, {
+        "from": "Donald Trump",
+        "to": "Hillary Clinton",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Hillary Clinton",
+        "to": "Martin Luther King Jr.",
+        "type": "mention",
+        "label": " Have been since I met MLK in person"
+    }, {
+        "from": "Hillary Clinton",
+        "to": "Osama bin Laden",
+        "type": "mention",
+        "label": "  Motherfucker, I fire bin Laden! Crack! coughs"
+    }, {
+        "from": "Hillary Clinton",
+        "to": "Michelle Obama",
+        "type": "mention-doesnt-exist",
+        "label": "I brought Michelle's speech, borrow some quotes"
+    }, {
+        "from": "Donald Trump",
+        "to": "Bill Cosby",
+        "type": "mention-didnt-exist",
+        "label": " Your Bill's worse than Cosby"
+    }, {
+        "from": "Donald Trump",
+        "to": "Bill Clinton",
+        "type": "mention-doesnt-exist",
+        "label": " Your Bill's worse than Cosby"
+    }, {
+        "from": "Abe Lincoln",
+        "to": "Donald Trump",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Abe Lincoln",
+        "to": "Hillary Clinton",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Charles Darwin",
+        "to": "Ash Ketchum",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Charizard",
+        "type": "mention-doesnt-exist",
+        "label": " Open my pockets and go (Charizard) on your ass"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Pikachu",
+        "type": "mention-doesnt-exist",
+        "label": " When it's time to train, I turn to Pikachu. (Pika!)"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Jessie (Pokémon)",
+        "type": "mention-bg",
+        "label": " But when I need a weak verse, I choose you"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "James (Pokémon)",
+        "type": "mention-bg",
+        "label": " But when I need a weak verse, I choose you"
+    }, {
+        "from": "Charles Darwin",
+        "to": "Ash Williams",
+        "type": "mention-doesnt-exist",
+        "label": " The real Ash packs a much bigger BOOMSTICK"
+    }, {
+        "from": "Charles Darwin",
+        "to": "Michael Vick",
+        "type": "mention-doesnt-exist",
+        "label": " Look, Mighty Morphin Michael Vick"
+    }, {
+        "from": "Charles Darwin",
+        "to": "Charles Sheen",
+        "type": "mention-doesnt-exist",
+        "label": "  I'm not Charles Sheen but I am Dar-winning"
+    }, {
+        "from": "Charles Darwin",
+        "to": "Professor Oak",
+        "type": "mention-doesnt-exist",
+        "label": " As hard as the wood that Oak gave your mother"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Stevie Wonder",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Wonder Woman",
+        "to": "Princess Diana",
+        "type": "mention-doesnt-exist",
+        "label": " Princess Diana, but this Lady don't die"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Ray Charles",
+        "type": "mention-doesnt-exist",
+        "label": "  I tell you what I say, you bit your style from Ray!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Geena Davis",
+        "type": "mention-doesnt-exist",
+        "label": "  I'm like Geena Davis, in a Justice League of my Own (Ow!)"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Batman",
+        "type": "mention-doesnt-exist",
+        "label": " But don't be scared, I let bats down easy"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Predator",
+        "type": "mention-doesnt-exist",
+        "label": " Lookin' like the Predator after some chemotherapy (Ha!)"
+    }, {
+        "from": "Tony Hawk",
+        "to": "Wayne Gretzky",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Tony Hawk",
+        "to": "Birdman",
+        "type": "mention-doesnt-exist",
+        "label": " Not Cash Money, it's just Wayne versus Birdman"
+    }, {
+        "from": "Theodore Roosevelt",
+        "to": "Winston Churchill",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Theodore Roosevelt",
+        "to": "Elmer Fudd",
+        "type": "mention-doesnt-exist",
+        "label": " I'm an American stud, and you're the British Elmer Fudd!"
+    }, {
+        "from": "Winston Churchill",
+        "to": "Epiclloyd",
+        "type": "mention-doesnt-exist",
+        "label": " You look like a mix of EpicLLOYD and a Pringles packet!"
+    }, {
+        "from": "Winston Churchill",
+        "to": "Thomas Jefferson",
+        "type": "mention-bg",
+        "label": " But if Rushmore was a band, then you'd play bass!"
+    }, {
+        "from": "Winston Churchill",
+        "to": "George Washington",
+        "type": "mention-bg",
+        "label": " But if Rushmore was a band, then you'd play bass!"
+    }, {
+        "from": "Winston Churchill",
+        "to": "Abe Lincoln",
+        "type": "mention-bg",
+        "label": " But if Rushmore was a band, then you'd play bass!"
+    }, {
+        "from": "Nice Peter",
+        "to": "Epiclloyd",
+        "type": "battle",
+        "label": ""
+    }, {
+        "from": "Nice Peter",
+        "to": "PewDiePie",
+        "type": "mention-doesnt-exist",
+        "label": " We'd have more subs than PewDiePie if you didn't fight me every time"
+    }, {
+        "from": "Nice Peter",
+        "to": "Batman",
+        "type": "mention",
+        "label": " Like: 'Dude, that is not a cool way to play Batman'"
+    }, {
+        "from": "Nice Peter",
+        "to": "Nikola Tesla",
+        "type": "mention",
+        "implicit": true,
+        "label": " I don't know who you shit on worse, myself or Dante"
+    }, {
+        "from": "Nice Peter",
+        "to": "Harry Houdini",
+        "type": "mention-bg",
+        "label": " Excuse me for interrupting Rocket League and smoking weed"
+    }
+]
