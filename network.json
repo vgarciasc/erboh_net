@@ -5153,7 +5153,7 @@
             },
             {
                 "data": {
-                    "label": "Yo I'm Boba Fett, you wanna mess with me?",
+                    "label": "They call me Boba Fett, you wanna mess with me?",
                     "kind": "cameo",
                     "callback": false,
                     "foreshadow": true,
@@ -6418,10 +6418,10 @@
             {
                 "data": {
                     "label": "Your boy George chopped down trees",
-                    "kind": "mention",
-                    "callback": true,
-                    "foreshadow": false,
-                    "implicit": true,
+                    "kind": "cameo",
+                    "callback": false,
+                    "foreshadow": true,
+                    "implicit": false,
                     "episode": 10,
                     "timestamp_begin": 93,
                     "timestamp_end": 95,
@@ -6841,7 +6841,7 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": 56,
+                    "episode": 57,
                     "timestamp_begin": 120,
                     "timestamp_end": 122,
                     "source": "Jim Henson",
@@ -7172,11 +7172,11 @@
             },
             {
                 "data": {
-                    "label": "",
+                    "label": "The Final Battle: Nice Peter vs. EpicLLOYD (S01E15), Nice Peter vs. EpicLLOYD 2 (S05E12)",
                     "kind": "battle",
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 15,
+                    "timestamp_begin": 0,
+                    "timestamp_end": -1,
                     "source": "Nice Peter",
                     "target": "EpicLLOYD"
                 }
@@ -7295,25 +7295,11 @@
             },
             {
                 "data": {
-                    "label": "Excuse me for interrupting Rocket League and smoking weed",
-                    "kind": "cameo",
-                    "callback": true,
-                    "foreshadow": false,
-                    "implicit": false,
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
-                    "source": "Nice Peter",
-                    "target": "Harry Houdini"
-                }
-            },
-            {
-                "data": {
                     "label": "",
                     "kind": "battle",
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 15,
+                    "timestamp_begin": 0,
+                    "timestamp_end": -1,
                     "source": "EpicLLOYD",
                     "target": "Nice Peter"
                 }
@@ -7554,6 +7540,20 @@
                     "timestamp_end": "",
                     "source": "EpicLLOYD",
                     "target": "Dante Cimadamore"
+                }
+            },
+            {
+                "data": {
+                    "label": "Excuse me for interrupting Rocket League and smoking weed",
+                    "kind": "cameo",
+                    "callback": true,
+                    "foreshadow": false,
+                    "implicit": false,
+                    "episode": 70,
+                    "timestamp_begin": 89,
+                    "timestamp_end": 92,
+                    "source": "EpicLLOYD",
+                    "target": "Harry Houdini"
                 }
             },
             {
@@ -8153,7 +8153,7 @@
                     "implicit": false,
                     "episode": 21,
                     "timestamp_begin": 128,
-                    "timestamp_end": 130,
+                    "timestamp_end": 132,
                     "source": "HAL 9000",
                     "target": "Terminator"
                 }
@@ -10332,7 +10332,7 @@
                     "implicit": false,
                     "episode": 65,
                     "timestamp_begin": 97,
-                    "timestamp_end": 100,
+                    "timestamp_end": 101,
                     "source": "Donald Trump",
                     "target": "Bill Cosby"
                 }
@@ -11706,7 +11706,7 @@
             },
             {
                 "data": {
-                    "label": "Arcade machine in the background",
+                    "label": "[Arcade machine in the background]",
                     "kind": "cameo",
                     "callback": true,
                     "foreshadow": false,
@@ -11836,7 +11836,7 @@
             },
             {
                 "data": {
-                    "label": "Arcade machine in the background",
+                    "label": "[Arcade machine in the background]",
                     "kind": "cameo",
                     "callback": true,
                     "foreshadow": false,
@@ -11908,7 +11908,7 @@
             },
             {
                 "data": {
-                    "label": "Arcade machine in the background",
+                    "label": "[Arcade machine in the background]",
                     "kind": "cameo",
                     "callback": true,
                     "foreshadow": false,
@@ -11980,7 +11980,7 @@
             },
             {
                 "data": {
-                    "label": "Arcade machine in the background",
+                    "label": "[Arcade machine in the background]",
                     "kind": "cameo",
                     "callback": true,
                     "foreshadow": false,
@@ -13258,9 +13258,9 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 51,
+                    "timestamp_begin": 148,
+                    "timestamp_end": 153,
                     "source": "Stanley Kubrick",
                     "target": "Donatello (TMNT)"
                 }
@@ -13272,9 +13272,9 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 51,
+                    "timestamp_begin": 148,
+                    "timestamp_end": 153,
                     "source": "Stanley Kubrick",
                     "target": "Michelangelo (TMNT)"
                 }
@@ -13286,9 +13286,9 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 51,
+                    "timestamp_begin": 148,
+                    "timestamp_end": 153,
                     "source": "Stanley Kubrick",
                     "target": "Raphael (TMNT)"
                 }
@@ -13300,9 +13300,9 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 51,
+                    "timestamp_begin": 148,
+                    "timestamp_end": 153,
                     "source": "Stanley Kubrick",
                     "target": "Leonardo (TMNT)"
                 }
@@ -13629,7 +13629,7 @@
             },
             {
                 "data": {
-                    "label": "Ted's T-shirt",
+                    "label": "[Ted's T-shirt]",
                     "kind": "cameo",
                     "callback": true,
                     "foreshadow": false,
@@ -13643,7 +13643,7 @@
             },
             {
                 "data": {
-                    "label": "Ted's T-shirt",
+                    "label": "[Ted's T-shirt]",
                     "kind": "cameo",
                     "callback": true,
                     "foreshadow": false,
@@ -13996,11 +13996,11 @@
                 "data": {
                     "label": "",
                     "kind": "cameo",
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 70,
+                    "timestamp_begin": 89,
+                    "timestamp_end": 92,
                     "source": "Harry Houdini",
-                    "target": "Nice Peter"
+                    "target": "EpicLLOYD"
                 }
             },
             {
@@ -17028,7 +17028,7 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": 69,
+                    "episode": 72,
                     "timestamp_begin": 117,
                     "timestamp_end": 121,
                     "source": "Freddy Krueger",

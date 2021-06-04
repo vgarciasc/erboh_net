@@ -324,14 +324,6 @@
         "episode": 10,
         "timestamp": {"begin": 93, "end": 95}
     }, {
-        "from": "Vince Offer",
-        "to": "George Washington",
-        "type": "mention",
-        "implicit": true,
-        "label": "Your boy George chopped down trees",
-        "episode": 10,
-        "timestamp": {"begin": 93, "end": 95}
-    }, {
         "from": "Gandalf",
         "to": "Dumbledore",
         "type": "battle",
@@ -871,7 +863,7 @@
         "type": "mention",
         "label": "Hasta la vista, like the Terminator told ya ",
         "episode": 21,
-        "timestamp": {"begin": 128, "end": 130}
+        "timestamp": {"begin": 128, "end": 132}
     }, {
         "from": "Frank Sinatra",
         "to": "Freddie Mercury",
@@ -1288,7 +1280,7 @@
         "from": "Darth Vader",
         "to": "Boba Fett",
         "type": "cameo",
-        "label": "Yo I'm Boba Fett, you wanna mess with me?",
+        "label": "They call me Boba Fett, you wanna mess with me?",
         "episode": 34,
         "timestamp": {"begin": 100, "end": 107}
     }, {
@@ -1855,28 +1847,28 @@
         "from": "Raphael (TMNT)",
         "to": "Mario Bros.",
         "type": "cameo",
-        "label": "Arcade machine in the background",
+        "label": "[Arcade machine in the background]",
         "episode": 45,
         "timestamp": {"begin": 70, "end": 94}
     }, {
         "from": "Donatello (TMNT)",
         "to": "Mario Bros.",
         "type": "cameo",
-        "label": "Arcade machine in the background",
+        "label": "[Arcade machine in the background]",
         "episode": 45,
         "timestamp": {"begin": 70, "end": 94}
     }, {
         "from": "Leonardo (TMNT)",
         "to": "Mario Bros.",
         "type": "cameo",
-        "label": "Arcade machine in the background",
+        "label": "[Arcade machine in the background]",
         "episode": 45,
         "timestamp": {"begin": 70, "end": 94}
     }, {
         "from": "Michelangelo (TMNT)",
         "to": "Mario Bros.",
         "type": "cameo",
-        "label": "Arcade machine in the background",
+        "label": "[Arcade machine in the background]",
         "episode": 45,
         "timestamp": {"begin": 70, "end": 94}
     }, {
@@ -2277,22 +2269,30 @@
         "from": "Stanley Kubrick",
         "to": "Donatello (TMNT)",
         "type": "mention",
-        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles",
+        "episode": 51,
+        "timestamp": {"begin": 148, "end": 153}
     }, {
         "from": "Stanley Kubrick",
         "to": "Michelangelo (TMNT)",
         "type": "mention",
-        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles",
+        "episode": 51,
+        "timestamp": {"begin": 148, "end": 153}
     }, {
         "from": "Stanley Kubrick",
         "to": "Raphael (TMNT)",
         "type": "mention",
-        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles",
+        "episode": 51,
+        "timestamp": {"begin": 148, "end": 153}
     }, {
         "from": "Stanley Kubrick",
         "to": "Leonardo (TMNT)",
         "type": "mention",
-        "label": " A.I. is the worst waste of potential since the Ninja Turtles"
+        "label": " A.I. is the worst waste of potential since the Ninja Turtles",
+        "episode": 51,
+        "timestamp": {"begin": 148, "end": 153}
     }, {
         "from": "Michael Bay",
         "to": "Jerry Bruckheimer",
@@ -2340,14 +2340,14 @@
         "from": "Ted (Bill & Ted)",
         "to": "Mario Bros.",
         "type": "cameo",
-        "label": "Ted's T-shirt",
+        "label": "[Ted's T-shirt]",
         "episode": 52,
         "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ted (Bill & Ted)",
         "to": "Wright Bros.",
         "type": "cameo",
-        "label": "Ted's T-shirt",
+        "label": "[Ted's T-shirt]",
         "episode": 52,
         "timestamp": {"begin": 0, "end": -1}
     }, {
@@ -2715,7 +2715,7 @@
         "to": "The Incredible Hulk",
         "type": "mention",
         "label": " But the Four will always be Fantastic, the Hulk will always be Incredible",
-        "episode": 56,
+        "episode": 57,
         "timestamp": {"begin": 120, "end": 122}
     }, {
         "from": "Walt Disney",
@@ -3268,7 +3268,7 @@
         "type": "mention",
         "label": " Your Bill's worse than Cosby",
         "episode": 65,
-        "timestamp": {"begin": 97, "end": 100}
+        "timestamp": {"begin": 97, "end": 101}
     }, {
         "from": "Donald Trump",
         "to": "Bill Clinton",
@@ -3574,11 +3574,6 @@
         "timestamp": {"begin": 135, "end": 138}
     }, {
         "from": "Nice Peter",
-        "to": "EpicLLOYD",
-        "type": "battle",
-        "label": ""
-    }, {
-        "from": "Nice Peter",
         "to": "PewDiePie",
         "type": "mention",
         "label": " We'd have more subs than PewDiePie if you didn't fight me every time"
@@ -3595,10 +3590,12 @@
         "type": "mention",
         "label": " I don't know who you shit on worse, myself or Dante"
     }, {
-        "from": "Nice Peter",
+        "from": "EpicLLOYD",
         "to": "Harry Houdini",
         "type": "cameo",
-        "label": " Excuse me for interrupting Rocket League and smoking weed"
+        "label": " Excuse me for interrupting Rocket League and smoking weed",
+        "episode": 70,
+        "timestamp": {"begin": 89, "end": 92}
     }, {
         "from": "Elon Musk",
         "to": "Mark Zuckerberg",
@@ -3729,7 +3726,7 @@
         "to": "Justin Bieber",
         "type": "mention",
         "label": " The first time I saw Justin Bieber!",
-        "episode": 69,
+        "episode": 72,
         "timestamp": {"begin": 117, "end": 121}
     }, {
         "from": "Wolverine",
