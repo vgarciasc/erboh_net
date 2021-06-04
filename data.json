@@ -3,303 +3,397 @@
         "from": "John Lennon",
         "to": "Bill O'Reilly",
         "type": "battle",
-        "label": ""
+        "label": "John Lennon vs. Bill O'Reilly (S01E01)",
+        "episode": 1,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "John Lennon",
         "to": "George Bush",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I wonder how much George Bush paid you to suck his dick"
     }, {
         "from": "Bill O'Reilly",
         "to": "Paul McCartney",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You're Paul McCartney's bitch, with less talent than Ringo"
     }, {
         "from": "Bill O'Reilly",
         "to": "Ringo",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You're Paul McCartney's bitch, with less talent than Ringo"
     }, {
         "from": "Bill O'Reilly",
         "to": "Yoko Ono",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "And I'd rather suck George Bush's dick than Yoko Ono's"
     }, {
         "from": "Bill O'Reilly",
         "to": "Don Cheadle",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Cause I'm evil, heart blacker than Don Cheadle"
     }, {
         "from": "Darth Vader",
         "to": "Adolf Hitler",
         "type": "battle",
-        "label": ""
+        "label": "Darth Vader vs. Hitler (S01E02, S02E01, S03E01)",
+        "episode": 2,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Adolf Hitler",
         "to": "Rick Moranis",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I preferred you in Spaceballs-the Rick Moranis version!"
     }, {
         "from": "Darth Vader",
         "to": "Napoleon Bonaparte",
-        "type": "mention-didnt-exist",
-        "label": "You're a pissed off little prick with a Napoleon dick"
+        "type": "mention",
+        "label": "You're a pissed off little prick with a Napoleon dick",
+        "episode": 2,
+        "timestamp": {"begin": 39, "end": 42}
     }, {
         "from": "Abe Lincoln",
         "to": "Chuck Norris",
         "type": "battle",
-        "label": ""
+        "label": "Abe Lincoln vs. Chuck Norris (S01E03)",
+        "episode": 3,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Chuck Norris",
         "to": "John Wilkes Booth",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "My raps will blow your mind like a verbal John Wilkes Booth"
     }, {
         "from": "Abe Lincoln",
         "to": "John McCain",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I've got my face on the side of a mountain, you voted for John McCain"
     }, {
         "from": "Sarah Palin",
         "to": "Lady Gaga",
         "type": "battle",
-        "label": ""
+        "label": "Sarah Palin vs. Lady Gaga (S01E04)",
+        "episode": 4,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Lady Gaga",
         "to": "Michael Jackson",
-        "type": "mention-didnt-exist",
+        "type": "mention",
         "implicit": true,
-        "label": "With the most dysfunctional family since the Jackson fucking Five"
+        "label": "With the most dysfunctional family since the Jackson fucking Five",
+        "episode": 4,
+        "timestamp": {"begin": 46, "end": 50}
     }, {
         "from": "Lady Gaga",
         "to": "Papa Smurf",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "implicit": true,
         "label": "I think I'd rather elect a smurf than vote for you"
     }, {
         "from": "Sarah Palin",
         "to": "Madonna",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Everything you do is just a rerun of Madonna"
     }, {
         "from": "Lady Gaga",
         "to": "John McCain",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
+        "label": "History will regret you like John McCain"
+    }, {
+        "from": "Lady Gaga",
+        "to": "John McCain",
+        "type": "cameo",
         "label": "History will regret you like John McCain"
     }, {
         "from": "Hulk Hogan",
         "to": "Kim Jong-Il",
         "type": "battle",
-        "label": ""
+        "label": "Hulk Hogan vs. Kim Jong-Il (S01E05)",
+        "episode": 5,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Hulk Hogan",
         "to": "Macho Man",
         "type": "battle",
-        "label": ""
+        "label": "Hulk Hogan vs. Kim Jong-Il (S01E05)",
+        "episode": 5,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Kim Jong-Il",
         "to": "Macho Man",
         "type": "battle",
-        "label": ""
+        "label": "Hulk Hogan vs. Kim Jong-Il (S01E05)",
+        "episode": 5,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Kim Jong-Il",
         "to": "Ric Flair",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I'm coming at you like the Asian Ric Flair"
     }, {
         "from": "Kim Jong-Il",
         "to": "Barbie",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Your whole fam's a bunch of Barbies, dude"
     }, {
         "from": "Hulk Hogan",
         "to": "Sonic the Hedgehog",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You look like Sonic the Hedgehog's mother"
     }, {
         "from": "Hulk Hogan",
         "to": "South Park",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I'll hang you from the ropes like South Park puppet show"
     }, {
         "from": "Hulk Hogan",
         "to": "Laura Ling",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I'll choke hold you hostage like Laura Ling"
     }, {
         "from": "Justin Bieber",
-        "to": "Beethoven",
+        "to": "Ludwig van Beethoven",
         "type": "battle",
-        "label": ""
+        "label": "Justin Bieber vs. Beethoven (S01E06)",
+        "episode": 6,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Justin Bieber",
         "to": "Chewbacca",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Man it looks like Chewbacca wiped his ass on your head"
     }, {
         "from": "Justin Bieber",
         "to": "Michael Jackson",
-        "type": "mention-didnt-exist",
-        "label": "I'm the next Michael Jackson, you smell like Betty White"
+        "type": "mention",
+        "label": "I'm the next Michael Jackson, you smell like Betty White",
+        "episode": 6,
+        "timestamp": {"begin": 18, "end": 22}
     }, {
         "from": "Justin Bieber",
         "to": "Betty White",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I'm the next Michael Jackson, you smell like Betty White"
     }, {
-        "from": "Beethoven",
-        "to": "Bach",
-        "type": "mention-doesnt-exist",
+        "from": "Ludwig van Beethoven",
+        "to": "Johann Sebastian Bach",
+        "type": "mention",
         "label": "Ask Bach, I got more cock than Smith and Wesson"
     }, {
         "from": "Justin Bieber",
         "to": "Kim Kardashian",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I got Kim Kardashian in my bed backstage"
     }, {
-        "from": "Beethoven",
+        "from": "Ludwig van Beethoven",
         "to": "Usher",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You wanna be a little white Usher? Here, show them their seats!"
     }, {
         "from": "Albert Einstein",
         "to": "Stephen Hawking",
         "type": "battle",
-        "label": ""
+        "label": "Einstein vs. Stephen Hawking (S01E07)",
+        "episode": 7,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Albert Einstein",
         "to": "Wall-E",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You sound like WALL-E having sex with a Speak & Spell"
     }, {
         "from": "Stephen Hawking",
-        "to": "Moses",
-        "type": "mention-actor",
-        "label": "I'm the Snoop Dogg of Science"
+        "to": "Carl Sagan",
+        "type": "mention",
+        "label": "I'm about to bake raps from scratch like Carl Sagan"
     }, {
         "from": "Stephen Hawking",
         "to": "Carl Sagan",
-        "type": "mention-doesnt-exist",
-        "label": "I'm about to bake raps from scratch like Carl Sagan"
+        "type": "cameo",
+        "label": "I'm a supercomputer you're like a TI-82"
     }, {
         "from": "Genghis Khan",
         "to": "The Easter Bunny",
         "type": "battle",
-        "label": ""
+        "label": "Genghis Khan vs. Easter Bunny (S01E08)",
+        "episode": 8,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Genghis Khan",
         "to": "Khan",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Your bunny ass about to feel the wrath of Khan"
+    }, {
+        "from": "The Easter Bunny",
+        "to": "Jesus Christ",
+        "type": "mention",
+        "label": "We should keep it peaceful, homeboy, Jesus!"
+    }, {
+        "from": "The Easter Bunny",
+        "to": "Jesus Christ",
+        "type": "cameo",
+        "label": "We should keep it peaceful, homeboy, Jesus!"
+    }, {
+        "from": "The Easter Bunny",
+        "to": "Jesus Quintana",
+        "type": "mention",
+        "implicit": true,
+        "label": "We should keep it peaceful, homeboy, Jesus!"
+    }, {
+        "from": "The Easter Bunny",
+        "to": "Jesus Quintana",
+        "type": "cameo",
+        "label": "We should keep it peaceful, homeboy, Jesus!"
+    }, {
+        "from": "The Easter Bunny",
+        "to": "A man named Jesus",
+        "type": "cameo",
+        "label": "We should keep it peaceful, homeboy, Jesus!"
     }, {
         "from": "Napoleon Bonaparte",
         "to": "Napoleon Dynamite",
         "type": "battle",
-        "label": ""
+        "label": "Napoleon vs. Napoleon (S01E09)",
+        "episode": 9,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Napoleon Dynamite",
         "to": "Horatio Nelson",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I got skills I'll put you in a half Horatio Nelson"
     }, {
         "from": "Napoleon Dynamite",
         "to": "Boris Yeltsin",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You're the ugliest thing that's ever failed in Russia since Boris Yeltsin"
     }, {
         "from": "Napoleon Bonaparte",
         "to": "Tina the Llama",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I spit at you harder than Tina the Llama"
     }, {
         "from": "Napoleon Bonaparte",
         "to": "Lafawnduh",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Smacking your face till your lips swell up like Lafawnduh's"
     }, {
         "from": "Napoleon Bonaparte",
         "to": "Uncle Rico",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Before I toss you over the mountain like the dreams of Uncle Rico!"
     }, {
         "from": "Napoleon Bonaparte",
         "to": "Pedro",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "After this, your buddy Pedro will be voting for me!"
     }, {
         "from": "Billy Mays",
         "to": "Ben Franklin",
         "type": "battle",
-        "label": ""
+        "label": "Billy Mays vs. Ben Franklin (S01E10)",
+        "episode": 10,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Billy Mays",
-        "to": "The ShamWow Guy",
+        "to": "Vince Offer",
         "type": "battle",
-        "label": ""
+        "label": "Billy Mays vs. Ben Franklin (S01E10)",
+        "episode": 10,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ben Franklin",
-        "to": "The ShamWow Guy",
+        "to": "Vince Offer",
         "type": "battle",
-        "label": ""
+        "label": "Billy Mays vs. Ben Franklin (S01E10)",
+        "episode": 10,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ben Franklin",
         "to": "Rick James",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You couldn't sell Rick James a bag of crack, you're out of practice"
     }, {
         "from": "Ben Franklin",
         "to": "Arthur Miller",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Call me Arthur Miller son, cause it's death of a salesman"
+    }, {
+        "from": "Vince Offer",
+        "to": "George Washington",
+        "type": "cameo",
+        "label": "Your boy George chopped down trees",
+        "episode": 10,
+        "timestamp": {"begin": 93, "end": 95}
+    }, {
+        "from": "Vince Offer",
+        "to": "George Washington",
+        "type": "mention",
+        "implicit": true,
+        "label": "Your boy George chopped down trees",
+        "episode": 10,
+        "timestamp": {"begin": 93, "end": 95}
     }, {
         "from": "Gandalf",
         "to": "Dumbledore",
         "type": "battle",
-        "label": ""
+        "label": "Gandalf vs. Dumbledore (S01E11)",
+        "episode": 11,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Gandalf",
-        "to": "Tom Riddle",
-        "type": "mention-doesnt-exist",
+        "to": "Lord Voldemort",
+        "type": "mention",
+        "implicit": true,
         "label": "Tom Riddle me this you bitch"
     }, {
         "from": "Gandalf",
-        "to": "Snape",
-        "type": "mention-doesnt-exist",
+        "to": "Severus Snape",
+        "type": "mention",
         "label": "You fool, you got Snaped"
-    },  {
+    }, {
         "from": "Dumbledore",
         "to": "Carlos Mencia",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Mines of Moria? Ha! More like Mind of Mencia"
+    }, {
+        "from": "Dumbledore",
+        "to": "Gilderoy Lockhart",
+        "type": "cameo",
+        "label": "I prefer the company of wizards, and I'm proud of it!"
     }, {
         "from": "Dr Seuss",
         "to": "William Shakespeare",
         "type": "battle",
-        "label": ""
+        "label": "Dr. Seuss vs. Shakespeare (S01E12)",
+        "episode": 12,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Cat in the Hat",
         "to": "William Shakespeare",
         "type": "battle",
-        "label": ""
+        "label": "Dr. Seuss vs. Shakespeare (S01E12)",
+        "episode": 12,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "William Shakespeare",
-        "to": "Thing 1 and Thing 2",
+        "to": "Things 1 & 2",
         "type": "battle",
-        "label": ""
+        "label": "Dr. Seuss vs. Shakespeare (S01E12)",
+        "episode": 12,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "William Shakespeare",
         "to": "Soulja Boy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You're an old white Soulja Boy who has no swag"
     }, {
         "from": "William Shakespeare",
         "to": "Soulja Boy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You're an old white Soulja Boy who has no swag"
     }, {
         "from": "William Shakespeare",
         "to": "Stephanie Meyer",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "implicit": true,
         "label": "I bet you wrote The Twilight books too!"
     }, {
@@ -307,1253 +401,1877 @@
         "to": "John Lennon",
         "type": "mention",
         "implicit": true,
-        "label": "I'm switching up my style like the Beatles with my pieces"
+        "label": "I'm switching up my style like the Beatles with my pieces",
+        "episode": 12,
+        "timestamp": {"begin": 74, "end": 79}
     }, {
         "from": "William Shakespeare",
         "to": "Jim Henson",
-        "type": "mention-didnt-exist",
+        "type": "mention",
         "implicit": true,
-        "label": "You think your new book might include a trisyllabic meter and some ghetto Muppet creatures"
+        "label": "You think your new book might include a trisyllabic meter and some ghetto Muppet creatures",
+        "episode": 12,
+        "timestamp": {"begin": 79, "end": 82}
     }, {
         "from": "Cat in the Hat",
         "to": "Horton",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Even Horton doesn't want to hear you"
     }, {
         "from": "Cat in the Hat",
         "to": "MacBeth",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Looking like the end of MacBeth"
-    },  {
-        "from": "Mr. T",
-        "to": "Mr. Rogers",
-        "type": "battle",
+    }, {
+        "from": "Mister Rogers",
+        "to": "Stephen Hawking",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "Mr. T",
+        "to": "Mister Rogers",
+        "type": "battle",
+        "label": "Mr. T vs. Mr. Rogers (S01E13)",
+        "episode": 13,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Mr. T",
         "to": "Bill Cosby",
-        "type": "mention-didnt-exist",
-        "label": "Bill Cosby wants his sweater"
+        "type": "mention",
+        "label": "Bill Cosby wants his sweater",
+        "episode": 13,
+        "timestamp": {"begin": 67, "end": 71}
     }, {
         "from": "Mr. T",
         "to": "Henrietta",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "The only pussy cat you ever seen is on Henrietta, SUCKA!"
     }, {
         "from": "Mr. T",
+        "to": "H. M. Murdock",
+        "type": "mention",
+        "label": "I'll get Hannibal, Murdock, and Face to stomp you out!"
+    }, {
+        "from": "Mr. T",
+        "to": "H. M. Murdock",
+        "type": "cameo",
+        "label": "I'll get Hannibal, Murdock, and Face to stomp you out!"
+    }, {
+        "from": "Mr. T",
+        "to": "John 'Hannibal' Smith",
+        "type": "mention",
+        "label": "I'll get Hannibal, Murdock, and Face to stomp you out!"
+    }, {
+        "from": "Mr. T",
+        "to": "John 'Hannibal' Smith",
+        "type": "cameo",
+        "label": "I'll get Hannibal, Murdock, and Face to stomp you out!"
+    }, {
+        "from": "Mr. T",
+        "to": "Templeton 'Face' Peck",
+        "type": "mention",
+        "label": "I'll get Hannibal, Murdock, and Face to stomp you out!"
+    }, {
+        "from": "Mr. T",
+        "to": "Templeton 'Face' Peck",
+        "type": "cameo",
+        "label": "I'll get Hannibal, Murdock, and Face to stomp you out!"
+    }, {
+        "from": "Mr. T",
         "to": "Mr. McFeely",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "And your Mr. McFeely delivers a lot more than letters"
     }, {
-        "from": "Mr. Rogers",
+        "from": "Mister Rogers",
         "to": "Captain Crunch",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I'm not the one with my face on some whack ass Captain Crunch"
     }, {
         "from": "Captain Kirk",
         "to": "Christopher Columbus",
         "type": "battle",
-        "label": ""
+        "label": "Columbus vs. Captain Kirk (S01E14)",
+        "episode": 14,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Christopher Columbus",
         "to": "Khan",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "My rhymes will burrow in your ears like The Wrath of Khan"
     }, {
         "from": "Christopher Columbus",
         "to": "Isabela I",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "We'll see how Isabella likes my Captain's log"
     }, {
         "from": "Christopher Columbus",
-        "to": "Sulu",
-        "type": "mention-doesnt-exist",
+        "to": "Hikaru Sulu",
+        "type": "mention",
         "label": "I've got a neck chop for Spock I'll put my sword through Sulu"
     }, {
         "from": "Christopher Columbus",
         "to": "Spock",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
+        "label": "I've got a neck chop for Spock I'll put my sword through Sulu"
+    },  {
+        "from": "Christopher Columbus",
+        "to": "Hikaru Sulu",
+        "type": "cameo",
         "label": "I've got a neck chop for Spock I'll put my sword through Sulu"
     }, {
+        "from": "Christopher Columbus",
+        "to": "Spock",
+        "type": "cameo",
+        "label": "I've got a neck chop for Spock I'll put my sword through Sulu"
+    },{
         "from": "Nice Peter",
-        "to": "Epiclloyd",
+        "to": "EpicLLOYD",
         "type": "battle",
-        "label": ""
+        "label": "The Final Battle: Nice Peter vs. EpicLLOYD (S01E15), Nice Peter vs. EpicLLOYD 2 (S05E12)",
+        "episode": 15,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Epiclloyd",
+        "from": "Nice Peter",
         "to": "Bill O'Reilly",
         "type": "mention",
-        "label": "You and Bill O'Reilly can both suck my dick!"
+        "label": "You and Bill O'Reilly can both suck my dick!",
+        "episode": 15,
+        "timestamp": {"begin": 59, "end": 63}
     }, {
         "from": "Nice Peter",
-        "to": "Chuck Norris",
+        "to": "Adolf Hitler",
         "type": "mention",
-        "label": "You've got as much music talent as Chuck fucking Norris"
+        "label": "I drew a mustache on your face and you played a mean Hitler",
+        "episode": 15,
+        "timestamp": {"begin": 51, "end": 57}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Macho Man",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 17, "end": 20}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Chuck Norris",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 17, "end": 20}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Genghis Khan",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 17, "end": 20}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Gandalf",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 20, "end": 23}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Johann Sebastian Bach",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 22, "end": 25}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Napoleon Bonaparte",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 26, "end": 28}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "John Lennon",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 43, "end": 48}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Cat in the Hat",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 43, "end": 48}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Stephen Hawking",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 46, "end": 48}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Hulk Hogan",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 46, "end": 48}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Adolf Hitler",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 33, "end": 36}
+    }, {
+        "from": "Nice Peter",
+        "to": "Abe Lincoln",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 57, "end": 60}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Ludwig van Beethoven",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 30, "end": 32}
+    }, {
+        "from": "Nice Peter",
+        "to": "Ludwig van Beethoven",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 71, "end": 73}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Things 1 & 2",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 36, "end": 39}
+    }, {
+        "from": "EpicLLOYD",
+        "to": "Bill O'Reilly",
+        "type": "cameo",
+        "label": "",
+        "episode": 15,
+        "timestamp": {"begin": 64, "end": 67}
     }, {
         "from": "Nice Peter",
         "to": "Bette Midler",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Take the mustache away, you look more like Bette Midler"
     }, {
         "from": "Nice Peter",
         "to": "Gollum",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "It's like I'm battle rapping a fat version of Gollum"
     }, {
-        "from": "Epiclloyd",
+        "from": "EpicLLOYD",
         "to": "KassemG",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You were nothing before you rode up on KassemG's jock"
+    }, {
+        "from": "EpicLLOYD",
+        "to": "KassemG",
+        "type": "cameo",
+        "label": "You were nothing before you rode up on KassemG's jock"
+    }, {
+        "from": "Nice Peter",
+        "to": "KassemG",
+        "type": "cameo",
+        "label": "Not only are you not gonna quit the rap battles, Pete, you're gonna make 'em bigger; you're gonna make 'em better."
     }, {
         "from": "Darth Vader",
         "to": "Chewbacca",
-        "type": "mention-doesnt-exist",
-        "label": "Roar like Chewbacca"
+        "type": "mention",
+        "label": "Roar like Chewbacca, the voice of Mufasa!"
     }, {
         "from": "Darth Vader",
         "to": "Mufasa",
-        "type": "mention-doesnt-exist",
-        "label": "The voice of Mufasa"
+        "type": "mention",
+        "label": "Roar like Chewbacca, the voice of Mufasa!"
     }, {
         "from": "Adolf Hitler",
-        "to": "Palpatine",
-        "type": "mention-doesnt-exist",
+        "to": "Emperor Palpatine",
+        "type": "mention",
         "label": "Not surprising coming from the Emperor's whore"
     }, {
         "from": "Darth Vader",
         "to": "Indiana Jones",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Ask Indiana Jones who the fuck I am"
     }, {
         "from": "Master Chief",
         "to": "Leonidas",
         "type": "battle",
-        "label": ""
+        "label": "Master Chief vs. Leonidas (S02E02)",
+        "episode": 17,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Master Chief",
         "to": "Fabio Flintstone",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You've got a bad case of no shirt there, Fabio Flintstone."
+    }, {
+        "from": "Master Chief",
+        "to": "Queen Gorgo",
+        "type": "cameo",
+        "label": "Took a campaign to your house and showed your Queen my plasma cannon!"
+    }, {
+        "from": "Master Chief",
+        "to": "Queen Gorgo",
+        "type": "mention",
+        "label": "Took a campaign to your house and showed your Queen my plasma cannon!"
     }, {
         "from": "Mario Bros.",
         "to": "Wright Bros.",
         "type": "battle",
-        "label": ""
+        "label": "Mario Bros. vs. Wright Bros. (S02E03)",
+        "episode": 18,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Wright Bros.",
         "to": "Donkey Kong",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "We stayed up all night playing Donkey Kong"
     }, {
         "from": "Wright Bros.",
         "to": "Princess Peach",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Cause your princess is in our castle now. (Yeah she's gone.)"
     }, {
         "from": "Wright Bros.",
         "to": "Bowser",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Spit flames out our mouth like our name was Bowser"
     }, {
         "from": "Michael Jackson",
         "to": "Elvis Presley",
         "type": "battle",
-        "label": ""
+        "label": "Michael Jackson vs. Elvis Presley (S02E04)",
+        "episode": 19,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Michael Jackson",
         "to": "Ed Sullivan",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Call me Ed Sullivan, shoot you from the waist up"
     }, {
         "from": "Elvis Presley",
+        "to": "Tootie Ramsey",
+        "type": "mention",
+        "label": "Man, you look like Tootie!"
+    }, {
+        "from": "Elvis Presley",
         "to": "Tito",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Even Tito looks better than you"
     }, {
         "from": "Cleopatra",
         "to": "Marilyn Monroe",
         "type": "battle",
-        "label": ""
+        "label": "Cleopatra vs. Marilyn Monroe (S02E05)",
+        "episode": 20,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Marilyn Monroe",
         "to": "KassemG",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
+        "label": "This ugly hag and KassemG got matching noses"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "KassemG",
+        "type": "cameo",
         "label": "This ugly hag and KassemG got matching noses"
     }, {
         "from": "Marilyn Monroe",
         "to": "Moses",
-        "type": "mention-didnt-exist",
-        "label": "Overthrow pharaohs who oppose me like Moses"
+        "type": "mention",
+        "label": "Overthrow pharaohs who oppose me like Moses",
+        "episode": 20,
+        "timestamp": {"begin": 11, "end": 14}
     }, {
         "from": "Cleopatra",
         "to": "Joe DiMaggio",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Even Joe DiMaggio took a swing in your batter's box"
     }, {
         "from": "Marilyn Monroe",
         "to": "Marlon Brando",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
     }, {
         "from": "Marilyn Monroe",
-        "to": "John Kennedy",
-        "type": "mention-doesnt-exist",
+        "to": "Marlon Brando",
+        "type": "cameo",
+        "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "John F. Kennedy",
+        "type": "mention",
+        "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
+    }, {
+        "from": "Marilyn Monroe",
+        "to": "John F. Kennedy",
+        "type": "cameo",
         "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
     }, {
         "from": "Marilyn Monroe",
         "to": "Bob Kennedy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Marlon Brando and the Kennedy's, while you fuck your own brothers"
     }, {
         "from": "Marilyn Monroe",
         "to": "Mark Antony",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Gettin' Lo on Mark Antony, tossing Caesar's salad"
     }, {
         "from": "Marilyn Monroe",
         "to": "Julius Caesar",
-        "type": "mention-didnt-exist",
-        "label": "Gettin' Lo on Mark Antony, tossing Caesar's salad"
+        "type": "mention",
+        "label": "Gettin' Lo on Mark Antony, tossing Caesar's salad",
+        "episode": 20,
+        "timestamp": {"begin": 44, "end": 49}
     }, {
         "from": "Steve Jobs",
         "to": "Bill Gates",
         "type": "battle",
-        "label": ""
+        "label": "Steve Jobs vs. Bill Gates (S02E06)",
+        "episode": 21,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Steve Jobs",
         "to": "Melinda Gates",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "And the GUI that Melinda uses"
     }, {
         "from": "Steve Jobs",
         "to": "John Lennon",
         "type": "mention",
         "implicit": true,
-        "label": "A man uses the machines I built to listen to the Beatles while he relaxes"
+        "label": "A man uses the machines I built to listen to the Beatles while he relaxes",
+        "episode": 21,
+        "timestamp": {"begin": 42, "end": 46}
     }, {
         "from": "Bill Gates",
         "to": "Steve Wozniak",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Did your fat beard Wozniak write these raps for you too?"
     }, {
         "from": "Bill Gates",
         "to": "HAL 9000",
         "type": "battle",
-        "label": ""
+        "label": "Steve Jobs vs. Bill Gates (S02E06)",
+        "episode": 21,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "HAL 9000",
         "to": "Terminator",
-        "type": "mention-didnt-exist",
-        "label": "Hasta la vista, like the Terminator told ya "
+        "type": "mention",
+        "label": "Hasta la vista, like the Terminator told ya ",
+        "episode": 21,
+        "timestamp": {"begin": 128, "end": 130}
     }, {
         "from": "Frank Sinatra",
         "to": "Freddie Mercury",
         "type": "battle",
-        "label": ""
+        "label": "Frank Sinatra vs. Freddie Mercury (S02E07)",
+        "episode": 22,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Frank Sinatra",
-        "to": "Sammy Davis",
-        "type": "mention-doesnt-exist",
+        "to": "Sammy Davis, Jr.",
+        "type": "mention",
         "label": "I love the coloreds and the queers, just ask Sammy Davis"
     }, {
         "from": "Frank Sinatra",
-        "to": "Sammy Davis",
-        "type": "mention-doesnt-exist",
+        "to": "Sammy Davis, Jr.",
+        "type": "cameo",
         "label": "I love the coloreds and the queers, just ask Sammy Davis"
     }, {
         "from": "Barack Obama",
         "to": "Mitt Romney",
         "type": "battle",
-        "label": ""
+        "label": "Barack Obama vs. Mitt Romney (S02E08)",
+        "episode": 23,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Barack Obama",
         "to": "Abe Lincoln",
         "type": "battle",
-        "label": ""
+        "label": "Barack Obama vs. Mitt Romney (S02E08)",
+        "episode": 23,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Abe Lincoln",
         "to": "Mitt Romney",
         "type": "battle",
-        "label": ""
+        "label": "Barack Obama vs. Mitt Romney (S02E08)",
+        "episode": 23,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Barack Obama",
         "to": "Mister Fantastic",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You've got the momma jeans, and a Mister Fantastic face"
     }, {
         "from": "Mitt Romney",
         "to": "Patrick Ewing",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You got hitched to the female version of Patrick Ewing!"
     }, {
         "from": "Doc Brown",
         "to": "Doctor Who",
         "type": "battle",
-        "label": ""
+        "label": "Doc Brown vs. Doctor Who (S02E09)",
+        "episode": 24,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Marty McFly",
         "to": "Doctor Who",
         "type": "battle",
-        "label": ""
+        "label": "Doc Brown vs. Doctor Who (S02E09)",
+        "episode": 24,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Doctor Who",
         "to": "Albert Einstein",
         "type": "mention",
-        "label": "The wannabe Einstein minus the 'stache"
+        "label": "The wannabe Einstein minus the 'stache",
+        "episode": 24,
+        "timestamp": {"begin": 18, "end": 20}
+    }, {
+        "from": "Doc Brown",
+        "to": "Dalek",
+        "type": "mention",
+        "label": "Dalek my balls!"
+    }, {
+        "from": "Doc Brown",
+        "to": "Dalek",
+        "type": "cameo",
+        "label": "Dalek my balls!"
     }, {
         "from": "Bruce Lee",
         "to": "Clint Eastwood",
         "type": "battle",
-        "label": ""
+        "label": "Bruce Lee vs. Clint Eastwood (S02E10)",
+        "episode": 25,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Bruce Lee",
         "to": "Chuck Norris",
         "type": "mention",
-        "label": "I'm the king of nunchucks, I fucked up Chuck Norris"
+        "label": "I'm the king of nunchucks, I fucked up Chuck Norris",
+        "episode": 25,
+        "timestamp": {"begin": 22, "end": 26}
     }, {
         "from": "Clint Eastwood",
         "to": "Ringo",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You're in the gym too much Ringo, perfecting kicks"
     }, {
         "from": "Batman",
         "to": "Sherlock Holmes",
         "type": "battle",
-        "label": ""
+        "label": "Batman vs. Sherlock Holmes (S02E11)",
+        "episode": 26,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Batman",
         "to": "Dr. Watson",
         "type": "battle",
-        "label": ""
+        "label": "Batman vs. Sherlock Holmes (S02E11)",
+        "episode": 26,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Robin",
         "to": "Sherlock Holmes",
         "type": "battle",
-        "label": ""
+        "label": "Batman vs. Sherlock Holmes (S02E11)",
+        "episode": 26,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Robin",
         "to": "Dr. Watson",
         "type": "battle",
-        "label": ""
+        "label": "Batman vs. Sherlock Holmes (S02E11)",
+        "episode": 26,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Batman",
         "to": "Scooby Doo",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "While you and Velma here are solving Scooby Doo mysteries"
     }, {
         "from": "Robin",
         "to": "Irene Adler",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Gotta secret about your homegirl Irene Adler"
     }, {
         "from": "Robin",
         "to": "Arthur Conan Doyle",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Holy Conan Doyle, let's get 'em! Aw God damn!"
     }, {
         "from": "Batman",
         "to": "Alfred",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I had Alfred read your books, he told me they suck"
     }, {
         "from": "Moses",
         "to": "Santa Claus",
         "type": "battle",
-        "label": ""
+        "label": "Moses vs. Santa Claus (S02E12)",
+        "episode": 27,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Santa Claus",
         "to": "Obi-Wan Kenobi",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Sweet robes, Obi-wan-too many days in the sun,"
     }, {
         "from": "Moses",
         "to": "Papa Smurf",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "But he never mentioned a fat-ass Papa Smurf"
     }, {
         "to": "Eve",
         "from": "Adam",
         "type": "battle",
-        "label": ""
+        "label": "Adam vs. Eve (S02E13)",
+        "episode": 28,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "to": "Eve",
+        "from": "Steve",
+        "type": "mention",
+        "label": "I work, while you and your boyfriend Steve drink and play sports in a fantasy league!"
+    }, {
+        "to": "Eve",
+        "from": "Steve",
+        "type": "cameo",
+        "label": "I work, while you and your boyfriend Steve drink and play sports in a fantasy league!"
     }, {
         "from": "Gandhi",
         "to": "Martin Luther King Jr.",
         "type": "battle",
-        "label": ""
+        "label": "Gandhi vs. Martin Luther King Jr. (S02E14)",
+        "episode": 29,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Gandhi",
         "to": "Martin Luther",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Leave your thoughts on the door like the real Martin Luther"
     }, {
         "from": "Nikola Tesla",
         "to": "Thomas Edison",
         "type": "battle",
-        "label": ""
+        "label": "Nikola Tesla vs. Thomas Edison (S02E15)",
+        "episode": 30,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Nikola Tesla",
+        "to": "J. P. Morgan",
+        "type": "mention",
+        "implicit": true,
+        "label": "And it's a shocking real story of a banker and you.",
+        "episode": 30,
+        "timestamp": {"begin": 86, "end": 89}
     }, {
         "from": "Babe Ruth",
         "to": "Lance Armstrong",
         "type": "battle",
-        "label": ""
+        "label": "Babe Ruth vs. Lance Armstrong (S02E16)",
+        "episode": 31,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Babe Ruth",
         "to": "Olsen Twins",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Third base with an Olsen twin, that's the sin, face it!"
     }, {
         "from": "Babe Ruth",
         "to": "Sheryl Crow",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You look tired, kid, you've got Sheryl crows feet eyes"
     }, {
         "from": "Mozart",
         "to": "Skrillex",
         "type": "battle",
-        "label": ""
+        "label": "Mozart vs. Skrillex (S02E17)",
+        "episode": 32,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Skrillex",
         "to": "Michael Jackson",
         "type": "mention",
         "implicit": true,
-        "label": "Your daddy issues make the Jackson 5 look like the Family Circus!"
+        "label": "Your daddy issues make the Jackson Five look like the Family Circus!",
+        "episode": 32,
+        "timestamp": {"begin": 23, "end": 26}
     }, {
         "from": "Mozart",
         "to": "Steve Urkel",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "You're like an emo Steve Urkel and you (ooh) reek of dead mouse!"
     }, {
-        "from": "Rasputin",
-        "to": "Stalin",
+        "from": "Grigori Rasputin",
+        "to": "Josef Stalin",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Rasputin",
-        "to": "Lenin",
+        "from": "Grigori Rasputin",
+        "to": "Vladimir Lenin",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Rasputin",
-        "to": "Gorbachev",
+        "from": "Grigori Rasputin",
+        "to": "Mikhail Gorbatchov",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Rasputin",
-        "to": "Putin",
+        "from": "Grigori Rasputin",
+        "to": "Vladimir Putin",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Stalin",
-        "to": "Lenin",
+        "from": "Josef Stalin",
+        "to": "Vladimir Lenin",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Stalin",
-        "to": "Gorbachev",
+        "from": "Josef Stalin",
+        "to": "Mikhail Gorbatchov",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Stalin",
-        "to": "Putin",
+        "from": "Josef Stalin",
+        "to": "Vladimir Putin",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Lenin",
-        "to": "Gorbachev",
+        "from": "Vladimir Lenin",
+        "to": "Mikhail Gorbatchov",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Lenin",
-        "to": "Putin",
+        "from": "Vladimir Lenin",
+        "to": "Vladimir Putin",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Gorbachev",
-        "to": "Putin",
+        "from": "Mikhail Gorbatchov",
+        "to": "Vladimir Putin",
         "type": "battle",
-        "label": ""
+        "label": "Rasputin vs. Stalin (S02E18)",
+        "episode": 33,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
-        "from": "Rasputin",
+        "from": "Grigori Rasputin",
         "to": "Wario",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Cool mustache, Wario"
     }, {
-        "from": "Rasputin",
+        "from": "Grigori Rasputin",
         "to": "Wario",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Cool mustache, Wario"
     }, {
-        "from": "Rasputin",
+        "from": "Grigori Rasputin",
         "to": "Superman",
         "type": "mention",
         "implicit": true,
-        "label": "If you're the man of steel I spit kryptonite!"
+        "label": "If you're the man of steel I spit kryptonite!",
+        "episode": 33,
+        "timestamp": {"begin": 35, "end": 37}
     }, {
-        "from": "Stalin",
+        "from": "Josef Stalin",
         "to": "Adolf Hitler",
         "type": "mention",
-        "label": "Drop the hammer on you harder than I bitch slapped Hitler"
+        "label": "Drop the hammer on you harder than I bitch slapped Hitler",
+        "episode": 33,
+        "timestamp": {"begin": 65, "end": 67}
     }, {
-        "from": "Stalin",
+        "from": "Josef Stalin",
         "to": "Trotsky",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Pride of Lenin took Trotsky out of the picture"
     }, {
-        "from": "Lenin",
+        "from": "Vladimir Lenin",
         "to": "Frankenstein",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Let me start with you there, Frankenstein!"
     }, {
-        "from": "Lenin",
+        "from": "Vladimir Lenin",
         "to": "R.L. Stine",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Looking like something out of R.L. Stine"
     }, {
-        "from": "Lenin",
+        "from": "Vladimir Lenin",
         "to": "Karl Marx",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "And stopped the greatest revolution since the birth of Marx!"
     }, {
-        "from": "Gorbachev",
+        "from": "Mikhail Gorbatchov",
         "to": "Ronald Reagan",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Shook hands with both Ronalds; Reagan and McDonald's, no doubt!"
     }, {
-        "from": "Gorbachev",
+        "from": "Mikhail Gorbatchov",
         "to": "Ronald McDonald",
-        "type": "mention-didnt-exist",
-        "label": "Shook hands with both Ronalds; Reagan and McDonald's, no doubt!"
+        "type": "mention",
+        "label": "Shook hands with both Ronalds; Reagan and McDonald's, no doubt!",
+        "episode": 33,
+        "timestamp": {"begin": 110, "end": 114}
     }, {
-        "from": "Gorbachev",
+        "from": "Mikhail Gorbatchov",
         "to": "Baryshnikov",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I had the balls to let Baryshnikov dance, playa!"
     }, {
-        "from": "Gorbachev",
+        "from": "Mikhail Gorbatchov",
         "to": "Kool-Aid Man",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Torn down that wall like the Kool-Aid Man (Oh yeah!)"
     }, {
-        "from": "Darth Vader",
+        "from": "Adolf Hitler",
         "to": "Abe Lincoln",
-        "type": "mention-bg",
+        "type": "cameo",
+        "label": "",
+        "episode": 34,
+        "timestamp": {"begin": 16, "end": 21}
+    }, {
+        "from": "Darth Vader",
+        "to": "Lando Calrissian",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "Adolf Hitler",
-        "to": "Abe Lincoln",
-        "type": "mention-bg",
+        "to": "Lando Calrissian",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "Darth Vader",
         "to": "Stephen Hawking",
-        "type": "mention-bg",
-        "label": ""
+        "type": "cameo",
+        "label": "",
+        "episode": 34,
+        "timestamp": {"begin": 13, "end": 15}
     }, {
         "from": "Adolf Hitler",
         "to": "Stephen Hawking",
-        "type": "mention-bg",
-        "label": ""
-    }, {
-        "from": "Adolf Hitler",
-        "to": "Boba Fett",
-        "type": "battle",
-        "label": ""
+        "type": "cameo",
+        "label": "",
+        "episode": 34,
+        "timestamp": {"begin": 10, "end": 12}
     }, {
         "from": "Darth Vader",
         "to": "Boba Fett",
-        "type": "battle",
-        "label": ""
+        "type": "cameo",
+        "label": "Yo I'm Boba Fett, you wanna mess with me?",
+        "episode": 34,
+        "timestamp": {"begin": 100, "end": 107}
     }, {
         "from": "Adolf Hitler",
         "to": "Mickey Mouse",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I beat you twice, you sellout, now you bow down to Mickey Mouse"
     }, {
         "from": "Adolf Hitler",
-        "to": "Napoleon Bonaparte",
-        "type": "mention",
-        "label": " You dumb motherfucker, didn't Napoleon let you know?"
-    }, {
-        "from": "Adolf Hitler",
         "to": "Goofy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'll take you and your new boyfriend Goofy and all your spermy soldier guys!"
     }, {
         "from": "Blackbeard",
         "to": "Al Capone",
         "type": "battle",
-        "label": ""
+        "label": "Blackbeard vs. Al Capone (S03E02)",
+        "episode": 35,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Blackbeard",
         "to": "Julius Caesar",
-        "type": "mention-didnt-exist",
-        "label": "Beef with me? Please! I'm the high seas Caesar"
+        "type": "mention",
+        "label": "Beef with me? Please! I'm the high seas Caesar",
+        "episode": 35,
+        "timestamp": {"begin": 22, "end": 24}
     }, {
         "from": "Al Capone",
         "to": "Captain Crunch",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I'm a busy man, Captain Crunch, I'll make this quick"
     }, {
         "from": "Al Capone",
         "to": "Johnny Depp",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'm ruining pirates faster than Johnny Depp did"
     }, {
         "from": "Al Capone",
         "to": "Edward Kenway",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'm the emcee assassin, slash like Edward Kenway"
     }, {
-        "from": "Miley Cyrus",
-        "to": "Joan Of Arc",
-        "type": "battle",
+        "from": "Al Capone",
+        "to": "Edward Kenway",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "Miley Cyrus",
+        "to": "Joan of Arc",
+        "type": "battle",
+        "label": "Miley Cyrus vs. Joan of Arc (S03E03)",
+        "episode": 36,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Miley Cyrus",
+        "to": "Lilly Truscott",
+        "type": "cameo",
+        "label": "Sweet burn!"
+    }, {
+        "from": "Miley Cyrus",
+        "to": "Miley Stewart",
+        "type": "cameo",
+        "label": "Sweet burn!"
+    }, {
+        "from": "Miley Cyrus",
         "to": "Britney Spears",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " It's Miley Cyrus, I'm the hottest thing since Britney, Bitch!"
     }, {
-        "from": "Joan Of Arc",
+        "from": "Joan of Arc",
         "to": "Katniss Everdeen",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Je suis la fille en feu, call me Katniss Everdeen"
     }, {
-        "from": "Joan Of Arc",
+        "from": "Joan of Arc",
         "to": "Wiz Khalifa",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Your highest calling was a text from Wiz Khalifa"
     }, {
         "from": "Bob Ross",
         "to": "Pablo Picasso",
         "type": "battle",
-        "label": ""
+        "label": "Bob Ross vs. Pablo Picasso (S03E04)",
+        "episode": 37,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Pablo Picasso",
         "to": "Muhammad Ali",
-        "type": "mention-didnt-exist",
-        "label": " I am the greatest, the modern art Muhammad Ali"
+        "type": "mention",
+        "label": " I am the greatest, the modern art Muhammad Ali",
+        "episode": 37,
+        "timestamp": {"begin": 9, "end": 13}
     }, {
         "from": "Pablo Picasso",
         "to": "Salvador Dali",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I melt faces, call me MC Dali"
     }, {
         "from": "Pablo Picasso",
         "to": "Nickelback",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You're the PBS version of Nickelback"
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Lump (Pablo Picasso's dog)",
+        "type": "mention",
+        "label": "I could make better art with my wiener, Lump!"
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Lump (Pablo Picasso's dog)",
+        "type": "cameo",
+        "label": "I could make better art with my wiener, Lump!"
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Billy Mays",
+        "type": "cameo",
+        "label": "",
+        "episode": 37,
+        "timestamp": {"begin": 68, "end": 70}
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Doctor Who",
+        "type": "cameo",
+        "label": "",
+        "episode": 37,
+        "timestamp": {"begin": 69, "end": 71}
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Stephen Hawking",
+        "type": "cameo",
+        "label": "",
+        "episode": 37,
+        "timestamp": {"begin": 69, "end": 71}
+    }, {
+        "from": "Pablo Picasso",
+        "to": "Mister Rogers",
+        "type": "cameo",
+        "label": "",
+        "episode": 37,
+        "timestamp": {"begin": 69, "end": 71}
     }, {
         "from": "Bob Ross",
         "to": "Jackson Pollock",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Call me Jackson Pollock, because I splatter MCs"
     }, {
         "from": "Michael Jordan",
         "to": "Muhammad Ali",
         "type": "battle",
-        "label": ""
+        "label": "Michael Jordan vs. Muhammad Ali (S03E05)",
+        "episode": 38,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Michael Jordan",
         "to": "Lebron James",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Cause you've got as much chance of beating me as Lebron"
     }, {
         "from": "Muhammad Ali",
         "to": "Dennis Rodman",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You're the only Bull that's uglier than Rodman"
     }, {
         "from": "Muhammad Ali",
         "to": "Gandalf",
         "type": "mention",
-        "label": " When you came back a Wizard like Gandalf the Black!"
+        "label": " When you came back a Wizard like Gandalf the Black!",
+        "episode": 38,
+        "timestamp": {"begin": 42, "end": 45}
     }, {
         "from": "Muhammad Ali",
         "to": "Adolf Hitler",
         "type": "mention",
-        "label": "I'll whoop your face back to your Hitler mustache"
+        "label": "I'll whoop your face back to your Hitler mustache",
+        "episode": 33,
+        "timestamp": {"begin": 52, "end": 55}
     }, {
         "from": "Michael Jordan",
         "to": "Scottie Pippen",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I would pass the mic to Pippen but I'm not done scoring"
     }, {
         "from": "Michael Jordan",
         "to": "George Foreman",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Stay all up in your grill like my name was George Foreman"
     }, {
         "from": "Michael Jordan",
         "to": "Sonny Liston",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'll leave you like Liston, flat on your ass!"
     }, {
         "from": "Muhammad Ali",
         "to": "Reggie Miller",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I saw you slapping Reggie Miller, boy, what's wrong with you?"
     }, {
         "from": "Muhammad Ali",
         "to": "Ronald McDonald",
-        "type": "mention-didnt-exist",
-        "implicit": true,
-        "label": " McDonalds and underpants as corporate backers"
+        "type": "mention",
+        "label": " McDonalds and underpants as corporate backers",
+        "episode": 33,
+        "timestamp": {"begin": 74, "end": 80}
     }, {
         "from": "Donald Trump",
         "to": "Ebenezer Scrooge",
         "type": "battle",
-        "label": ""
+        "label": "Donald Trump vs. Ebenezer Scrooge (S03E06)",
+        "episode": 39,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "J. P. Morgan",
         "to": "Ebenezer Scrooge",
         "type": "battle",
-        "label": ""
+        "label": "Donald Trump vs. Ebenezer Scrooge (S03E06)",
+        "episode": 39,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Kanye West",
         "to": "Ebenezer Scrooge",
         "type": "battle",
-        "label": ""
+        "label": "Donald Trump vs. Ebenezer Scrooge (S03E06)",
+        "episode": 39,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Death",
         "to": "Ebenezer Scrooge",
         "type": "battle",
-        "label": ""
+        "label": "Donald Trump vs. Ebenezer Scrooge (S03E06)",
+        "episode": 39,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Donald Trump",
         "to": "Charles Dickens",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Wake up, Scrooge! I'm about to take a Dickens of a dump"
     }, {
         "from": "Donald Trump",
         "to": "Tiny Timmy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Keep your TB from Tiny Timmy away from me, don't even touch me"
     }, {
         "from": "Donald Trump",
         "to": "Jay-Z",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Even Jay-Z knows what a pimp I am"
     }, {
         "from": "Donald Trump",
         "to": "2 Chainz",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Cause I'm out, I got my own fucking problems, call me 2 Chainz"
     }, {
         "from": "J. P. Morgan",
         "to": "Sebastian (The Little Mermaid)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You should have made like Sebastian, and kissed the girl"
     }, {
         "from": "Kanye West",
         "to": "Aziz Ansari",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Even I can make time for Azizy"
     }, {
         "from": "Death",
         "to": "Tiny Timmy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " With Tiny Tim's innocent blood on your hands"
     }, {
         "from": "Rick Grimes",
         "to": "Walter White",
         "type": "battle",
-        "label": ""
+        "label": "Rick Grimes vs. Walter White (S03E07)",
+        "episode": 40,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Rick Grimes",
         "to": "Carl Grimes",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Carl, stay back, this is gonna get bad"
     }, {
         "from": "Rick Grimes",
         "to": "Skyler White",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Cooking up Blue Sky and bigger lies for Skyler"
     }, {
         "from": "Rick Grimes",
         "to": "MacGyver",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Hatching little schemes like a dying MacGyver"
     }, {
         "from": "Walter White",
         "to": "Gus Fring",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Ask Gus, you don't wanna face off against me"
     }, {
         "from": "Walter White",
         "to": "Walter Jr.",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I've seen Walter Jr. handle walkers better than you"
     }, {
         "from": "Walter White",
         "to": "Shane Walsh",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " No one saw Shane coming except for your wife"
     }, {
         "from": "Goku",
         "to": "Superman",
         "type": "battle",
-        "label": ""
+        "label": "Goku vs. Superman (S03E08)",
+        "episode": 41,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Superman",
         "to": "Krillin",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
+        "label": " I'm killing it, you're Krillin it, I'm villainous to vegetables"
+    }, {
+        "from": "Superman",
+        "to": "Krillin",
+        "type": "cameo",
         "label": " I'm killing it, you're Krillin it, I'm villainous to vegetables"
     }, {
         "from": "Superman",
         "to": "Chi Chi",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You want justice? I'll bust this nut up in your Chi Chi"
+    }, {
+        "from": "Superman",
+        "to": "Jimmy Olsen",
+        "type": "cameo",
+        "label": "Superman!"
     }, {
         "from": "Goku",
         "to": "Miss Daisy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Cause I'm a Super Saiyan, you're a flying Miss Daisy"
     }, {
         "from": "Goku",
         "to": "Lois Lane",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'll report to Lois Lane, then Superman that ho"
     }, {
         "from": "Superman",
         "to": "Roshi",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'll make your nose bleed like Roshi sniffing panties"
     }, {
         "from": "Goku",
         "to": "Batman",
         "type": "mention",
         "implicit": true,
-        "label": " You got your ass beat by a bat with no powers"
+        "label": " You got your ass beat by a bat with no powers",
+        "episode": 41,
+        "timestamp": {"begin": 79, "end": 81}
     }, {
         "from": "Stephen King",
         "to": "Edgar Allan Poe",
         "type": "battle",
-        "label": ""
+        "label": "Stephen King vs. Edgar Allan Poe (S03E09)",
+        "episode": 42,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Edgar Allan Poe",
         "to": "Beverly Cleary",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Your books are as eerie as Beverly Cleary!"
     }, {
         "from": "Edgar Allan Poe",
         "to": "Bram Stoker",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You're a faux Bram Stoker, so scram, the show's over"
     }, {
         "from": "Stephen King",
         "to": "Po (Kung Fu Panda)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You're as soft as Po, the Kung Fu Panda"
     }, {
         "from": "Edgar Allan Poe",
         "to": "Chappelle",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Doing Chappelle and Simpson cameos (ahh!)"
     }, {
         "from": "Edgar Allan Poe",
         "to": "Simpsons",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Doing Chappelle and Simpson cameos (ahh!)"
     }, {
         "from": "Sir Isaac Newton",
         "to": "Bill Nye",
         "type": "battle",
-        "label": ""
+        "label": "Sir Isaac Newton vs. Bill Nye (S03E10)",
+        "episode": 43,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Sir Isaac Newton",
         "to": "Neil DeGrasse Tyson",
         "type": "battle",
-        "label": ""
+        "label": "Sir Isaac Newton vs. Bill Nye (S03E10)",
+        "episode": 43,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Sir Isaac Newton",
         "to": "Beaker",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " They put Beaker in a bow tie up against me?"
     }, {
         "from": "Neil DeGrasse Tyson",
         "to": "Leibniz",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " While Isaac Newton was lying and sticking daggers in Leibniz"
     }, {
         "from": "Neil DeGrasse Tyson",
         "to": "Harry Potter",
-        "type": "mention-doesnt-exist",
-        "label": " And hiding up inside his attic on some Harry Potter business"
+        "type": "mention",
+        "label": " And hiding up inside his attic on some Harry Potter business",
+        "episode": 43,
+        "timestamp": {"begin": 114, "end": 118}
+    }, {
+        "from": "Bill Nye",
+        "to": "Carl Sagan",
+        "type": "cameo",
+        "label": ""
     }, {
         "from": "George Washington",
         "to": "William Wallace",
         "type": "battle",
-        "label": ""
+        "label": "George Washington vs. William Wallace (S03E11)",
+        "episode": 44,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "George Washington",
         "to": "Edward I of England",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " How'd you get beat by a dude named Longshanks?"
     }, {
         "from": "George Washington",
         "to": "Mel Gibson",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " A Mel Gibson movie is your legacy"
     }, {
         "from": "William Wallace",
         "to": "Denzel Washington",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " The only Washington I trust Denzel"
     }, {
         "to": "Donatello di Niccolò",
         "from": "Donatello (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Donatello di Niccolò",
         "from": "Michelangelo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Donatello di Niccolò",
         "from": "Leonardo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Donatello di Niccolò",
         "from": "Raphael (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Michelangelo Buonarroti",
         "from": "Donatello (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Michelangelo Buonarroti",
         "from": "Michelangelo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Michelangelo Buonarroti",
         "from": "Leonardo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Michelangelo Buonarroti",
         "from": "Raphael (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Leonardo da Vinci",
         "from": "Donatello (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Leonardo da Vinci",
         "from": "Michelangelo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Leonardo da Vinci",
         "from": "Leonardo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Leonardo da Vinci",
         "from": "Raphael (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Raphael Sanzio da Urbino",
         "from": "Donatello (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Raphael Sanzio da Urbino",
         "from": "Michelangelo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Raphael Sanzio da Urbino",
         "from": "Leonardo (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Raphael Sanzio da Urbino",
         "from": "Raphael (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "to": "Raphael Sanzio da Urbino",
         "from": "Raphael (TMNT)",
         "type": "battle",
-        "label": ""
+        "label": "Artists vs. TMNT (S03E12)",
+        "episode": 45,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Raphael (TMNT)",
+        "to": "Mario Bros.",
+        "type": "cameo",
+        "label": "Arcade machine in the background",
+        "episode": 45,
+        "timestamp": {"begin": 70, "end": 94}
+    }, {
+        "from": "Donatello (TMNT)",
+        "to": "Mario Bros.",
+        "type": "cameo",
+        "label": "Arcade machine in the background",
+        "episode": 45,
+        "timestamp": {"begin": 70, "end": 94}
+    }, {
+        "from": "Leonardo (TMNT)",
+        "to": "Mario Bros.",
+        "type": "cameo",
+        "label": "Arcade machine in the background",
+        "episode": 45,
+        "timestamp": {"begin": 70, "end": 94}
+    }, {
+        "from": "Michelangelo (TMNT)",
+        "to": "Mario Bros.",
+        "type": "cameo",
+        "label": "Arcade machine in the background",
+        "episode": 45,
+        "timestamp": {"begin": 70, "end": 94}
     }, {
         "from": "Raphael Sanzio da Urbino",
         "to": "Shredder (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'm an emcee Shredder but I get the feeling"
     }, {
         "from": "Michelangelo Buonarroti",
         "to": "David",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I made David, but I'll slay you like Goliath!"
     }, {
         "from": "Raphael Sanzio da Urbino",
         "to": "Foot (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I made David, but I'll slay you like Goliath!"
     }, {
         "from": "Leonardo da Vinci",
         "to": "Foot (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I made David, but I'll slay you like Goliath!"
     }, {
         "from": "Donatello di Niccolò",
         "to": "Foot (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I made David, but I'll slay you like Goliath!"
     }, {
         "from": "Michelangelo Buonarroti",
         "to": "Foot (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I made David, but I'll slay you like Goliath!"
     }, {
         "from": "Raphael (TMNT)",
         "to": "Master Splinter (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Master Splinter!"
     }, {
         "from": "Leonardo (TMNT)",
         "to": "Master Splinter (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Master Splinter!"
     }, {
         "from": "Donatello (TMNT)",
         "to": "Master Splinter (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Master Splinter!"
     }, {
         "from": "Michelangelo (TMNT)",
         "to": "Master Splinter (TMNT)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Master Splinter!"
     }, {
         "from": "Ghostbusters",
         "to": "Mythbusters",
         "type": "battle",
-        "label": ""
+        "label": "Ghostbusters vs. Mythbusters (S04E01)",
+        "episode": 46,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Ghostbusters",
+        "to": "Janine Melnitz ",
+        "type": "cameo",
+        "label": "We got one!"
     }, {
         "from": "Mythbusters",
         "to": "Walter Peck",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " And Walter Peck was right, that's some shady shit"
     }, {
         "from": "Mythbusters",
         "to": "Stay Puft",
         "type": "battle",
-        "label": ""
+        "label": "Ghostbusters vs. Mythbusters (S04E01)",
+        "episode": 46,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Romeo",
         "to": "Bonnie",
         "type": "battle",
-        "label": ""
+        "label": "Romeo and Juliet vs. Bonnie and Clyde (S04E02)",
+        "episode": 47,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Romeo",
         "to": "Clyde",
         "type": "battle",
-        "label": ""
+        "label": "Romeo and Juliet vs. Bonnie and Clyde (S04E02)",
+        "episode": 47,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Juliet",
         "to": "Bonnie",
         "type": "battle",
-        "label": ""
+        "label": "Romeo and Juliet vs. Bonnie and Clyde (S04E02)",
+        "episode": 47,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Juliet",
         "to": "Clyde",
         "type": "battle",
-        "label": ""
+        "label": "Romeo and Juliet vs. Bonnie and Clyde (S04E02)",
+        "episode": 47,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Bonnie",
         "to": "John Leguizamo",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You can't protect your best friend from some John Leguizamo!"
     }, {
         "to": "Thor",
         "from": "Zeus",
         "type": "battle",
-        "label": ""
+        "label": "Zeus vs. Thor (S04E03)",
+        "episode": 48,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Zeus",
         "to": "Odin",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Maybe Odin could beg me for a truce, cause when Zeus let's loose"
     }, {
         "from": "Zeus",
         "to": "Medusa",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
+        "label": " I'm like Medusa, I'll stone a motherfucker if he looks at me wrong"
+    },  {
+        "from": "Zeus",
+        "to": "Medusa",
+        "type": "cameo",
+        "label": " I'm like Medusa, I'll stone a motherfucker if he looks at me wrong"
+    }, {
+        "from": "Zeus",
+        "to": "Dane Cook",
+        "type": "cameo",
         "label": " I'm like Medusa, I'll stone a motherfucker if he looks at me wrong"
     }, {
         "from": "Zeus",
         "to": "Poseidon",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'm on point like Poseidon's trident"
+    }, {
+        "from": "Zeus",
+        "to": "Aphrodite",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Thor",
+        "to": "Brokkr",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Thor",
+        "to": "Loki",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Thor",
+        "to": "Odin",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Zeus",
+        "to": "Ares",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Zeus",
+        "to": "Athena",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Zeus",
+        "to": "Poseidon",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Zeus",
+        "to": "Dionysus",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Zeus",
+        "to": "Hades",
+        "type": "cameo",
+        "label": ""
     }, {
         "from": "Thor",
         "to": "Natalie Portman",
-        "type": "mention-doesnt-exist",
+        "type": "cameo",
+        "label": " I'm the thunder down under, nailing Natalie Portman"
+    }, {
+        "from": "Thor",
+        "to": "Natalie Portman",
+        "type": "mention",
         "label": " I'm the thunder down under, nailing Natalie Portman"
     }, {
         "from": "Zeus",
         "to": "Usain Bolt",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Itchy trigger finger quicker with the bolts than Usain"
     }, {
         "from": "Zeus",
         "to": "MC Hammer",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " MC Hammer just got struck twice by greased lightning"
     }, {
         "from": "Zeus",
         "to": "Loki",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You're joking, Loki must have written your lines"
+    }, {
+        "from": "Thor",
+        "to": "Cerberus",
+        "type": "mention",
+        "implicit": true,
+        "label": "When you get to River Styx, tell your three-headed bitch I say hi."
+    }, {
+        "from": "Thor",
+        "to": "Cerberus",
+        "type": "cameo",
+        "label": "When you get to River Styx, tell your three-headed bitch I say hi."
     }, {
         "from": "Jack the Ripper",
         "to": "Hannibal Lecter",
         "type": "battle",
-        "label": ""
+        "label": "Jack the Ripper vs. Hannibal Lecter (S04E04)",
+        "episode": 49,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Hannibal Lecter",
         "to": "OJ Simpson",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Like a Penny Dreadful version of OJ Simpson"
     }, {
         "from": "Jack the Ripper",
         "to": "Dexter Morgan",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  People these days are watching Dexter"
     }, {
         "from": "Hannibal Lecter",
         "to": "Ray Liotta",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Pick Ray Liotta's brain and ask him how I get mine"
     }, {
         "from": "Hannibal Lecter",
-        "to": "Barney (Hannibal Lecter)",
-        "type": "mention-doesnt-exist",
+        "to": "Barney Matthews (Hannibal Lecter)",
+        "type": "mention",
         "label": " Barney, take me back to solitary confinement"
     }, {
         "from": "Oprah Winfrey",
         "to": "Ellen Degeneres",
         "type": "battle",
-        "label": ""
+        "label": "Oprah vs. Ellen (S04E05)",
+        "episode": 50,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ellen Degeneres",
         "to": "Stedman Graham",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " How do I tell my friend Oprah she's gonna get more whipped than Stedman?"
     }, {
         "from": "Ellen Degeneres",
         "to": "Doctor Phil",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I got the skill to make Doctor Phil say"
     }, {
         "from": "Ellen Degeneres",
+        "to": "Doctor Phil",
+        "type": "cameo",
+        "label": "I think you better just leave her alone. "
+    }, {
+        "from": "Ellen Degeneres",
         "to": "Rachel Ray",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You can tell Rachel Ray that my favorite recipe"
     }, {
         "from": "Ellen Degeneres",
         "to": "Tom Cruise",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'm jumping over Oprah like I'm Tom Cruise on a sofa"
     }, {
         "from": "Oprah Winfrey",
         "to": "Dalai Lama",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " The Dalai Lama and Obama memorized my cell number"
     }, {
         "from": "Oprah Winfrey",
         "to": "Barack Obama",
         "type": "mention",
-        "label": " The Dalai Lama and Obama memorized my cell number"
+        "label": " The Dalai Lama and Obama memorized my cell number",
+        "episode": 50,
+        "timestamp": {"begin": 107, "end": 112}
     }, {
         "from": "Alfred Hitchcock",
         "to": "Steven Spielberg",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Alfred Hitchcock",
         "to": "Quentin Tarantino",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Alfred Hitchcock",
         "to": "Stanley Kubrick",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Alfred Hitchcock",
         "to": "Michael Bay",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Steven Spielberg",
         "to": "Quentin Tarantino",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Steven Spielberg",
         "to": "Stanley Kubrick",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Steven Spielberg",
         "to": "Michael Bay",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Quentin Tarantino",
         "to": "Stanley Kubrick",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Quentin Tarantino",
         "to": "Michael Bay",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Stanley Kubrick",
         "to": "Michael Bay",
         "type": "battle",
-        "label": ""
+        "label": "Steven Spielberg vs. Alfred Hitchcock (S04E06)",
+        "episode": 51,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Steven Spielberg",
         "to": "Jimmy Stewart",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You produce Jimmy Stewart making one of two faces"
     }, {
         "from": "Alfred Hitchcock",
         "to": "John Williams",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Half your billions should go to John Williams"
     }, {
         "from": "Alfred Hitchcock",
         "to": "Megan Fox",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You're more horrible than Megan Fox's acting in Transformers"
     }, {
         "from": "Alfred Hitchcock",
         "to": "Jim Henson",
-        "type": "mention-didnt-exist",
+        "type": "mention",
         "implicit": true,
-        "label": " Come on, fish puppets and Muppets to stir the fears up"
+        "label": " Come on, fish puppets and Muppets to stir the fears up",
+        "episode": 51,
+        "timestamp": {"begin": 69, "end": 72}
     }, {
         "from": "Alfred Hitchcock",
         "to": "Indiana Jones",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  Damage panderers and haunt you like the last Indiana"
     }, {
         "from": "Quentin Tarantino",
         "to": "Samuel Jackson",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Ask anybody 'What's your favorite Sam Jackson part?'"
     }, {
         "from": "Stanley Kubrick",
@@ -1578,197 +2296,330 @@
     }, {
         "from": "Michael Bay",
         "to": "Jerry Bruckheimer",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I swoop low with the telephoto, no Bruckheimer, I work solo"
     }, {
         "from": "Michael Bay",
         "to": "Mark Wahlberg",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Even make Mark Wahlberg make some motherfucking money"
     }, {
         "from": "Michael Bay",
         "to": "Dwayne Johnson",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Rose to The Rock, now I got that socks made of silk money"
     }, {
         "from": "Meriwether Lewis",
         "to": "Bill (Bill & Ted)",
         "type": "battle",
-        "label": ""
+        "label": "Lewis and Clark vs. Bill and Ted (S04E07)",
+        "episode": 52,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Meriwether Lewis",
         "to": "Ted (Bill & Ted)",
         "type": "battle",
-        "label": ""
+        "label": "Lewis and Clark vs. Bill and Ted (S04E07)",
+        "episode": 52,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "William Clark",
         "to": "Bill (Bill & Ted)",
         "type": "battle",
-        "label": ""
+        "label": "Lewis and Clark vs. Bill and Ted (S04E07)",
+        "episode": 52,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "William Clark",
         "to": "Ted (Bill & Ted)",
         "type": "battle",
+        "label": "Lewis and Clark vs. Bill and Ted (S04E07)",
+        "episode": 52,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Mario Bros.",
+        "type": "cameo",
+        "label": "Ted's T-shirt",
+        "episode": 52,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Wright Bros.",
+        "type": "cameo",
+        "label": "Ted's T-shirt",
+        "episode": 52,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Meriwether Lewis",
+        "to": "American Black Bear",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "William Clark",
+        "to": "American Black Bear",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "Meriwether Lewis",
         "to": "Doctor Who",
         "type": "mention",
-        "label": " Now go back in time and give Doctor Who his phone booth back"
+        "label": "Now go back in time and give Doctor Who his phone booth back",
+        "episode": 52,
+        "timestamp": {"begin": 29, "end": 33}
     }, {
         "from": "Ted (Bill & Ted)",
         "to": "Socrates",
-        "type": "mention-didnt-exist",
-        "label": " I've heard better insults dropped from Socrates' anus"
+        "type": "mention",
+        "label": "I've heard better insults dropped from Socrates' anus",
+        "episode": 52,
+        "timestamp": {"begin": 57, "end": 60}
     }, {
         "from": "Ted (Bill & Ted)",
         "to": "Billy the Kid",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " We're quick when we spit like Billy the Kid with his guns"
     }, {
         "from": "Bill (Bill & Ted)",
         "to": "Billy the Kid",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " We're quick when we spit like Billy the Kid with his guns"
     }, {
         "from": "Ted (Bill & Ted)",
         "to": "Sacagaewa",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  And you'll be verbally kicked in the nut-Sacagawea-puns"
     }, {
         "from": "Bill (Bill & Ted)",
         "to": "Sacagaewa",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  And you'll be verbally kicked in the nut-Sacagawea-puns"
     }, {
         "from": "Ted (Bill & Ted)",
         "to": "Napoleon Bonaparte",
         "type": "mention",
-        "label": " Why don't you go back to exploring Napoleon's old swamps"
+        "label": " Why don't you go back to exploring Napoleon's old swamps",
+        "episode": 52,
+        "timestamp": {"begin": 81, "end": 84}
     }, {
         "from": "Bill (Bill & Ted)",
         "to": "Napoleon Bonaparte",
         "type": "mention",
-        "label": " Why don't you go back to exploring Napoleon's old swamps"
+        "label": " Why don't you go back to exploring Napoleon's old swamps",
+        "episode": 52,
+        "timestamp": {"begin": 81, "end": 84}
     }, {
         "from": "Meriwether Lewis",
         "to": "Garth (Wayne's World)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Send over Garth and Wayne, because you turkeys aren't worthy"
     }, {
         "from": "William Clark",
         "to": "Garth (Wayne's World)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Send over Garth and Wayne, because you turkeys aren't worthy"
     }, {
         "from": "Ted (Bill & Ted)",
         "to": "Rufus (Bill & Ted)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Rufus!"
     }, {
         "from": "Bill (Bill & Ted)",
         "to": "Rufus (Bill & Ted)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Rufus!"
     }, {
         "from": "Bill (Bill & Ted)",
         "to": "Paul Bunyan",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " From some Paul Bunyan dudes in potato sack shoes"
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Abe Lincoln",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Joan of Arc",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Genghis Khan",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
+    }, {
+        "from": "Ted (Bill & Ted)",
+        "to": "Ludwig van Beethoven",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Abe Lincoln",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Joan of Arc",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Genghis Khan",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
+    }, {
+        "from": "Bill (Bill & Ted)",
+        "to": "Ludwig van Beethoven",
+        "type": "cameo",
+        "label": "Or you'll discover your Corps most triumphantly stomped!",
+        "episode": 52,
+        "timestamp": {"begin": 84, "end": 87}
     }, {
         "from": "David Copperfield",
         "to": "Harry Houdini",
         "type": "battle",
+        "label": "David Copperfield vs. Harry Houdini (S04E08)",
+        "episode": 53,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Harry Houdini",
+        "to": "Bess Houdini",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "Harry Houdini",
         "to": "Bob Saget",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Ah! Your hack of a Bob Saget-y act is embarrassing"
     }, {
         "from": "David Copperfield",
         "to": "Criss Angel",
-        "type": "battle",
-        "label": ""
+        "type": "cameo",
+        "label": "Did anyone say... Angel?"
     }, {
         "from": "Harry Houdini",
         "to": "Criss Angel",
-        "type": "battle",
-        "label": ""
+        "type": "cameo",
+        "label": "Did anyone say... Angel?"
+    }, {
+        "from": "David Copperfield",
+        "to": "Criss Angel",
+        "type": "cameo",
+        "label": "Did anyone say... Angel?"
+    }, {
+        "from": "David Copperfield",
+        "to": "Chloe Gosselin",
+        "type": "cameo",
+        "label": "I'm backstage getting my supermodel groove on!"
     }, {
         "from": "Terminator",
         "to": "Robocop",
         "type": "battle",
-        "label": ""
+        "label": "Terminator vs. RoboCop (S04E09)",
+        "episode": 54,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Robocop",
         "to": "C-3PO",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'm RoboCop, and I got the flow to beat roided out C-3PO"
     }, {
         "from": "Robocop",
         "to": "John Connor",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You only know a programmed robot boner for John Connor"
     }, {
         "from": "Robocop",
         "to": "Geordi La Forge",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Then mail your space helmet back to Geordi La Forge!"
     }, {
         "from": "Socrates",
         "to": "Sun Tzu",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Socrates",
         "to": "Confucius",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Socrates",
         "to": "Lao Tzu",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Nietzsche",
         "to": "Sun Tzu",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Nietzsche",
         "to": "Confucius",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Nietzsche",
         "to": "Lao Tzu",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Voltaire",
         "to": "Sun Tzu",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Voltaire",
         "to": "Confucius",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Voltaire",
         "to": "Lao Tzu",
         "type": "battle",
-        "label": ""
+        "label": "Eastern Philosophers vs. Western Philosophers (S04E10)",
+        "episode": 55,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Nietzsche",
         "to": "Pooh Bear",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " When I squat down and squeeze out a Tao of Pooh on Lao Tzu"
     }, {
         "from": "Socrates",
         "to": "Jackie Chan",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "Now that we've covered the two Yin and Yang twins, I can move onto Jackie Chan"
     }, {
         "from": "Voltaire",
@@ -1779,448 +2630,628 @@
         "from": "Shaka Zulu",
         "to": "Julius Caesar",
         "type": "battle",
-        "label": ""
+        "label": "Shaka Zulu vs. Julius Caesar (S04E11)",
+        "episode": 56,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Shaka Zulu",
         "to": "Conan the Barbarian",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Who thinks he can dance with Conan of the Savannah"
     }, {
         "from": "Shaka Zulu",
         "to": "Cleopatra",
         "type": "mention",
-        "label": "  And get fucked by more than just Cleopatra in Africa"
+        "label": "And get fucked by more than just Cleopatra in Africa",
+        "episode": 56,
+        "timestamp": {"begin": 26, "end": 29}
     }, {
         "from": "Julius Caesar",
         "to": "William Shakespeare",
         "type": "mention",
-        "label": " If I wanted to shake spears, I'd waggle my biography"
+        "label": " If I wanted to shake spears, I'd waggle my biography",
+        "episode": 56,
+        "timestamp": {"begin": 56, "end": 59}
     }, {
         "from": "Jim Henson",
         "to": "Stan Lee",
         "type": "battle",
-        "label": ""
-    }, {
-        "from": "Stan Lee",
-        "to": "Jim Henson",
-        "type": "battle",
-        "label": ""
+        "label": "Jim Henson vs. Stan Lee (S04E12)",
+        "episode": 57,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Stan Lee",
         "to": "Walt Disney",
         "type": "battle",
-        "label": ""
+        "label": "Jim Henson vs. Stan Lee (S04E12)",
+        "episode": 57,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Stan Lee",
         "to": "Walt Disney",
         "type": "battle",
-        "label": ""
+        "label": "Jim Henson vs. Stan Lee (S04E12)",
+        "episode": 57,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Stan Lee",
         "to": "The Incredible Hulk",
-        "type": "mention-didnt-exist",
-        "label": " It's the mind behind The Hulk against the geek beneath the Fraggles"
+        "type": "mention",
+        "label": " It's the mind behind The Hulk against the geek beneath the Fraggles",
+        "episode": 57,
+        "timestamp": {"begin": 18, "end": 22}
     }, {
         "from": "Stan Lee",
         "to": "Lou Ferrigno",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I broke Ferrigno and the Comics Code"
     }, {
         "from": "Jim Henson",
         "to": "Jack Kirby",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " (On all of Jack Kirby's comic books)"
     }, {
         "from": "Stan Lee",
         "to": "The Thing",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " That was a low blow, he did his own Thing"
     }, {
         "from": "Stan Lee",
         "to": "Jack Kirby",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Nice try, frogman, but Jack was a friend of mine (THWIP)"
     }, {
         "from": "Stan Lee",
         "to": "Mr. Hooper",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'll snap your turtleneck like a Doozer stick and put you out to pasture like Mr. Hooper"
     }, {
         "from": "Jim Henson",
         "to": "The Fantastic Four",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " But the Four will always be Fantastic, the Hulk will always be Incredible"
     }, {
         "from": "Jim Henson",
         "to": "The Incredible Hulk",
-        "type": "mention-didnt-exist",
-        "label": " But the Four will always be Fantastic, the Hulk will always be Incredible"
+        "type": "mention",
+        "label": " But the Four will always be Fantastic, the Hulk will always be Incredible",
+        "episode": 56,
+        "timestamp": {"begin": 120, "end": 122}
     }, {
         "from": "Walt Disney",
         "to": "Mickey Mouse",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "(M-I-C, K-E-Y)"
     }, {
         "from": "Deadpool",
         "to": "Boba Fett",
         "type": "battle",
-        "label": ""
+        "label": "Deadpool vs. Boba Fett (BONUS)",
+        "episode": 58,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Deadpool",
+        "to": "Elvis Presley",
+        "type": "mention",
+        "implicit": true,
+        "label": "I'm one of a kind, you're a xerox of your papa",
+        "episode": 58,
+        "timestamp": {"begin": 29, "end": 35}
     }, {
         "from": "Deadpool",
         "to": "Darth Vader",
         "type": "mention",
-        "label": " Doing temp work for Vader and odd jobs for Jabba"
+        "label": " Doing temp work for Vader and odd jobs for Jabba",
+        "episode": 58,
+        "timestamp": {"begin": 32, "end": 35}
     }, {
         "from": "Deadpool",
         "to": "Jabba",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Doing temp work for Vader and odd jobs for Jabba"
     }, {
         "from": "Deadpool",
         "to": "Samuel Jackson",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Mad cause Sam Jackson killed your clone daddy"
     }, {
         "from": "Boba Fett",
         "to": "Cable",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " And your bars are like your old pal Cable: fucking basic"
     }, {
         "from": "Boba Fett",
         "to": "Deathstroke",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Bitch, who you calling clone, you're a Deathstroke rip-off"
     }, {
         "from": "Boba Fett",
         "to": "Snake Eyes",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You stole Spiderman's eyes and Snake Eyes' weapons"
     }, {
         "from": "Boba Fett",
         "to": "Spiderman",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " You stole Spiderman's eyes and Snake Eyes' weapons"
     }, {
         "from": "Boba Fett",
         "to": "Wolverine",
-        "type": "mention-didnt-exist",
-        "label": "  You got Wolverine's powers, man, you're comic sloppy seconds"
+        "type": "mention",
+        "label": "  You got Wolverine's powers, man, you're comic sloppy seconds",
+        "episode": 56,
+        "timestamp": {"begin": 60, "end": 63}
     }, {
         "from": "Boba Fett",
         "to": "Dr. Killebrew",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " That Dr. Killbrew dude needs to go back to med school"
     }, {
         "from": "Deadpool",
         "to": "Jar Jar Binks",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Wrap that arm dart around Jar Jar and go far, far away"
     }, {
         "from": "J. R. R. Tolkien",
         "to": "George R. R. Martin",
         "type": "battle",
-        "label": ""
+        "label": "J. R. R. Tolkien vs. George R. R. Martin (S05E01)",
+        "episode": 59,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "George R. R. Martin",
         "to": "Hodor",
-        "type": "mention-bg",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "George R. R. Martin",
         "to": "Jon Snow",
-        "type": "mention-bg",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "J. R. R. Tolkien",
         "to": "Jon Snow",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " How you and Jon Snow... both know nothing!"
     }, {
         "from": "J. R. R. Tolkien",
-        "to": "Led Zeppelin",
-        "type": "mention-doesnt-exist",
+        "to": "Jimmy Page",
+        "type": "mention",
+        "implicit": true,
+        "label": " Don't believe me? Ask Led Zeppelin"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "Jimmy Page",
+        "type": "cameo",
+        "label": " Don't believe me? Ask Led Zeppelin"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "John Paul Jones",
+        "type": "mention",
+        "implicit": true,
+        "label": " Don't believe me? Ask Led Zeppelin"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "John Paul Jones",
+        "type": "cameo",
+        "label": " Don't believe me? Ask Led Zeppelin"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "John Bonham",
+        "type": "mention",
+        "implicit": true,
+        "label": " Don't believe me? Ask Led Zeppelin"
+    }, {
+        "from": "J. R. R. Tolkien",
+        "to": "John Bonham",
+        "type": "cameo",
         "label": " Don't believe me? Ask Led Zeppelin"
     }, {
         "from": "J. R. R. Tolkien",
         "to": "C. S. Lewis",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " C. S. Lewis and I were just discussing"
     }, {
         "from": "George R. R. Martin",
         "to": "Daenerys Targaryen",
-        "type": "mention-bg",
+        "type": "cameo",
         "label": ""
     }, {
         "from": "J. R. R. Tolkien",
         "to": "Santa Claus",
         "type": "mention",
-        "label": " You LARPed your Santa Claus ass through Vietnam"
+        "label": " You LARPed your Santa Claus ass through Vietnam",
+        "episode": 59,
+        "timestamp": {"begin": 85, "end": 88}
     }, {
         "from": "Gordon Ramsay",
         "to": "Julia Child",
         "type": "battle",
-        "label": ""
+        "label": "Gordon Ramsay vs. Julia Child (S05E02)",
+        "episode": 60,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Gordon Ramsay",
         "to": "Michelin Man",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I've got Michelin stars, you're like the Michelin Man"
     }, {
         "from": "Gordon Ramsay",
         "to": "Donkey (Shrek)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'd call you a Donkey but you look more like Shrek"
     }, {
         "from": "Gordon Ramsay",
         "to": "Shrek",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'd call you a Donkey but you look more like Shrek"
     }, {
         "from": "Gordon Ramsay",
         "to": "Iron Man",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  When the Iron Man chef busts a rhyme"
     }, {
         "from": "Gordon Ramsay",
         "to": "Michelin Man",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I've got Michelin stars, you're like the Michelin Man"
     }, {
         "from": "Gordon Ramsay",
         "to": "Big Bird",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " One part Big Bird, two parts Miss Piggy"
     }, {
         "from": "Gordon Ramsay",
         "to": "Miss Piggy",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " One part Big Bird, two parts Miss Piggy"
     }, {
         "from": "Frederick Douglass",
         "to": "Thomas Jefferson",
         "type": "battle",
-        "label": ""
+        "label": "Frederick Douglass vs. Thomas Jefferson (S05E03)",
+        "episode": 61,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Babe Ruth",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Marilyn Monroe",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Ben Franklin",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Barack Obama",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Thomas Edison",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Clint Eastwood",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Elvis Presley",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
+    }, {
+        "from": "Thomas Jefferson",
+        "to": "Hulk Hogan",
+        "type": "cameo",
+        "label": "Set up a little place called the United States; sound familiar?",
+        "episode": 61,
+        "timestamp": {"begin": 22, "end": 27}
     }, {
         "from": "Thomas Jefferson",
         "to": "King George",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I told King George he could eat a fat dick"
     }, {
         "from": "Thomas Jefferson",
         "to": "Pepe Le Pew",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Didn't come back from Paris to battle Pepe Le Pew"
     }, {
         "from": "James Bond (Daniel Craig)",
         "to": "Austin Powers",
         "type": "battle",
-        "label": ""
+        "label": "James Bond vs. Austin Powers (S05E04)",
+        "episode": 62,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "James Bond (Daniel Craig)",
         "to": "James Bond (Sean Connery)",
         "type": "battle",
-        "label": ""
+        "label": "James Bond vs. Austin Powers (S05E04)",
+        "episode": 62,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Austin Powers",
         "to": "James Bond (Sean Connery)",
         "type": "battle",
-        "label": ""
+        "label": "James Bond vs. Austin Powers (S05E04)",
+        "episode": 62,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "James Bond (Daniel Craig)",
         "to": "Le Chiffre",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I've beefed with Le Chiffre and No and Blofeld with the cheek scar"
     }, {
         "from": "James Bond (Daniel Craig)",
         "to": "Dr. No",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I've beefed with Le Chiffre and No and Blofeld with the cheek scar"
     }, {
         "from": "James Bond (Daniel Craig)",
         "to": "Blofeld",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I've beefed with Le Chiffre and No and Blofeld with the cheek scar"
     }, {
         "from": "Austin Powers",
         "to": "Basil Exposition",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  Basil Exposition told me this would be boring"
     }, {
         "from": "Austin Powers",
+        "to": "Go-Go Dancer",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Austin Powers",
+        "to": "Manny Stixman",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Austin Powers",
+        "to": " Gillian Shagwell ",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Austin Powers",
         "to": "Q (James Bond)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Maybe Q can craft some new plot lines"
     }, {
         "from": "James Bond (Sean Connery)",
         "to": "Q (James Bond)",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I don't need a Q to break your balls"
     }, {
         "from": "James Bond (Sean Connery)",
         "to": "Peter Dinklage",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " If they made a Mini-Me, they'd have to cast Peter Dinklage"
     }, {
         "from": "The Incredible Hulk",
         "to": "Bruce Jenner",
         "type": "battle",
-        "label": ""
+        "label": "Bruce Banner vs. Bruce Jenner (S05E05)",
+        "episode": 63,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "The Incredible Hulk",
         "to": "Caitlyn Jenner",
         "type": "battle",
-        "label": ""
+        "label": "Bruce Banner vs. Bruce Jenner (S05E05)",
+        "episode": 63,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Bruce Banner",
         "to": "Bruce Jenner",
         "type": "battle",
-        "label": ""
+        "label": "Bruce Banner vs. Bruce Jenner (S05E05)",
+        "episode": 63,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Bruce Banner",
         "to": "Caitlyn Jenner",
         "type": "battle",
-        "label": ""
+        "label": "Bruce Banner vs. Bruce Jenner (S05E05)",
+        "episode": 63,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Bruce Banner",
         "to": "He-Man",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " With your He-Man haircut and your Daisy Dukes"
     }, {
         "from": "Bruce Banner",
         "to": "Daisy Duke",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " With your He-Man haircut and your Daisy Dukes"
     }, {
         "from": "Bruce Banner",
         "to": "The Flash",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I hear you're good at running, you're just like the Flash"
     }, {
         "from": "Bruce Banner",
         "to": "Kim Kardashian",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "implicit": true,
         "label": " Kept up with the Kardashians, but left some kids behind"
     }, {
         "from": "The Incredible Hulk",
         "to": "Kylie Jenner",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Best thing you make? Kylie ass"
     }, {
         "from": "Caitlyn Jenner",
         "to": "Kylie Jenner",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Kylie not the type of girl I'm gonna let you smash on"
     }, {
         "from": "Caitlyn Jenner",
         "to": "Barney the Dinosaur",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " What, you just rage at a Barney-themed party?"
     }, {
         "from": "Alexander the Great",
         "to": "Ivan the Terrible",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Alexander the Great",
         "to": "Frederick the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Alexander the Great",
         "to": "Pompey the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Alexander the Great",
         "to": "Catherine the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ivan the Terrible",
         "to": "Frederick the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ivan the Terrible",
         "to": "Pompey the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ivan the Terrible",
         "to": "Catherine the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Frederick the Great",
         "to": "Pompey the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Frederick the Great",
         "to": "Catherine the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Pompey the Great",
         "to": "Catherine the Great",
         "type": "battle",
-        "label": ""
+        "label": "Alexander the Great vs. Ivan the Terrible (S05E06)",
+        "episode": 64,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ivan the Terrible",
         "to": "Aristotle",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'll school you like Aristotle"
     }, {
         "from": "Ivan the Terrible",
         "to": "Baryshnikov",
-        "type": "mention-bg",
+        "type": "cameo",
         "label": " I'm the first Tsar of all of Russia"
     }, {
         "from": "Ivan the Terrible",
-        "to": "Lenin",
-        "type": "mention-bg",
-        "label": " I'm the first Tsar of all of Russia"
+        "to": "Vladimir Lenin",
+        "type": "cameo",
+        "label": " I'm the first Tsar of all of Russia",
+        "episode": 64,
+        "timestamp": {"begin": 20, "end": 24}
     }, {
         "from": "Ivan the Terrible",
-        "to": "Rasputin",
-        "type": "mention-bg",
-        "label": " I'm the first Tsar of all of Russia"
+        "to": "Grigori Rasputin",
+        "type": "cameo",
+        "label": " I'm the first Tsar of all of Russia",
+        "episode": 64,
+        "timestamp": {"begin": 20, "end": 24}
     }, {
         "from": "Ivan the Terrible",
-        "to": "Gorbachev",
-        "type": "mention-bg",
-        "label": " I'm the first Tsar of all of Russia"
+        "to": "Mikhail Gorbatchov",
+        "type": "cameo",
+        "label": " I'm the first Tsar of all of Russia",
+        "episode": 64,
+        "timestamp": {"begin": 20, "end": 24}
     }, {
         "from": "Ivan the Terrible",
-        "to": "Putin",
-        "type": "mention-bg",
-        "label": " I'm the first Tsar of all of Russia"
+        "to": "Vladimir Putin",
+        "type": "cameo",
+        "label": " I'm the first Tsar of all of Russia",
+        "episode": 64,
+        "timestamp": {"begin": 20, "end": 24}
     }, {
         "from": "Ivan the Terrible",
-        "to": "Stalin",
-        "type": "mention-bg",
-        "label": " I'm the first Tsar of all of Russia"
+        "to": "Josef Stalin",
+        "type": "cameo",
+        "label": " I'm the first Tsar of all of Russia",
+        "episode": 64,
+        "timestamp": {"begin": 20, "end": 24}
     }, {
         "from": "Alexander the Great",
         "to": "Bucephalus",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " And I would holler Bucephalus!"
     }, {
         "from": "Catherine the Great",
         "to": "Peter the Great",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  I'm picking up where Peter the Great left off"
     }, {
         "from": "Donald Trump",
         "to": "Hillary Clinton",
         "type": "battle",
-        "label": ""
+        "label": "Donald Trump vs. Hillary Clinton (S05E07)",
+        "episode": 65,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Hillary Clinton",
         "to": "Martin Luther King Jr.",
         "type": "mention",
-        "label": " Have been since I met MLK in person"
+        "label": " Have been since I met MLK in person",
+        "episode": 65,
+        "timestamp": {"begin": 17, "end": 20}
     }, {
         "from": "Hillary Clinton",
         "to": "Osama bin Laden",
@@ -2229,168 +3260,1582 @@
     }, {
         "from": "Hillary Clinton",
         "to": "Michelle Obama",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "I brought Michelle's speech, borrow some quotes"
     }, {
         "from": "Donald Trump",
         "to": "Bill Cosby",
-        "type": "mention-didnt-exist",
-        "label": " Your Bill's worse than Cosby"
+        "type": "mention",
+        "label": " Your Bill's worse than Cosby",
+        "episode": 65,
+        "timestamp": {"begin": 97, "end": 100}
     }, {
         "from": "Donald Trump",
         "to": "Bill Clinton",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Your Bill's worse than Cosby"
+    }, {
+        "from": "Donald Trump",
+        "to": "Bernie Sanders",
+        "type": "mention",
+        "implicit": true,
+        "label": "And you almost lost the primary to a socialist Jew."
     }, {
         "from": "Abe Lincoln",
         "to": "Donald Trump",
         "type": "battle",
-        "label": ""
+        "label": "Donald Trump vs. Hillary Clinton (S05E07)",
+        "episode": 65,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Abe Lincoln",
         "to": "Hillary Clinton",
         "type": "battle",
-        "label": ""
+        "label": "Donald Trump vs. Hillary Clinton (S05E07)",
+        "episode": 65,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Charles Darwin",
         "to": "Ash Ketchum",
         "type": "battle",
-        "label": ""
+        "label": "Ash Ketchum vs. Charles Darwin (S05E08)",
+        "episode": 66,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Ash Ketchum",
         "to": "Charizard",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
+        "label": " Open my pockets and go (Charizard) on your ass"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Charizard",
+        "type": "cameo",
         "label": " Open my pockets and go (Charizard) on your ass"
     }, {
         "from": "Ash Ketchum",
         "to": "Pikachu",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " When it's time to train, I turn to Pikachu. (Pika!)"
     }, {
         "from": "Ash Ketchum",
+        "to": "Pikachu",
+        "type": "cameo",
+        "label": " When it's time to train, I turn to Pikachu. (Pika!)"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Alolan Exeggutor",
+        "type": "cameo",
+        "label": "You got candy raps: Reese's Pieces!"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Butterfree",
+        "type": "cameo",
+        "label": "You got candy raps: Reese's Pieces!"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Lapras",
+        "type": "cameo",
+        "label": "Set sail and Galápago-suck on these!"
+    }, {
+        "from": "Ash Ketchum",
+        "to": "Magikarp",
+        "type": "cameo",
+        "label": "Set sail and Galápago-suck on these!"
+    }, {
+        "from": "Ash Ketchum",
         "to": "Jessie (Pokémon)",
-        "type": "mention-bg",
+        "type": "cameo",
         "label": " But when I need a weak verse, I choose you"
     }, {
         "from": "Ash Ketchum",
         "to": "James (Pokémon)",
-        "type": "mention-bg",
+        "type": "cameo",
         "label": " But when I need a weak verse, I choose you"
     }, {
         "from": "Charles Darwin",
         "to": "Ash Williams",
-        "type": "mention-doesnt-exist",
+        "type": "cameo",
+        "label": " The real Ash packs a much bigger BOOMSTICK"
+    }, {
+        "from": "Charles Darwin",
+        "to": "Ash Williams",
+        "type": "mention",
+        "implicit": true,
         "label": " The real Ash packs a much bigger BOOMSTICK"
     }, {
         "from": "Charles Darwin",
         "to": "Michael Vick",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Look, Mighty Morphin Michael Vick"
     }, {
         "from": "Charles Darwin",
         "to": "Charles Sheen",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  I'm not Charles Sheen but I am Dar-winning"
     }, {
         "from": "Charles Darwin",
         "to": "Professor Oak",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " As hard as the wood that Oak gave your mother"
     }, {
         "from": "Wonder Woman",
         "to": "Stevie Wonder",
         "type": "battle",
-        "label": ""
+        "label": "Wonder Woman vs. Stevie Wonder (S05E09)",
+        "episode": 67,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Wonder Woman",
+        "to": "Aisha Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Aisha Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Kailand Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Kailand Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Karen Millard Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Karen Millard Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Kwame Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Kwame Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Keita Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Keita Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Mandla Kadjay Carl Stevland Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Mandla Kadjay Carl Stevland Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Zaiah Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Zaiah Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Nia Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Nia Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Sophia Morris",
+        "type": "cameo",
+        "label": "Nine different kids with five different mothers!"
+    }, {
+        "from": "Wonder Woman",
+        "to": "Sophia Morris",
+        "type": "mention",
+        "implicit": true,
+        "label": "Nine different kids with five different mothers!"
     }, {
         "from": "Wonder Woman",
         "to": "Princess Diana",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Princess Diana, but this Lady don't die"
     }, {
         "from": "Wonder Woman",
         "to": "Ray Charles",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  I tell you what I say, you bit your style from Ray!"
     }, {
         "from": "Wonder Woman",
         "to": "Geena Davis",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": "  I'm like Geena Davis, in a Justice League of my Own (Ow!)"
     }, {
         "from": "Wonder Woman",
         "to": "Batman",
-        "type": "mention-doesnt-exist",
-        "label": " But don't be scared, I let bats down easy"
+        "type": "cameo",
+        "label": " But don't be scared, I let bats down easy",
+        "episode": 67,
+        "timestamp": {"begin": 35, "end": 37}
     }, {
         "from": "Wonder Woman",
         "to": "Predator",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Lookin' like the Predator after some chemotherapy (Ha!)"
     }, {
         "from": "Tony Hawk",
         "to": "Wayne Gretzky",
         "type": "battle",
-        "label": ""
+        "label": "Tony Hawk vs. Wayne Gretzky (S05E10)",
+        "episode": 68,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Wayne Gretzky",
+        "to": "Bobby Orr",
+        "type": "cameo",
+        "label": "You've been going downhill since Pro Skater 3!"
     }, {
         "from": "Tony Hawk",
         "to": "Birdman",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " Not Cash Money, it's just Wayne versus Birdman"
     }, {
         "from": "Theodore Roosevelt",
         "to": "Winston Churchill",
         "type": "battle",
-        "label": ""
+        "label": "Theodore Roosevelt vs. Winston Churchill (S05E11)",
+        "episode": 69,
+        "timestamp": {"begin": 0, "end": -1}
     }, {
         "from": "Theodore Roosevelt",
         "to": "Elmer Fudd",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " I'm an American stud, and you're the British Elmer Fudd!"
     }, {
+        "from": "Theodore Roosevelt",
+        "to": "John Schrank",
+        "type": "cameo",
+        "label": "A bullet can't stop the bull moose!"
+    }, {
         "from": "Winston Churchill",
-        "to": "Epiclloyd",
-        "type": "mention-doesnt-exist",
-        "label": " You look like a mix of EpicLLOYD and a Pringles packet!"
+        "to": "EpicLLOYD",
+        "type": "mention",
+        "label": " You look like a mix of EpicLLOYD and a Pringles packet!",
+        "episode": 69,
+        "timestamp": {"begin": 69, "end": 72}
     }, {
         "from": "Winston Churchill",
         "to": "Thomas Jefferson",
-        "type": "mention-bg",
-        "label": " But if Rushmore was a band, then you'd play bass!"
+        "type": "cameo",
+        "label": " But if Rushmore was a band, then you'd play bass!",
+        "episode": 69,
+        "timestamp": {"begin": 135, "end": 138}
     }, {
         "from": "Winston Churchill",
         "to": "George Washington",
-        "type": "mention-bg",
-        "label": " But if Rushmore was a band, then you'd play bass!"
+        "type": "cameo",
+        "label": " But if Rushmore was a band, then you'd play bass!",
+        "episode": 69,
+        "timestamp": {"begin": 135, "end": 138}
     }, {
         "from": "Winston Churchill",
         "to": "Abe Lincoln",
-        "type": "mention-bg",
-        "label": " But if Rushmore was a band, then you'd play bass!"
+        "type": "cameo",
+        "label": " But if Rushmore was a band, then you'd play bass!",
+        "episode": 69,
+        "timestamp": {"begin": 135, "end": 138}
     }, {
         "from": "Nice Peter",
-        "to": "Epiclloyd",
+        "to": "EpicLLOYD",
         "type": "battle",
         "label": ""
     }, {
         "from": "Nice Peter",
         "to": "PewDiePie",
-        "type": "mention-doesnt-exist",
+        "type": "mention",
         "label": " We'd have more subs than PewDiePie if you didn't fight me every time"
     }, {
-        "from": "Nice Peter",
+        "from": "EpicLLOYD",
         "to": "Batman",
         "type": "mention",
-        "label": " Like: 'Dude, that is not a cool way to play Batman'"
+        "label": " Like: 'Dude, that is not a cool way to play Batman'",
+        "episode": 70,
+        "timestamp": {"begin": 70, "end": 76}
     }, {
-        "from": "Nice Peter",
-        "to": "Nikola Tesla",
+        "from": "EpicLLOYD",
+        "to": "Dante Cimadamore",
         "type": "mention",
-        "implicit": true,
         "label": " I don't know who you shit on worse, myself or Dante"
     }, {
         "from": "Nice Peter",
         "to": "Harry Houdini",
-        "type": "mention-bg",
+        "type": "cameo",
         "label": " Excuse me for interrupting Rocket League and smoking weed"
+    }, {
+        "from": "Elon Musk",
+        "to": "Mark Zuckerberg",
+        "type": "battle",
+        "label": "Elon Musk vs. Mark Zuckerberg (BONUS)",
+        "episode": 71,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Elon Musk",
+        "to": "Dianne Feinstein",
+        "type": "cameo",
+        "label": "Got called to Senate. Data hack."
+    }, {
+        "from": "Elon Musk",
+        "to": "Jean-Luc Picard",
+        "type": "cameo",
+        "label": "'We need Lieutenant Data back!'"
+    }, {
+        "from": "Elon Musk",
+        "to": "Lieutenant Data",
+        "type": "mention",
+        "label": "'We need Lieutenant Data back!'"
+    }, {
+        "from": "Elon Musk",
+        "to": "Tony Stark",
+        "type": "mention",
+        "label": " I'm Tony Stark with a James Bond sprinkle tossed in"
+    }, {
+        "from": "Elon Musk",
+        "to": "James Bond (Daniel Craig)",
+        "type": "mention",
+        "label": " I'm Tony Stark with a James Bond sprinkle tossed in",
+        "episode": 71,
+        "timestamp": {"begin": 31, "end": 35}
+    }, {
+        "from": "Elon Musk",
+        "to": "James Bond (Sean Connery)",
+        "type": "mention",
+        "label": " I'm Tony Stark with a James Bond sprinkle tossed in",
+        "episode": 71,
+        "timestamp": {"begin": 31, "end": 35}
+    }, {
+        "from": "Elon Musk",
+        "to": "Tyler Winklevoss",
+        "type": "mention",
+        "label": " And I've been flossing since you double-crossed the Winklevoss twins"
+    }, {
+        "from": "Elon Musk",
+        "to": "Cameron Winklevoss",
+        "type": "mention",
+        "label": " And I've been flossing since you double-crossed the Winklevoss twins"
+    }, {
+        "from": "Elon Musk",
+        "to": "Joe Rogan",
+        "type": "mention",
+        "label": " Dope smoking with Joe Rogan don't slow motion my pace, man"
+    }, {
+        "from": "Elon Musk",
+        "to": "Morgan Freeman",
+        "type": "mention",
+        "label": " I read your feed while eating toast from robot Morgan Freeman"
+    }, {
+        "from": "Freddy Krueger",
+        "to": "Wolverine",
+        "type": "battle",
+        "label": "Freddy Krueger vs. Wolverine (S06E01)",
+        "episode": 72,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Freddy Krueger",
+        "to": "Wes Craven",
+        "type": "mention",
+        "label": " Bitch! I come from Wes Craven's twisted mind"
+    }, {
+        "from": "Wolverine",
+        "to": "Flock of Seagulls",
+        "type": "mention",
+        "label": " Flock of Seagulls called, they want their hairstyle returned"
+    }, {
+        "from": "Wolverine",
+        "to": "Satan",
+        "type": "mention",
+        "label": " I been to hell and back and whooped Satan's ass"
+    }, {
+        "from": "Wolverine",
+        "to": "Nancy Thompson (Nightmare on Elm Street)",
+        "type": "mention",
+        "label": " You got beat by a Nancy on Elm Street"
+    }, {
+        "from": "Wolverine",
+        "to": "Deadpool",
+        "type": "mention",
+        "label": " The PTA turned your face into Deadpool's ballsack",
+        "episode": 72,
+        "timestamp": {"begin": 77, "end": 79}
+    }, {
+        "from": "Wolverine",
+        "to": "Waldo (Where's Waldo)",
+        "type": "mention",
+        "label": " Wrapped in a Where's Waldo sweater"
+    }, {
+        "from": "Wolverine",
+        "to": "Edward Scissorhands",
+        "type": "mention",
+        "label": " You'll only ever be half of Edward Scissorhands!"
+    }, {
+        "from": "Wolverine",
+        "to": "Edward Scissorhands",
+        "type": "cameo",
+        "label": " You'll only ever be half of Edward Scissorhands!"
+    }, {
+        "from": "Wolverine",
+        "to": "Jason Vorhees",
+        "type": "mention",
+        "label": "Jason can't talk and he rocks the mic better!"
+    }, {
+        "from": "Wolverine",
+        "to": "Jason Vorhees",
+        "type": "cameo",
+        "label": "Jason can't talk and he rocks the mic better!"
+    }, {
+        "from": "Freddy Krueger",
+        "to": "Jean Grey",
+        "type": "mention",
+        "label": " I'll be in your bed tonight, unlike Jean Grey!"
+    }, {
+        "from": "Freddy Krueger",
+        "to": "Justin Bieber",
+        "type": "mention",
+        "label": " The first time I saw Justin Bieber!",
+        "episode": 69,
+        "timestamp": {"begin": 117, "end": 121}
+    }, {
+        "from": "Wolverine",
+        "to": "R. Kelly",
+        "type": "mention",
+        "label": " You're a pedophile from the Midwest, at least R. Kelly could sing"
+    }, {
+        "from": "Guy Fawkes",
+        "to": "Che Guevara",
+        "type": "battle",
+        "label": "Guy Fawkes vs. Che Guevara (S06E02)",
+        "episode": 73,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Che Guevara",
+        "to": "Alan Moore",
+        "type": "mention",
+        "label": " You're famous cause of Alan Moore's third best book"
+    }, {
+        "from": "Che Guevara",
+        "to": "James VI and I",
+        "type": "mention",
+        "label": " You tried to rebel against James the first"
+    }, {
+        "from": "Guy Fawkes",
+        "to": "Fidel Castro",
+        "type": "mention",
+        "label": " Face it Ernesto, you're Castro but less so"
+    }, {
+        "from": "Guy Fawkes",
+        "to": "J. P. Morgan",
+        "type": "mention",
+        "label": "Making capitalists rich off of you on merch!"
+    }, {
+        "from": "Ronald McDonald",
+        "to": "The Burger King",
+        "type": "battle",
+        "label": "Ronald McDonald vs. The Burger King (S06E03)",
+        "episode": 74,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Wendy's",
+        "type": "battle",
+        "label": "Ronald McDonald vs. The Burger King (S06E03)",
+        "episode": 74,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "The Burger King",
+        "to": "Wendy's",
+        "type": "battle",
+        "label": "Ronald McDonald vs. The Burger King (S06E03)",
+        "episode": 74,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Ronald Jeremy",
+        "type": "mention",
+        "label": " Why don't you call me Ronald Jeremy? Cause I'm getting nasty"
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Rick Sanchez",
+        "type": "mention",
+        "label": " Ask Rick and Morty who's the lyrical boss"
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Morty Smith",
+        "type": "mention",
+        "label": " Ask Rick and Morty who's the lyrical boss"
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Eminem",
+        "type": "mention",
+        "label": " I'm fast food Eminem, you're Machine Gun Kelly!"
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Machine Gun Kelly",
+        "type": "mention",
+        "label": " I'm fast food Eminem, you're Machine Gun Kelly!"
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Nice Peter",
+        "type": "mention",
+        "label": " Let's be real here, I'm Nice Peter and you're EpicLLOYD",
+        "episode": 74,
+        "timestamp": {"begin": 50, "end": 54}
+    }, {
+        "from": "Ronald McDonald",
+        "to": "EpicLLOYD",
+        "type": "mention",
+        "label": " Let's be real here, I'm Nice Peter and you're EpicLLOYD",
+        "episode": 74,
+        "timestamp": {"begin": 50, "end": 54}
+    }, {
+        "from": "The Burger King",
+        "to": "Pennywise",
+        "type": "mention",
+        "implicit": true,
+        "label": "You look like you just ate someone's brother in a storm drain",
+        "episode": 74,
+        "timestamp": {"begin": 64, "end": 68}
+    }, {
+        "from": "The Burger King",
+        "to": "Ray Kroc",
+        "type": "mention",
+        "label": " Those rhymes you just spit are a Ray Kroc of shit!"
+    }, {
+        "from": "The Burger King",
+        "to": "Mayor McCheese",
+        "type": "mention",
+        "label": " The whole head of your government is named Mayor McCheese!"
+    }, {
+        "from": "The Burger King",
+        "to": "Justin Timberlake",
+        "type": "mention",
+        "label": "  I ain't loving shit, even if Timberlake sings!"
+    }, {
+        "from": "Ronald McDonald",
+        "to": "Willard Scott",
+        "type": "mention",
+        "label": " I had the same fries since I was Willard Scott the Weather Man!"
+    }, {
+        "from": "Wendy's",
+        "to": "Pippi Longstocking",
+        "type": "mention",
+        "label": "It's Wendy! The hip-hopping Pippi Longstocking! "
+    }, {
+        "from": "George Carlin",
+        "to": "Richard Pryor",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "George Carlin",
+        "to": "Bill Cosby",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "George Carlin",
+        "to": "Joan Rivers",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "George Carlin",
+        "to": "Robin Williams",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Richard Pryor",
+        "to": "Bill Cosby",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Richard Pryor",
+        "to": "Joan Rivers",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Richard Pryor",
+        "to": "Robin Williams",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Bill Cosby",
+        "to": "Joan Rivers",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Bill Cosby",
+        "to": "Robin Williams",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Joan Rivers",
+        "to": "Robin Williams",
+        "type": "battle",
+        "label": "George Carlin vs. Richard Pryor (S06E04)",
+        "episode": 75,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "George Carlin",
+        "to": "Carlton Banks",
+        "type": "mention",
+        "label": " While you're the least threatening black dude since Carlton!"
+    }, {
+        "from": "George Carlin",
+        "to": "Gene Wilder",
+        "type": "mention",
+        "label": " Wilder than Gene when I'm killing the beat!"
+    }, {
+        "from": "Joan Rivers",
+        "to": "Hannibal Buress",
+        "type": "mention",
+        "label": " So let me end you real quick like I was Hannibal Buress (Ohh!)"
+    }, {
+        "from": "Joan Rivers",
+        "to": "Rufus (Bill & Ted)",
+        "type": "mention",
+        "label": " Enough with the roofies, let me move on to Rufus"
+    }, {
+        "from": "Robin Williams",
+        "to": "Mork (Mork & Mindy)",
+        "type": "mention",
+        "label": " Mork aged backwards and Joan, you must too!"
+    }, {
+        "from": "Robin Williams",
+        "to": "Mork (Mork & Mindy)",
+        "type": "mention",
+        "label": " Mork aged backwards and Joan, you must too!"
+    }, {
+        "from": "Robin Williams",
+        "to": "Mork (Mork & Mindy)",
+        "type": "mention",
+        "label": " Mork aged backwards and Joan, you must too!"
+    }, {
+        "from": "Jacques Cousteau",
+        "to": "Steve Irwin",
+        "type": "battle",
+        "label": "Jacques Cousteau vs. Steve Irwin (S06E05)",
+        "episode": 76,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Jacques Cousteau",
+        "to": "Bill Murray",
+        "type": "mention",
+        "label": " I'm so cool, Bill Murray played me in ze movie"
+    }, {
+        "from": "Jacques Cousteau",
+        "to": "Doctor Dolittle",
+        "type": "mention",
+        "label": " I have Oscars! You're in Doctor Dolittle 2!"
+    }, {
+        "from": "Jacques Cousteau",
+        "to": "Skippy the Bush Kangaroo",
+        "type": "mention",
+        "label": " Hey Skippy, the bush-league kangaroo"
+    }, {
+        "from": "Steve Irwin",
+        "to": "Papa Smurf",
+        "type": "mention",
+        "label": " He's cranky 'cause he has to wear a Papa Smurf hat!"
+    }, {
+        "from": "Steve Irwin",
+        "to": "Mother Nature",
+        "type": "mention",
+        "label": " I'm Mother Nature's greatest conservationist"
+    }, {
+        "from": "Mother Teresa",
+        "to": "Sigmund Freud",
+        "type": "battle",
+        "label": "Mother Teresa vs. Sigmund Freud (S06E06)",
+        "episode": 77,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Mother Teresa",
+        "to": "Jesus Christ",
+        "type": "mention",
+        "label": " Three stripes like Adidas, and I'm doing it for Jesus"
+    }, {
+        "from": "Sigmund Freud",
+        "to": "God",
+        "type": "mention",
+        "label": " Thank imaginary God I wasn't in one of your beds"
+    }, {
+        "from": "Sigmund Freud",
+        "to": "Whoopi Goldberg",
+        "type": "mention",
+        "label": " You're the fakest Sister Act since Whoopi Goldberg!"
+    }, {
+        "from": "Sigmund Freud",
+        "to": "Whoopi Goldberg",
+        "type": "mention",
+        "label": " You're the fakest Sister Act since Whoopi Goldberg!"
+    }, {
+        "from": "Count Dracula",
+        "to": "Vlad the Impaler",
+        "type": "battle",
+        "label": "Vlad the Impaler vs. Count Dracula (S06E07)",
+        "episode": 78,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Vlad the Impaler",
+        "to": "Count Chocula",
+        "type": "mention",
+        "label": " I inspire fear, you inspire Count Chocula"
+    }, {
+        "from": "Count Dracula",
+        "to": "Winona Ryder",
+        "type": "mention",
+        "label": " I shapeshift into mist and bone Winona Ryder"
+    }, {
+        "from": "Count Dracula",
+        "to": "Anne Rice",
+        "type": "mention",
+        "label": " While you've got less taste than an Anne Rice cake"
+    }, {
+        "from": "Vlad the Impaler",
+        "to": "Bunnicula",
+        "type": "mention",
+        "label": " Haven't seen a sucker this soft, since Bunnicula"
+    }, {
+        "from": "Vlad the Impaler",
+        "to": "Shaquille O'Neal",
+        "type": "mention",
+        "label": " I dunk on your wackula raps like I'm Shaqula (Oh!)"
+    }, {
+        "from": "Count Dracula",
+        "to": "Nosferatu",
+        "type": "mention",
+        "label": " I'm the vampire so cold they call me Nosfer-achoo!"
+    }, {
+        "from": "Count Dracula",
+        "to": "Jacob Black (Twilight)",
+        "type": "mention",
+        "label": " You're losing so bad you should join Team Jacob"
+    }, {
+        "from": "Count Dracula",
+        "to": "R. M. Renfield",
+        "type": "mention",
+        "label": "Renfield!"
+    }, {
+        "from": "Count Dracula",
+        "to": "Doctor Seward (Count Dracula)",
+        "type": "mention",
+        "label": " Call a doctor, not Seward (ugh!)!"
+    }, {
+        "from": "The Joker",
+        "to": "Pennywise",
+        "type": "battle",
+        "label": "The Joker vs. Pennywise (S06E08)",
+        "episode": 79,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "The Joker",
+        "to": "Joaquin Phoenix",
+        "type": "mention",
+        "implicit": true,
+        "label": " But I can't be killed. That's why they cast a Phoenix to play me! (Hee-hee!)"
+    }, {
+        "from": "The Joker",
+        "to": "Harley Quinn",
+        "type": "mention",
+        "implicit": true,
+        "label": " I'm the Harlequin of hate, the Clown Prince of Crime."
+    }, {
+        "from": "The Joker",
+        "to": "Stephen King",
+        "type": "mention",
+        "label": " You're a sewer troll that Stephen King wrote between his lines!",
+        "episode": 79,
+        "timestamp": {"begin": 23, "end": 27}
+    }, {
+        "from": "The Joker",
+        "to": "Wonder Woman",
+        "type": "cameo",
+        "label": " I make the Justice League look like just a bunch of super schlubs.",
+        "episode": 79,
+        "timestamp": {"begin": 41, "end": 44}
+    }, {
+        "from": "The Joker",
+        "to": "Superman",
+        "type": "cameo",
+        "label": " I make the Justice League look like just a bunch of super schlubs.",
+        "episode": 79,
+        "timestamp": {"begin": 41, "end": 44}
+    }, {
+        "from": "The Joker",
+        "to": "Batman",
+        "type": "cameo",
+        "label": " I make the Justice League look like just a bunch of super schlubs.",
+        "episode": 79,
+        "timestamp": {"begin": 41, "end": 44}
+    }, {
+        "from": "Pennywise",
+        "to": "Jack Nicholson",
+        "type": "mention",
+        "label": " Jack Nicholson played you just fine, but lately the castings declined."
+    }, {
+        "from": "Pennywise",
+        "to": "Jared Leto",
+        "type": "mention",
+        "label": " Jared Leto came out trying to look like he was Tekashi 6ix9ine!"
+    }, {
+        "from": "Pennywise",
+        "to": "Tekashi 6ix9ine",
+        "type": "mention",
+        "label": " Jared Leto came out trying to look like he was Tekashi 6ix9ine!"
+    }, {
+        "from": "The Joker",
+        "to": "Donatello (TMNT)",
+        "type": "mention",
+        "implicit": true,
+        "label": "You lost to a turtle who wasn't even a ninja!",
+        "episode": 79,
+        "timestamp": {"begin": 99, "end": 102}
+    }, {
+        "from": "The Joker",
+        "to": "Michelangelo (TMNT)",
+        "type": "mention",
+        "implicit": true,
+        "label": "You lost to a turtle who wasn't even a ninja!",
+        "episode": 79,
+        "timestamp": {"begin": 99, "end": 102}
+    },  {
+        "from": "The Joker",
+        "to": "Raphael (TMNT)",
+        "type": "mention",
+        "implicit": true,
+        "label": "You lost to a turtle who wasn't even a ninja!",
+        "episode": 79,
+        "timestamp": {"begin": 99, "end": 102}
+    },  {
+        "from": "The Joker",
+        "to": "Leonardo (TMNT)",
+        "type": "mention",
+        "implicit": true,
+        "label": "You lost to a turtle who wasn't even a ninja!",
+        "episode": 79,
+        "timestamp": {"begin": 99, "end": 102}
+    },  {
+        "from": "The Joker",
+        "to": "Mark Hamill",
+        "type": "mention",
+        "implicit": true,
+        "label": "When I flow, I go Mark Ham with ill zingers."
+    }, {
+        "from": "The Joker",
+        "to": "Bob Kane",
+        "type": "mention",
+        "label": " I steal the show like Bob Kane stole from Bill Finger! (Ha-ha-ha!)"
+    }, {
+        "from": "The Joker",
+        "to": "Bill Finger",
+        "type": "mention",
+        "label": " I steal the show like Bob Kane stole from Bill Finger! (Ha-ha-ha!)"
+    }, {
+        "from": "Pennywise",
+        "to": "Heath Ledger",
+        "type": "mention",
+        "label": " But no one's dying to play with Joker. Except for maybe Heath Ledger!"
+    }, {
+        "from": "Pennywise",
+        "to": "Harley Quinn",
+        "type": "mention",
+        "label": " Puddin, you're an embarrassment, I'll beat you like you beat Harley Quinn."
+    }, {
+        "from": "Pennywise",
+        "to": "Steve Harvey",
+        "type": "mention",
+        "label": "  That purple suit is something you should only see Steve Harvey in!"
+    }, {
+        "from": "Pennywise",
+        "to": "Batman",
+        "type": "mention",
+        "label": " If you wanna kill a Batman, eat him when he's a boy!",
+        "episode": 79,
+        "timestamp": {"begin": 146, "end": 150}
+    }, {
+        "from": "The Joker",
+        "to": "Tim Curry",
+        "type": "mention",
+        "implicit": true,
+        "label": " But I'll shoo you down the drain so fast, they'll call you Tim Scurry."
+    }, {
+        "from": "The Joker",
+        "to": "Robin",
+        "type": "mention",
+        "label": " Ask Robin if I drop bars! I take smiles and I leave scars!",
+        "episode": 79,
+        "timestamp": {"begin": 177, "end": 181}
+    }, {
+        "from": "Pennywise",
+        "to": "H.P. Lovecraft",
+        "type": "mention",
+        "label": " Arkham? Ha! You stole that from H.P. Lovecraft."
+    }, {
+        "from": "Pennywise",
+        "to": "Cesar Romero",
+        "type": "mention",
+        "label": " Who needs guards when you couldn't even escape Cesar Romero's mustache."
+    }, {
+        "from": "Pennywise",
+        "to": "Scooby Doo",
+        "type": "mention",
+        "label": " (Woo!) I spit January ember flames! (Woo!) You got beat by the Scooby Gang. (Woo!)"
+    }, {
+        "from": "Pennywise",
+        "to": "John Wayne Gacy",
+        "type": "mention",
+        "label": " I'm the John Wayne of John Wayne Gacys, the underground Clown Posse, my flow's Insane!"
+    }, {
+        "from": "Pennywise",
+        "to": "Insane Clown Posse",
+        "type": "mention",
+        "implicit": true,
+        "label": " I'm the John Wayne of John Wayne Gacys, the underground Clown Posse, my flow's Insane!"
+    }, {
+        "from": "Pennywise",
+        "to": "Notorious B.I.G.",
+        "type": "mention",
+        "label": "'Cause he just messed with the best wall-eyed rapper since the Notorious B.I.G. (Wu-ha-ha!) "
+    }, {
+        "from": "Thanos",
+        "to": "J. Robert Oppenheimer",
+        "type": "battle",
+        "label": "Thanos vs. J. Robert Oppenheimer (S06E09)",
+        "episode": 80,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Thanos",
+        "to": "Loki",
+        "type": "mention",
+        "label": "I will Loki choke you out like my name was Throat Cancer."
+    }, {
+        "from": "Thanos",
+        "to": "Dr. Manhattan",
+        "type": "mention",
+        "label": " Stick your tiny nuclear dick back into your pants, Dr. Manhattan"
+    }, {
+        "from": "J. Robert Oppenheimer",
+        "to": "Tony Stark",
+        "type": "mention",
+        "label": " You need an Iron, Man, for that wrinkly-ass skin"
+    }, {
+        "from": "J. Robert Oppenheimer",
+        "to": "Drax the Destroyer",
+        "type": "mention",
+        "label": " You talk so slow Drax thinks you're invisible"
+    }, {
+        "from": "J. Robert Oppenheimer",
+        "to": "Death",
+        "type": "mention",
+        "label": " You wanna talk about Death?",
+        "episode": 80,
+        "timestamp": {"begin": 147, "end": 152}
+    }, {
+        "from": "J. Robert Oppenheimer",
+        "to": "Squirrel Girl",
+        "type": "mention",
+        "label": " You got your nuts handed to you by a Squirrel Girl"
+    }, {
+        "from": "J. Robert Oppenheimer",
+        "to": "Tinky Winky (Teletubbies)",
+        "type": "mention",
+        "label": " We're in the endgame now, Tinky Winky"
+    }, {
+        "from": "J. Robert Oppenheimer",
+        "to": "Ant-Man",
+        "type": "mention",
+        "label": " I'll finish this like Ant-Man, all up in your stinky"
+    }, {
+        "from": "Donald Trump",
+        "to": "Joe Biden",
+        "type": "battle",
+        "label": "Donald Trump vs. Joe Biden (S06E10)",
+        "episode": 81,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Donald Trump",
+        "to": "Qasem Soleimani",
+        "type": "mention",
+        "label": " Bigger than the one I blew through Qasem Soleimani (Uh!)"
+    }, {
+        "from": "Donald Trump",
+        "to": "'Dapper Don' John Gotti",
+        "type": "mention",
+        "label": " The Teflon Don on the White House lawn!"
+    }, {
+        "from": "Donald Trump",
+        "to": "Melania Trump",
+        "type": "mention",
+        "label": " Then I go and bone on Melania"
+    }, {
+        "from": "Donald Trump",
+        "to": "MC Hammer",
+        "type": "mention",
+        "implicit": true,
+        "label": " I'm not a little girl's shoulders, so you can't touch this, MC Stammer!"
+    }, {
+        "from": "Donald Trump",
+        "to": "Barack Obama",
+        "type": "mention",
+        "label": " You're just Barack's shadow, and I don't really like the shade!",
+        "episode": 81,
+        "timestamp": {"begin": 48, "end": 51}
+    }, {
+        "from": "Joe Biden",
+        "to": "Jeffrey Epstein",
+        "type": "mention",
+        "label": " So I knew how you must have felt when they killed Jeffrey Epstein! (Ooh!)"
+    }, {
+        "from": "Joe Biden",
+        "to": "Kim Jong Un",
+        "type": "mention",
+        "label": " You should stick to love letters for Kim Jong Un!"
+    }, {
+        "from": "Joe Biden",
+        "to": "Stormy Daniels",
+        "type": "mention",
+        "label": " You pulled out of Paris, should have pulled out of Stormy Daniels!"
+    }, {
+        "from": "Joe Biden",
+        "to": "Breonna Taylor",
+        "type": "mention",
+        "label": "Was Breonna Taylor running? Hmm? You dog whistling fool?"
+    }, {
+        "from": "Joe Biden",
+        "to": "Fred Trump",
+        "type": "mention",
+        "label": "I think your Daddy would finally be proud of you: he was a racist asshole, too"
+    }, {
+        "from": "Donald Trump",
+        "to": "Hunter Biden",
+        "type": "mention",
+        "implicit": true,
+        "label": "Maybe teach your son a thing or two about life"
+    }, {
+        "from": "Donald Trump",
+        "to": "Hallie Olivere",
+        "type": "mention",
+        "implicit": true,
+        "label": "Like there’s no hunting season for your dead brother’s wife"
+    }, {
+        "from": "Joe Biden",
+        "to": "Herbert Hoover",
+        "type": "mention",
+        "label": " You're the worst damn Republican since Herbert Hoover!"
+    }, {
+        "from": "Joe Biden",
+        "to": "John McCain",
+        "type": "mention",
+        "label": " And you think they're suckers like McCain and the Marine Corps!"
+    }, {
+        "from": "Joe Biden",
+        "to": "Vladimir Putin",
+        "type": "mention",
+        "label": " When we go high, you go down on Putin! (Uh!)",
+        "episode": 81,
+        "timestamp": {"begin": 163, "end": 167}
+    }, {
+        "from": "Harry Potter",
+        "to": "Luke Skywalker",
+        "type": "battle",
+        "label": "Harry Potter vs. Luke Skywalker (S06E11)",
+        "episode": 82,
+        "timestamp": {"begin": 0, "end": -1}
+    }, {
+        "from": "Harry Potter",
+        "to": "Hermione Granger",
+        "type": "mention",
+        "label": " Like Hermione and Ron, I'm about to get it on!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Ron Weasley",
+        "type": "mention",
+        "label": " Like Hermione and Ron, I'm about to get it on!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Hermione Granger",
+        "type": "cameo",
+        "label": " Like Hermione and Ron, I'm about to get it on!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Crookshanks",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Ron Weasley",
+        "type": "cameo",
+        "label": " Like Hermione and Ron, I'm about to get it on!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Alastor Moody",
+        "type": "mention",
+        "label": " Even the mad eye of my man Alastor Moody"
+    }, {
+        "from": "Harry Potter",
+        "to": "Alastor Moody",
+        "type": "cameo",
+        "label": " Even the mad eye of my man Alastor Moody"
+    }, {
+        "from": "Harry Potter",
+        "to": "Owen Lars",
+        "type": "mention",
+        "label": " You're getting smoked, like your uncle Owen and aunt Beru!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Beru Whitesun",
+        "type": "mention",
+        "label": " You're getting smoked, like your uncle Owen and aunt Beru!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Buckbeak",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "R2D2",
+        "type": "mention",
+        "implicit": true,
+        "label": " Your acting's flat and your raps are 2D too!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Darth Vader",
+        "type": "cameo",
+        "label": " It makes sense your father's Vader. All you do is choke! (uh!)",
+        "episode": 82,
+        "timestamp": {"begin": 38, "end": 41}
+    }, {
+        "from": "Harry Potter",
+        "to": "Dean Thomas",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Snoke",
+        "type": "mention",
+        "label": " You're the biggest letdown in your series since Snoke!"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Dumbledore",
+        "type": "cameo",
+        "label": " Suddenly gets taken under wing of funky wizard dude",
+        "episode": 82,
+        "timestamp": {"begin": 70, "end": 73}
+    }, {
+        "from": "Luke Skywalker",
+        "to": "C-3PO",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "C1-10P",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Chewbacca",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Chief Chirpa",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Obi-Wan Kenobi",
+        "type": "cameo",
+        "label": " Learns that he's been destined to have powerful gifts"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Yoda",
+        "type": "cameo",
+        "label": " Learns that he's been destined to have powerful gifts"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Han Solo",
+        "type": "cameo",
+        "label": "  Land 'em in your face like (that'll do nicely)"
+    }, {
+        "from": "Harry Potter",
+        "to": "Lily Evans Potter",
+        "type": "mention",
+        "implicit": true,
+        "label": " The death of my mother saved the wizarding race"
+    }, {
+        "from": "Harry Potter",
+        "to": "Padmé Amidala",
+        "type": "mention",
+        "implicit": true,
+        "label": " Your mum died of heartache when she saw your face!"
+    }, {
+        "from": "Harry Potter",
+        "to": "J. K. Rowling",
+        "type": "mention",
+        "label": " I left J.K. straight rolling in cash!"
+    }, {
+        "from": "Harry Potter",
+        "to": "J. J. Abrams",
+        "type": "mention",
+        "label": " You let J.J. compact your character to trash!"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "R2-D2",
+        "type": "mention",
+        "label": " That's right R2, it does sound like he left all his fire in the goblet"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Emperor Palpatine",
+        "type": "cameo",
+        "label": "I crushed an Empire galaxy large."
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Marjorie Dursley",
+        "type": "mention",
+        "label": " I blew up the Death Star, you blew up Aunt Marge!"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Poppy Pomfrey",
+        "type": "mention",
+        "label": " I'll pop you where Poppy Pomfrey can't be healing you"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Death",
+        "type": "mention",
+        "label": " Death would eat you up without Hermione and luck",
+        "episode": 82,
+        "timestamp": {"begin": 160, "end": 164}
+    }, {
+        "from": "Harry Potter",
+        "to": "Fred Weasley",
+        "type": "mention",
+        "label": " I roll deep and the Weasley's got my back!"
+    }, {
+        "from": "Harry Potter",
+        "to": "George Weasley",
+        "type": "mention",
+        "label": " I roll deep and the Weasley's got my back!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Fred Weasley",
+        "type": "cameo",
+        "label": " I roll deep and the Weasley's got my back!"
+    }, {
+        "from": "Harry Potter",
+        "to": "George Weasley",
+        "type": "cameo",
+        "label": " I roll deep and the Weasley's got my back!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Olsen Twins",
+        "type": "mention",
+        "label": " You're the least intimidating twin since Mary-Kate!"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Rubeus Hagrid",
+        "type": "mention",
+        "label": " You should have Hagrid fly you home on his moped"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Selena Gomez",
+        "type": "mention",
+        "label": " If I wanted teenage wizardry I'd call Selena Gomez!"
+    }, {
+        "from": "Harry Potter",
+        "to": "Cho Chang",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Selena Gomez",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Hedwig",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Porpentina Goldstein",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Peter Pettigrew",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Luna Lovegood",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Remus Lupin",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Rubeus Hagrid",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Norbert",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Neville Longbottom",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "The trolley witch",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Severus Snape",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Molly Weasley",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Lucius Malfoy",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Vernon Dursley",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Petunia Dursley",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Sirius Black",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "J. K. Rowling",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Death Eaters",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Lucian Bole",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Sybill Trelawney",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Minerva McGonagall",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Newt Scamander",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Jacob Kowalski",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Griphook",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Lord Voldemort",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Ginny Weasley",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Fenrir Greyback",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Draco Malfoy",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Dudley Dursley",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Dusty Bin",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Harry Potter",
+        "to": "Dobby",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Owen Lars",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Beru Whitesun",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Snoke",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "R5-D4",
+        "type": "cameo",
+        "label": "Your origin story is mostly stolen from me."
+    }, {
+        "from": "Luke Skywalker",
+        "to": "WED-15-ST68",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "R1-G4",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "R2-D2",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Leia Organa",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Jar Jar Binks",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "J. J. Abrams",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Wicket W. Warrick",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Logray",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Teebo",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Lando Calrissian",
+        "type": "cameo",
+        "label": ""
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Bellatrix Lestrange",
+        "type": "mention",
+        "label": " Twist you up like death sticks, I'm Bellatrix - dead Sirius!"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Bellatrix Lestrange",
+        "type": "cameo",
+        "label": " Twist you up like death sticks, I'm Bellatrix - dead Sirius!"
+    }, {
+        "from": "Luke Skywalker",
+        "to": "Sirius Black",
+        "type": "mention",
+        "label": " Twist you up like death sticks, I'm Bellatrix - dead Sirius!"
     }
 ]
