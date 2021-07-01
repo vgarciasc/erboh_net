@@ -11,3 +11,5 @@ This repository stores the files associated with the "ERB Reference Network". A 
 You can visualize the network and read more about it [here](https://vinizinho.neocities.org/projects/erboh_net/).
 
 ![](https://i.imgur.com/7Vt1zjb.png)
+
+LICENSE: You can use this for whatever you want! I'd just ask for you to link to this page so other people can know about it :)
