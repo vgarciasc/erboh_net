@@ -1035,16 +1035,6 @@
         "episode": 28,
         "timestamp": {"begin": 0, "end": -1}
     }, {
-        "to": "Eve",
-        "from": "Steve",
-        "type": "mention",
-        "label": "I work, while you and your boyfriend Steve drink and play sports in a fantasy league!"
-    }, {
-        "to": "Eve",
-        "from": "Steve",
-        "type": "cameo",
-        "label": "I work, while you and your boyfriend Steve drink and play sports in a fantasy league!"
-    }, {
         "from": "Gandhi",
         "to": "Martin Luther King Jr.",
         "type": "battle",
@@ -1455,7 +1445,7 @@
         "to": "Adolf Hitler",
         "type": "mention",
         "label": "I'll whoop your face back to your Hitler mustache",
-        "episode": 33,
+        "episode": 38,
         "timestamp": {"begin": 52, "end": 55}
     }, {
         "from": "Michael Jordan",
@@ -2779,7 +2769,7 @@
         "to": "Wolverine",
         "type": "mention",
         "label": "  You got Wolverine's powers, man, you're comic sloppy seconds",
-        "episode": 56,
+        "episode": 58,
         "timestamp": {"begin": 60, "end": 63}
     }, {
         "from": "Boba Fett",
@@ -3759,7 +3749,9 @@
         "from": "Guy Fawkes",
         "to": "J. P. Morgan",
         "type": "mention",
-        "label": "Making capitalists rich off of you on merch!"
+        "label": "Making capitalists rich off of you on merch!",
+        "episode": 73,
+        "timestamp": {"begin": 53, "end": 56}
     }, {
         "from": "Ronald McDonald",
         "to": "The Burger King",
@@ -4834,5 +4826,12 @@
         "to": "Sirius Black",
         "type": "mention",
         "label": " Twist you up like death sticks, I'm Bellatrix - dead Sirius!"
+    }, {
+        "from": "Ragnar Lodbrok",
+        "to": "Richard The Lionheart",
+        "type": "battle",
+        "label": "Ragnar Lodbrok vs Richard The Lionheart (S??E??)",
+        "episode": 83,
+        "timestamp": {"begin": 0, "end": -1}
     }
 ]

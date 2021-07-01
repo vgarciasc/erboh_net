@@ -1191,14 +1191,6 @@
             {
                 "data": {
                     "appeared": true,
-                    "id": "Steve",
-                    "value": "Steve",
-                    "name": "Steve"
-                }
-            },
-            {
-                "data": {
-                    "appeared": true,
                     "id": "Gandhi",
                     "value": "Gandhi",
                     "name": "Gandhi"
@@ -4938,6 +4930,22 @@
                     "id": "Bellatrix Lestrange",
                     "value": "Bellatrix Lestrange",
                     "name": "Bellatrix Lestrange"
+                }
+            },
+            {
+                "data": {
+                    "appeared": true,
+                    "id": "Ragnar Lodbrok",
+                    "value": "Ragnar Lodbrok",
+                    "name": "Ragnar Lodbrok"
+                }
+            },
+            {
+                "data": {
+                    "appeared": true,
+                    "id": "Richard The Lionheart",
+                    "value": "Richard The Lionheart",
+                    "name": "Richard The Lionheart"
                 }
             }
         ],
@@ -8680,31 +8688,6 @@
             },
             {
                 "data": {
-                    "label": "",
-                    "kind": "cameo",
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
-                    "source": "Eve",
-                    "target": "Steve"
-                }
-            },
-            {
-                "data": {
-                    "label": "I work, while you and your boyfriend Steve drink and play sports in a fantasy league!",
-                    "kind": "cameo",
-                    "callback": true,
-                    "foreshadow": false,
-                    "implicit": false,
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
-                    "source": "Steve",
-                    "target": "Eve"
-                }
-            },
-            {
-                "data": {
                     "label": "Gandhi vs. Martin Luther King Jr. (S02E14)",
                     "kind": "battle",
                     "episode": 29,
@@ -9692,7 +9675,7 @@
                     "callback": false,
                     "foreshadow": true,
                     "implicit": false,
-                    "episode": 56,
+                    "episode": 58,
                     "timestamp_begin": 60,
                     "timestamp_end": 63,
                     "source": "Boba Fett",
@@ -10132,7 +10115,7 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": 33,
+                    "episode": 38,
                     "timestamp_begin": 52,
                     "timestamp_end": 55,
                     "source": "Muhammad Ali",
@@ -17089,9 +17072,9 @@
                     "callback": true,
                     "foreshadow": false,
                     "implicit": false,
-                    "episode": "",
-                    "timestamp_begin": "",
-                    "timestamp_end": "",
+                    "episode": 73,
+                    "timestamp_begin": 53,
+                    "timestamp_end": 56,
                     "source": "Guy Fawkes",
                     "target": "J. P. Morgan"
                 }
@@ -19504,6 +19487,28 @@
                     "timestamp_end": "",
                     "source": "Bellatrix Lestrange",
                     "target": "Luke Skywalker"
+                }
+            },
+            {
+                "data": {
+                    "label": "Ragnar Lodbrok vs Richard The Lionheart (S??E??)",
+                    "kind": "battle",
+                    "episode": 83,
+                    "timestamp_begin": 0,
+                    "timestamp_end": -1,
+                    "source": "Ragnar Lodbrok",
+                    "target": "Richard The Lionheart"
+                }
+            },
+            {
+                "data": {
+                    "label": "",
+                    "kind": "battle",
+                    "episode": 83,
+                    "timestamp_begin": 0,
+                    "timestamp_end": -1,
+                    "source": "Richard The Lionheart",
+                    "target": "Ragnar Lodbrok"
                 }
             }
         ]
